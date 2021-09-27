@@ -6101,7 +6101,7 @@
       "creator": "LISA",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio2/Lalisa-LISA-7086697.mp3?st=Yn_7VpdvIXp1FdK2zlyb8Q&e=1631635385",
-      "title": "Lalisa",
+      "name": "Lalisa",
       "url": "https://www.nhaccuatui.com/bai-hat/lalisa-lisa.qcCxlPet18cu.html"
     },
     {
@@ -6111,7 +6111,7 @@
       "creator": "LISA",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio2/Money-LISA-7086698.mp3?st=0hzqOQMTgAe0bgrkjvgnHw&e=1631635385",
-      "title": "Money",
+      "name": "Money",
       "url": "https://www.nhaccuatui.com/bai-hat/money-lisa.QULPMaVJKR11.html"
     },
     {
@@ -6121,7 +6121,7 @@
       "creator": "ROSÉ",
       "lyric": "https://lrc-nct.nixcdn.com/2021/04/01/8/f/f/4/1617211023518.lrc",
       "music": "https://aredir.nixcdn.com/YG_Audio1/Gone-ROSE-6964052.mp3?st=oTCjO7LHBTw75VdAcijsxQ&e=1631635385",
-      "title": "Gone",
+      "name": "Gone",
       "url": "https://www.nhaccuatui.com/bai-hat/gone-rose.LCMlhmEob9Fl.html"
     },
     {
@@ -6131,7 +6131,7 @@
       "creator": "ROSÉ",
       "lyric": "https://lrc-nct.nixcdn.com/2021/03/25/3/b/0/1/1616634269302.lrc",
       "music": "https://aredir.nixcdn.com/YG_Audio1/OnTheGround-ROSE-6964051.mp3?st=ijZyob5xtHbQzvZcfiSciQ&e=1631635385",
-      "title": "On The Ground",
+      "name": "On The Ground",
       "url": "https://www.nhaccuatui.com/bai-hat/on-the-ground-rose.ognq0zWmtoHd.html"
     },
     {
@@ -6141,7 +6141,7 @@
       "creator": "aespa",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1016/NextLevel-aespa-7021130.mp3?st=yuBLwUM-NQ7cncjxHCLAKg&e=1631635385",
-      "title": "Next Level",
+      "name": "Next Level",
       "url": "https://www.nhaccuatui.com/bai-hat/next-level-aespa.t3WNBWHoLWGd.html"
     },
     {
@@ -6151,7 +6151,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/2020/06/26/f/0/0/1/1593166329067.lrc",
       "music": "https://aredir.nixcdn.com/YG_Audio1/HowYouLikeThat-BLACKPINK-6720100.mp3?st=66egF8z-UNqAzFvlljYDIw&e=1631635385",
-      "title": "How You Like That",
+      "name": "How You Like That",
       "url": "https://www.nhaccuatui.com/bai-hat/how-you-like-that-blackpink.kiqKPIGPJ15C.html"
     },
     {
@@ -6161,7 +6161,7 @@
       "creator": "JENNIE",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui971/Solo-JennieBlackPink-5738971.mp3?st=mbqkxBro-YXnd36oqkeSFA&e=1631635385",
-      "title": "Solo",
+      "name": "Solo",
       "url": "https://www.nhaccuatui.com/bai-hat/solo-jennie.iA7fq5hQqU3F.html"
     },
     {
@@ -6171,7 +6171,7 @@
       "creator": "SOMI",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio2/DumbDumb-NhacCuaTui-7058906.mp3?st=MZONs6mhNRPWvW-dLODOAA&e=1631635385",
-      "title": "Dumb Dumb",
+      "name": "Dumb Dumb",
       "url": "https://www.nhaccuatui.com/bai-hat/dumb-dumb-somi.alnx10Fq6Gfu.html"
     },
     {
@@ -6181,7 +6181,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/LovesickGirls-BLACKPINK-6720104.mp3?st=kIdkTxb0b9rLVFAF8U-6qQ&e=1631635385",
-      "title": "Lovesick Girls",
+      "name": "Lovesick Girls",
       "url": "https://www.nhaccuatui.com/bai-hat/lovesick-girls-blackpink.P7pRcQxX72jT.html"
     },
     {
@@ -6191,7 +6191,7 @@
       "creator": "Lee Hi",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Only-LeeHi-7076476.mp3?st=CxQxCMvBTZ-NIoJOyM-AAA&e=1631635385",
-      "title": "Only",
+      "name": "Only",
       "url": "https://www.nhaccuatui.com/bai-hat/only-lee-hi.2GY0N0EwErjG.html"
     },
     {
@@ -6201,7 +6201,7 @@
       "creator": "Red Velvet",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Queendom-RedVelvet-7068439.mp3?st=T5Tu75btbQ17v15OR0KbFw&e=1631635385",
-      "title": "Queendom",
+      "name": "Queendom",
       "url": "https://www.nhaccuatui.com/bai-hat/queendom-red-velvet.FBqrXuhxrX6T.html"
     },
     {
@@ -6211,7 +6211,7 @@
       "creator": "Lee Suhyun (AKMU), Onew (SHINee)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/FlyingDeepInNight-LeeSuhyunAKMUOnewSHINee-7075107.mp3?st=ROTMR1SMutezj7KGOiQkmA&e=1631635385",
-      "title": "Flying, Deep In The Night",
+      "name": "Flying, Deep In The Night",
       "url": "https://www.nhaccuatui.com/bai-hat/flying-deep-in-the-night-lee-suhyun-akmu-ft-onew-shinee.pGmJiWuCdU59.html"
     },
     {
@@ -6221,7 +6221,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/DduduDdudu-BLACKPINK-6291998.mp3?st=2uoXxC32h7dTM2YnjSV1dA&e=1631635385",
-      "title": "DDU-DU DDU-DU",
+      "name": "DDU-DU DDU-DU",
       "url": "https://www.nhaccuatui.com/bai-hat/ddu-du-ddu-du-blackpink.nS0OePwUnQIa.html"
     },
     {
@@ -6231,7 +6231,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/PrettySavage-BLACKPINK-6720102.mp3?st=hN2gRsR_toegipe_5MD7cg&e=1631635385",
-      "title": "Pretty Savage",
+      "name": "Pretty Savage",
       "url": "https://www.nhaccuatui.com/bai-hat/pretty-savage-blackpink.k2b1JEko9HUW.html"
     },
     {
@@ -6241,7 +6241,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/KillThisLove-BLACKPINK-6291967.mp3?st=5r1vYhmv_xepNjjS2NdM8w&e=1631635385",
-      "title": "Kill This Love",
+      "name": "Kill This Love",
       "url": "https://www.nhaccuatui.com/bai-hat/kill-this-love-blackpink.Nhj2faFaSq0i.html"
     },
     {
@@ -6251,7 +6251,7 @@
       "creator": "HyunA, Dawn",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/PingPong-HyunADawn-7085605.mp3?st=OmpuWu7sMn_O63T1R-uozA&e=1631635385",
-      "title": "Ping Pong",
+      "name": "Ping Pong",
       "url": "https://www.nhaccuatui.com/bai-hat/ping-pong-hyuna-ft-dawn.J5ESerqdalDV.html"
     },
     {
@@ -6261,7 +6261,7 @@
       "creator": "Jung Kook (BTS)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui999/StillWithYou-JungKookBTS-6289699.mp3?st=q2650GUFBf_b4JDpDVA61Q&e=1631635385",
-      "title": "Still With You",
+      "name": "Still With You",
       "url": "https://www.nhaccuatui.com/bai-hat/still-with-you-jung-kook-bts.Xd6MKLS2B8UH.html"
     },
     {
@@ -6271,7 +6271,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/AsIfItSYourLast-BLACKPINK-6292053.mp3?st=KoVgAPy7KXjVQC1pjSmXxA&e=1631635385",
-      "title": "As If It's Your Last",
+      "name": "As If It's Your Last",
       "url": "https://www.nhaccuatui.com/bai-hat/as-if-its-your-last-blackpink.HsHACbKPljYE.html"
     },
     {
@@ -6281,7 +6281,7 @@
       "creator": "Sam Kim",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/Warner_Audio72/LoveMeLikeThat-SamKim-7053078.mp3?st=z9lVZTF0W9kwNxo5Detu9g&e=1631635385",
-      "title": "Love Me Like That (Nevertheless OST)",
+      "name": "Love Me Like That (Nevertheless OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/love-me-like-that-nevertheless-ost-sam-kim.1qDNdw6Trig1.html"
     },
     {
@@ -6291,7 +6291,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/Boombayah-BLACKPINK-6291993.mp3?st=2H4S8C0T-utxx0fuyKVjVA&e=1631635385",
-      "title": "Boombayah",
+      "name": "Boombayah",
       "url": "https://www.nhaccuatui.com/bai-hat/boombayah-blackpink.uS7D8GnXv2cv.html"
     },
     {
@@ -6301,7 +6301,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/2017/07/15/3/0/6/4/1500090100078.lrc",
       "music": "https://aredir.nixcdn.com/YG_Audio1/PlayingWithFire-BLACKPINK-6293080.mp3?st=_yLZnPF12vrsScdzdzF5Ww&e=1631635385",
-      "title": "Playing With Fire",
+      "name": "Playing With Fire",
       "url": "https://www.nhaccuatui.com/bai-hat/playing-with-fire-blackpink.ghXR4vP55jnW.html"
     },
     {
@@ -6311,7 +6311,7 @@
       "creator": "ITZY",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1015/InTheMorning-ITZY-7012025.mp3?st=HOvuTV9Nvwl6D-5trEATNw&e=1631635385",
-      "title": "In The Morning",
+      "name": "In The Morning",
       "url": "https://www.nhaccuatui.com/bai-hat/in-the-morning-itzy.GlMQP0Ej46JG.html"
     },
     {
@@ -6321,7 +6321,7 @@
       "creator": "Tae Yeon",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1017/Weekend-TaeYeonSNSD-7044095.mp3?st=FuoaS4OhMf5wz0M8t7Xj5A&e=1631635385",
-      "title": "Weekend",
+      "name": "Weekend",
       "url": "https://www.nhaccuatui.com/bai-hat/weekend-tae-yeon.ZdXxh1znPgDy.html"
     },
     {
@@ -6331,7 +6331,7 @@
       "creator": "IU",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1011/Celebrity-IU-6938138.mp3?st=OEblFOtalB0EAVSlw4Pedw&e=1631635385",
-      "title": "Celebrity",
+      "name": "Celebrity",
       "url": "https://www.nhaccuatui.com/bai-hat/celebrity-iu.A53JFtCsbc0x.html"
     },
     {
@@ -6341,7 +6341,7 @@
       "creator": "Ahn Ye Eun",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1015/Sailing-AhnYeEun-7017679.mp3?st=uRUTrWfYb6HQDlGMbEwAHg&e=1631635385",
-      "title": "Sailing",
+      "name": "Sailing",
       "url": "https://www.nhaccuatui.com/bai-hat/sailing-ahn-ye-eun.S7F50uwLphmv.html"
     },
     {
@@ -6351,7 +6351,7 @@
       "creator": "Ahn Ye Eun",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/NightFlowerPainterOfTheNightOST-AhnYeEun-7078655.mp3?st=WnzOLuIKy_rIxuMPb1PS5Q&e=1631635385",
-      "title": "Night Flower (Painter Of The Night OST)",
+      "name": "Night Flower (Painter Of The Night OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/night-flower-painter-of-the-night-ost-ahn-ye-eun.wUCKyypnmH0n.html"
     },
     {
@@ -6361,7 +6361,7 @@
       "creator": "STAYC",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/Stereotype-STAYC-7083856.mp3?st=14kXuD4mTVG3W2dZxaWX7w&e=1631635385",
-      "title": "Stereotype",
+      "name": "Stereotype",
       "url": "https://www.nhaccuatui.com/bai-hat/stereotype-stayc.W1C0pxBHWAFd.html"
     },
     {
@@ -6371,7 +6371,7 @@
       "creator": "J.UNA",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/ButterflyNeverthelessOST-JUNA-7060831.mp3?st=nboza5jpRDMnV5ZK5CitnA&e=1631635385",
-      "title": "Butterfly (Nevertheless OST)",
+      "name": "Butterfly (Nevertheless OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/butterfly-nevertheless-ost-juna.DSbpbcRrKMFh.html"
     },
     {
@@ -6381,7 +6381,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/Whistle-BLACKPINK-6291994.mp3?st=ERCjr6OsDu1CgLdd31uBBg&e=1631635385",
-      "title": "Whistle",
+      "name": "Whistle",
       "url": "https://www.nhaccuatui.com/bai-hat/whistle-blackpink.uqH77iyjTzVv.html"
     },
     {
@@ -6391,7 +6391,7 @@
       "creator": "Baek Hyun",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/IsItMeLoversOfTheRedSkyOST-BaekHyunEXO-7079260.mp3?st=oNG5lhQ5CWpAiCeJVBNrKQ&e=1631635385",
-      "title": "Is It Me? (Lovers Of The Red Sky OST)",
+      "name": "Is It Me? (Lovers Of The Red Sky OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/is-it-me-lovers-of-the-red-sky-ost-baek-hyun.fLFpYodz4n3f.html"
     },
     {
@@ -6401,7 +6401,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/DonTKnowWhatToDo-BLACKPINK-6291963.mp3?st=Apjty6FMGD2lWRKLOHLJmA&e=1631635385",
-      "title": "Don'T Know What To Do",
+      "name": "Don'T Know What To Do",
       "url": "https://www.nhaccuatui.com/bai-hat/dont-know-what-to-do-blackpink.3oNyTt0nMzVp.html"
     },
     {
@@ -6411,7 +6411,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/ForeverYoung-BLACKPINK-6291995.mp3?st=KphAkmFWwsjvnqZaBpbcBQ&e=1631635385",
-      "title": "Forever Young",
+      "name": "Forever Young",
       "url": "https://www.nhaccuatui.com/bai-hat/forever-young-blackpink.FatmATQ6NlTL.html"
     },
     {
@@ -6421,7 +6421,7 @@
       "creator": "MC Mong, Mellow",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui959/SickEnoughToDie-MCMongMellow-617420.mp3?st=rX_9i4BHore8d7rvi3Zqrg&e=1631635385",
-      "title": "Sick Enough To Die",
+      "name": "Sick Enough To Die",
       "url": "https://www.nhaccuatui.com/bai-hat/sick-enough-to-die-mc-mong-ft-mellow.0zlCEf30Al.html"
     },
     {
@@ -6431,7 +6431,7 @@
       "creator": "IU",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui992/Blueming-IU-6138404.mp3?st=06EahSPoo3QBaGkVEqLzfQ&e=1631635385",
-      "title": "Blueming",
+      "name": "Blueming",
       "url": "https://www.nhaccuatui.com/bai-hat/blueming-iu.b0PoZWoqtzTy.html"
     },
     {
@@ -6441,7 +6441,7 @@
       "creator": "Stray Kids",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Thunderous-StrayKids-7073919.mp3?st=SAqv6mPqH7HWEklqsYpuHw&e=1631635385",
-      "title": "Thunderous",
+      "name": "Thunderous",
       "url": "https://www.nhaccuatui.com/bai-hat/thunderous-stray-kids.RXOq4dKBWBaD.html"
     },
     {
@@ -6451,7 +6451,7 @@
       "creator": "Key (SHINee), Tae Yeon",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/HateThat-KeySHINeeTaeYeonSNSD-7078947.mp3?st=5_vlN-LRZiFel4JTNlZDpg&e=1631635385",
-      "title": "Hate That...",
+      "name": "Hate That...",
       "url": "https://www.nhaccuatui.com/bai-hat/hate-that-key-shinee-ft-tae-yeon.f7rPCIarc2Hm.html"
     },
     {
@@ -6461,7 +6461,7 @@
       "creator": "TXT (Tomorrow x Together)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/LoErloer-TXTTomorrowxTogether-7069136.mp3?st=5EN_adqy_47loWJdbtHCGQ&e=1631635385",
-      "title": "Lo$Er=lo♡er",
+      "name": "Lo$Er=lo♡er",
       "url": "https://www.nhaccuatui.com/bai-hat/loerloer-txt-tomorrow-x-together.qv3PMZBUpHPo.html"
     },
     {
@@ -6471,7 +6471,7 @@
       "creator": "Hong Jin Young",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui876/CheerUp-HongJinYoung-3635924.mp3?st=DkdttdIAj6teeGc290pgmw&e=1631635385",
-      "title": "Cheer Up",
+      "name": "Cheer Up",
       "url": "https://www.nhaccuatui.com/bai-hat/cheer-up-hong-jin-young.qdpgTMH4lyQ6.html"
     },
     {
@@ -6481,7 +6481,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/LoveToHateMe-BLACKPINK-6720106.mp3?st=MQzUoO_BEoOFvuHtdTEUHg&e=1631635385",
-      "title": "Love To Hate Me",
+      "name": "Love To Hate Me",
       "url": "https://www.nhaccuatui.com/bai-hat/love-to-hate-me-blackpink.JvgYQbmTc1h8.html"
     },
     {
@@ -6491,7 +6491,7 @@
       "creator": "(G)I-DLE",
       "lyric": "https://lrc-nct.nixcdn.com/2021/03/09/b/7/b/f/1615249555408.lrc",
       "music": "https://aredir.nixcdn.com/Unv_Audio194/Hwaa-GIDLE-6916357.mp3?st=1zwjyIkK0PiLMDU2TCNS0A&e=1631635385",
-      "title": "Hwaa",
+      "name": "Hwaa",
       "url": "https://www.nhaccuatui.com/bai-hat/hwaa-gi-dle.s1tnpnSTVOM2.html"
     },
     {
@@ -6501,7 +6501,7 @@
       "creator": "TWICE",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1005/ICantStopMe-TWICE-6759602.mp3?st=cz053OxnhXRS6CBAgiiL8Q&e=1631635385",
-      "title": "I Can't Stop Me",
+      "name": "I Can't Stop Me",
       "url": "https://www.nhaccuatui.com/bai-hat/i-cant-stop-me-twice.Bq8aQZM6kuZV.html"
     },
     {
@@ -6511,7 +6511,7 @@
       "creator": "Chan Yeol, Punch",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui954/StayWithMe-ChanYeolEXOPunch-4939315.mp3?st=qR_0Zlsx2Qb7P7Pz52Z4Mw&e=1631635385",
-      "title": "Stay With Me",
+      "name": "Stay With Me",
       "url": "https://www.nhaccuatui.com/bai-hat/stay-with-me-chan-yeol-ft-punch.Enke4axoc1Db.html"
     },
     {
@@ -6521,7 +6521,7 @@
       "creator": "Epik High, Lee Hi",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui927/CanYouHearMyHeartMoonLoversScarletHeartRyoOST-EpikHighLeeHi-4591379.mp3?st=qZ5MrzcBh1TWiXBb1uLlog&e=1631635385",
-      "title": "Can You Hear My Heart (Moon Lovers Scarlet Heart Ryo OST)",
+      "name": "Can You Hear My Heart (Moon Lovers Scarlet Heart Ryo OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/can-you-hear-my-heart-moon-lovers-scarlet-heart-ryo-ost-epik-high-ft-lee-hi.rjqmbvsZEMlM.html"
     },
     {
@@ -6531,7 +6531,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/Stay-BLACKPINK-6293076.mp3?st=4O56OcUrbUMTiP5jxiojMw&e=1631635385",
-      "title": "Stay",
+      "name": "Stay",
       "url": "https://www.nhaccuatui.com/bai-hat/stay-blackpink.Ja4wtGAsPPwX.html"
     },
     {
@@ -6541,7 +6541,7 @@
       "creator": "EXO",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui973/LoveShot-EXO-5812187.mp3?st=-bv3u6IU1pr3J72z_FWZ_Q&e=1631635385",
-      "title": "Love Shot",
+      "name": "Love Shot",
       "url": "https://www.nhaccuatui.com/bai-hat/love-shot-exo.CzOkE18pAneK.html"
     },
     {
@@ -6551,7 +6551,7 @@
       "creator": "Weeekly",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1014/AfterSchool-Weeekly-6976200.mp3?st=hKBrnqsLbnqOLVZDcIKVfg&e=1631635385",
-      "title": "After School",
+      "name": "After School",
       "url": "https://www.nhaccuatui.com/bai-hat/after-school-weeekly.zsDOI4zkQVp4.html"
     },
     {
@@ -6561,7 +6561,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/CrazyOverYou-BLACKPINK-6720105.mp3?st=r753Duk7Ag42BM4AQroDkQ&e=1631635385",
-      "title": "Crazy Over You",
+      "name": "Crazy Over You",
       "url": "https://www.nhaccuatui.com/bai-hat/crazy-over-you-blackpink.fkrUwAzXPkLg.html"
     },
     {
@@ -6571,7 +6571,7 @@
       "creator": "Heize",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/OnRainyDaysBlueBirthdayOST-Heize-7064297.mp3?st=FTAN5B9nZpaq4RHZLHbCOw&e=1631635385",
-      "title": "On Rainy Days (Blue Birthday OST)",
+      "name": "On Rainy Days (Blue Birthday OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/on-rainy-days-blue-birthday-ost-heize.Lu3y1Ltx19px.html"
     },
     {
@@ -6581,7 +6581,7 @@
       "creator": "BIGBANG",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/Blue-BIGBANG-6292792.mp3?st=MyJyOV2hdltK1wAK-YSYBQ&e=1631635385",
-      "title": "Blue",
+      "name": "Blue",
       "url": "https://www.nhaccuatui.com/bai-hat/blue-bigbang.5h0uSTjb84.html"
     },
     {
@@ -6591,7 +6591,7 @@
       "creator": "BIGBANG",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/HaruHaru-BIGBANG-6291516.mp3?st=LZgzf8Fyg1XMP1WK3CYe0w&e=1631635385",
-      "title": "Haru Haru",
+      "name": "Haru Haru",
       "url": "https://www.nhaccuatui.com/bai-hat/haru-haru-bigbang.PgrxRcNASk.html"
     },
     {
@@ -6601,7 +6601,7 @@
       "creator": "Chen, Baek Hyun, XiuMin (EXO)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui927/ForYouMoonLoversScarletHeartRyoOST-ChenEXOMBaekHyunEXOKXiuMinEXOM-4566636.mp3?st=gkqZBrCyU4EQipJKzEQqeg&e=1631635385",
-      "title": "For You (Moon Lovers Scarlet Heart Ryo OST)",
+      "name": "For You (Moon Lovers Scarlet Heart Ryo OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/for-you-moon-lovers-scarlet-heart-ryo-ost-chen-ft-baek-hyun-ft-xiumin-exo.EggLarw3AYhV.html"
     },
     {
@@ -6611,7 +6611,7 @@
       "creator": "iKON",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/LoveScenario-iKON-6292220.mp3?st=NqBAhSu7Y4bx9WHtMLs_4A&e=1631635385",
-      "title": "Love Scenario",
+      "name": "Love Scenario",
       "url": "https://www.nhaccuatui.com/bai-hat/love-scenario-ikon.HIWX4ZCwxIbM.html"
     },
     {
@@ -6621,7 +6621,7 @@
       "creator": "Car The Garden",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/RomanticSundayHometownChaChaChaOST-CarTheGarden-7083284.mp3?st=Dv0SG2ji_sUlel9_8wGpQQ&e=1631635385",
-      "title": "Romantic Sunday (Hometown Cha-Cha-Cha OST)",
+      "name": "Romantic Sunday (Hometown Cha-Cha-Cha OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/romantic-sunday-hometown-cha-cha-cha-ost-car-the-garden.TsZFa0PxxcQC.html"
     },
     {
@@ -6631,7 +6631,7 @@
       "creator": "BlackPink, Cardi B",
       "lyric": "https://lrc-nct.nixcdn.com/2020/10/11/2/e/1/4/1602417292740.lrc",
       "music": "https://aredir.nixcdn.com/YG_Audio1/BetYouWannaFeatCardiB-BLACKPINK-6720103.mp3?st=CTnKDrBCWKQVapFIddaDcA&e=1631635385",
-      "title": "Bet You Wanna",
+      "name": "Bet You Wanna",
       "url": "https://www.nhaccuatui.com/bai-hat/bet-you-wanna-blackpink-ft-cardi-b.1t7tX9NxThEC.html"
     },
     {
@@ -6641,7 +6641,7 @@
       "creator": "aespa",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1006/BlackMamba-aespa-6820956.mp3?st=XeqqIxH9vfLjLEqky5XQNg&e=1631635385",
-      "title": "Black Mamba",
+      "name": "Black Mamba",
       "url": "https://www.nhaccuatui.com/bai-hat/black-mamba-aespa.m0Vf8oNEdGoi.html"
     },
     {
@@ -6651,7 +6651,7 @@
       "creator": "Lee Hi, Yoon Mi Rae",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/RedLipstick-LeeHiYoonMiRae-7085621.mp3?st=mc75EZE6MBBaLHAzW9WBqQ&e=1631635385",
-      "title": "Red Lipstick",
+      "name": "Red Lipstick",
       "url": "https://www.nhaccuatui.com/bai-hat/red-lipstick-lee-hi-ft-yoon-mi-rae.AQEtDExRkCe5.html"
     },
     {
@@ -6661,7 +6661,7 @@
       "creator": "NCT Dream",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1015/HotSauce-NCTDream-7017245.mp3?st=q_Z7pfqaceaLj8FjkV1TeQ&e=1631635385",
-      "title": "Hot Sauce",
+      "name": "Hot Sauce",
       "url": "https://www.nhaccuatui.com/bai-hat/hot-sauce-nct-dream.CPtvTIGcjLyE.html"
     },
     {
@@ -6671,7 +6671,7 @@
       "creator": "IU",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1013/Lilac-IU-6984996.mp3?st=s4TXye4dtdYSQAFSm0_1hQ&e=1631635385",
-      "title": "Lilac",
+      "name": "Lilac",
       "url": "https://www.nhaccuatui.com/bai-hat/lilac-iu.Qqr0D1cVR2oa.html"
     },
     {
@@ -6681,7 +6681,7 @@
       "creator": "NCT Dream",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1017/HelloFuture-NCTDream-7040186.mp3?st=eijEx912RdSeK92FZPN3Pg&e=1631635385",
-      "title": "Hello Future",
+      "name": "Hello Future",
       "url": "https://www.nhaccuatui.com/bai-hat/hello-future-nct-dream.lajTSRFNrWMT.html"
     },
     {
@@ -6691,7 +6691,7 @@
       "creator": "Red Velvet",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui993/Psycho-RedVelvet-6181261.mp3?st=jwTT0EwJWKNiq2jHkhUEVQ&e=1631635385",
-      "title": "Psycho",
+      "name": "Psycho",
       "url": "https://www.nhaccuatui.com/bai-hat/psycho-red-velvet.YyzHQGWa8078.html"
     },
     {
@@ -6701,7 +6701,7 @@
       "creator": "EXO",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui946/KoKoBop-EXO-5085384.mp3?st=mYpOfRV1C3dRjz8W9Ib1PA&e=1631635385",
-      "title": "Ko Ko Bop",
+      "name": "Ko Ko Bop",
       "url": "https://www.nhaccuatui.com/bai-hat/ko-ko-bop-exo.AeQDU4rP199c.html"
     },
     {
@@ -6711,7 +6711,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/YouNeverKnow-BLACKPINK-6720107.mp3?st=eBm57bkweFbtaneHGTEunQ&e=1631635385",
-      "title": "You Never Know",
+      "name": "You Never Know",
       "url": "https://www.nhaccuatui.com/bai-hat/you-never-know-blackpink.MZFUbT7ildt8.html"
     },
     {
@@ -6721,7 +6721,7 @@
       "creator": "Loco, Punch",
       "lyric": "https://lrc-nct.nixcdn.com/2017/07/15/3/0/6/4/1500089346730.lrc",
       "music": "https://aredir.nixcdn.com/NhacCuaTui927/SayYesMoonLoversScarletHeartRyoOST-LocoPunch-4569672.mp3?st=rcnBhIK4oKlKqwx1HrcybA&e=1631635385",
-      "title": "Say Yes (Moon Lovers Scarlet Heart Ryo OST)",
+      "name": "Say Yes (Moon Lovers Scarlet Heart Ryo OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/say-yes-moon-lovers-scarlet-heart-ryo-ost-loco-ft-punch.9bQE0kjIqk8z.html"
     },
     {
@@ -6731,7 +6731,7 @@
       "creator": "Yerin Baek",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/YG_Audio2/Whenever-YerinBaek-7086864.mp3?st=lWnnEehzc1EaU9NMMuQuqQ&e=1631635385",
-      "title": "Whenever",
+      "name": "Whenever",
       "url": "https://www.nhaccuatui.com/bai-hat/whenever-yerin-baek.leB5jEAOrfFI.html"
     },
     {
@@ -6741,7 +6741,7 @@
       "creator": "MAMAMOO",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui992/Hip-MAMAMOO-6136497.mp3?st=o3jT9jAtC8UUoqWYYqBUAw&e=1631635385",
-      "title": "Hip",
+      "name": "Hip",
       "url": "https://www.nhaccuatui.com/bai-hat/hip-mamamoo.DBckRYmGrBMu.html"
     },
     {
@@ -6751,7 +6751,7 @@
       "creator": "Lee Hi, B.I",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/Savior-LeeHiBI-7085614.mp3?st=gjJXlTE181UfJjgDuZ4zzw&e=1631635385",
-      "title": "Savior",
+      "name": "Savior",
       "url": "https://www.nhaccuatui.com/bai-hat/savior-lee-hi-ft-bi.Z6GXzsUiOx4Y.html"
     },
     {
@@ -6761,7 +6761,7 @@
       "creator": "Red Velvet",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Pose-RedVelvet-7068440.mp3?st=uMWnlFh0eTg1xfbzvMhfGA&e=1631635385",
-      "title": "Pose",
+      "name": "Pose",
       "url": "https://www.nhaccuatui.com/bai-hat/pose-red-velvet.2pNDrLwDarAZ.html"
     },
     {
@@ -6771,7 +6771,7 @@
       "creator": "D.O.",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/ImGonnaLoveYou-DOEXO-7055078.mp3?st=bKHfs5XR15AvDuEzPfmF8A&e=1631635385",
-      "title": "I'm Gonna Love You",
+      "name": "I'm Gonna Love You",
       "url": "https://www.nhaccuatui.com/bai-hat/im-gonna-love-you-do.UAZbuOkZ2ku9.html"
     },
     {
@@ -6781,7 +6781,7 @@
       "creator": "Jo Jung Suk",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1016/Aloha-ChoJungSeok-6248774.mp3?st=MUeL2MCqwbOn_Ncx_n6-6Q&e=1631635385",
-      "title": "Aloha (Hopital Playlist OST)",
+      "name": "Aloha (Hopital Playlist OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/aloha-hopital-playlist-ost-jo-jung-suk.9AxLNNspfH7Y.html"
     },
     {
@@ -6791,7 +6791,7 @@
       "creator": "BIGBANG",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/Loser-BIGBANG-6291940.mp3?st=arW0cpc86gL8WNMlhZ-GrQ&e=1631635385",
-      "title": "Loser",
+      "name": "Loser",
       "url": "https://www.nhaccuatui.com/bai-hat/loser-bigbang.SEJX0iUKbw8P.html"
     },
     {
@@ -6801,7 +6801,7 @@
       "creator": "Young K (DAY6)",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/GuardYou-DAY6-7083861.mp3?st=Nst-mXlmPlUKJVh1-AhspQ&e=1631635385",
-      "title": "Guard You",
+      "name": "Guard You",
       "url": "https://www.nhaccuatui.com/bai-hat/guard-you-young-k-day6.4wuoblcZnpbj.html"
     },
     {
@@ -6811,7 +6811,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/Really-BLACKPINK-6291996.mp3?st=vQ42duar024IPX8O_OHyiA&e=1631635385",
-      "title": "Really",
+      "name": "Really",
       "url": "https://www.nhaccuatui.com/bai-hat/really-blackpink.6gbyYy7zSqES.html"
     },
     {
@@ -6821,7 +6821,7 @@
       "creator": "D.O.",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/Rose-DOEXO-7055077.mp3?st=sR_5FLzU5QjylyqGIZUBPg&e=1631635385",
-      "title": "Rose",
+      "name": "Rose",
       "url": "https://www.nhaccuatui.com/bai-hat/rose-do.vOauIBhhv9Eh.html"
     },
     {
@@ -6831,7 +6831,7 @@
       "creator": "Solar (MAMAMOO)",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/AlwaysBeWithYouLoversOfTheRedSkyOST-SolarMAMAMOO-7083866.mp3?st=lyckl4ky2L8qWdTRxFSD3g&e=1631635385",
-      "title": "Always, Be With You (Lovers Of The Red Sky OST)",
+      "name": "Always, Be With You (Lovers Of The Red Sky OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/always-be-with-you-lovers-of-the-red-sky-ost-solar-mamamoo.rky6hsZanI9q.html"
     },
     {
@@ -6840,9 +6840,9 @@
       "coverImage": "https://avatar-ex-swe.nixcdn.com/playlist/2020/09/16/e/1/f/f/1600239362951_500.jpg",
       "creator": "G-Dragon",
       "lyric": "https://lrc-nct.nixcdn.com/null",
-      "music": "https://aredir.nixcdn.com/YG_Audio1/Untitled2014-GDRAGON-6292962.mp3?st=CSONhHKVjoaxRxBjOMSd7A&e=1631635385",
-      "title": "Untitled, 2014",
-      "url": "https://www.nhaccuatui.com/bai-hat/untitled-2014-g-dragon.PWCjrPbVmXUM.html"
+      "music": "https://aredir.nixcdn.com/YG_Audio1/Unnamed2014-GDRAGON-6292962.mp3?st=CSONhHKVjoaxRxBjOMSd7A&e=1631635385",
+      "name": "Unnamed, 2014",
+      "url": "https://www.nhaccuatui.com/bai-hat/unnamed-2014-g-dragon.PWCjrPbVmXUM.html"
     },
     {
       "avatar": "https://avatar-ex-swe.nixcdn.com/song/2020/05/12/2/2/0/9/1589279180312.jpg",
@@ -6851,7 +6851,7 @@
       "creator": "Raiden, Chan Yeol, Lee Hi, Changmo",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui999/Yours-RaidenChanYeolEXOLeeHiChangmo-6277417.mp3?st=BBmdCUgs2tRhoIH2E6LC4Q&e=1631635385",
-      "title": "Yours",
+      "name": "Yours",
       "url": "https://www.nhaccuatui.com/bai-hat/yours-raiden-ft-chan-yeol-ft-lee-hi-ft-changmo.03fQzg3lIGmt.html"
     },
     {
@@ -6861,7 +6861,7 @@
       "creator": "Hyo Yeon, Bibi",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Second-HyoYeonSNSDBibi-7065318.mp3?st=uz2OiEBwbx2RM5lpifnACA&e=1631635385",
-      "title": "Second",
+      "name": "Second",
       "url": "https://www.nhaccuatui.com/bai-hat/second-hyo-yeon-ft-bibi.wxRziggfWUDv.html"
     },
     {
@@ -6871,7 +6871,7 @@
       "creator": "BIGBANG",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/BangBangBang-BIGBANG-6293092.mp3?st=BV4oQj84-l2kqOHFplZe1g&e=1631635385",
-      "title": "Bang Bang Bang",
+      "name": "Bang Bang Bang",
       "url": "https://www.nhaccuatui.com/bai-hat/bang-bang-bang-bigbang.ZACRuFFv8Dmq.html"
     },
     {
@@ -6881,7 +6881,7 @@
       "creator": "T-ara",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui953/DayByDay-Tara-1856855.mp3?st=_3q3hbhKOr06wx0J5LYeyw&e=1631635385",
-      "title": "Day By Day",
+      "name": "Day By Day",
       "url": "https://www.nhaccuatui.com/bai-hat/day-by-day-t-ara.a1Rcja5NNqvQ.html"
     },
     {
@@ -6891,7 +6891,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/KickIt-BLACKPINK-6291964.mp3?st=ulWX_ucYhXDeGoiuLuV_zQ&e=1631635385",
-      "title": "Kick It",
+      "name": "Kick It",
       "url": "https://www.nhaccuatui.com/bai-hat/kick-it-blackpink.cOJ2IjICrYdr.html"
     },
     {
@@ -6901,7 +6901,7 @@
       "creator": "Sangnoksu, Narae",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1005/HorangSuwolga-SangnoksuNarae-6770371.mp3?st=Boa2QXQN4CjI4SaJsFd1OQ&e=1631635385",
-      "title": "Horang Suwolga",
+      "name": "Horang Suwolga",
       "url": "https://www.nhaccuatui.com/bai-hat/horang-suwolga-sangnoksu-ft-narae.W1Zf16XCeH46.html"
     },
     {
@@ -6911,7 +6911,7 @@
       "creator": "CL",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/HelloBitches-CL-6291949.mp3?st=8m_nHx6vTQlaVMsRqMdNxQ&e=1631635385",
-      "title": "Hello Bitches",
+      "name": "Hello Bitches",
       "url": "https://www.nhaccuatui.com/bai-hat/hello-bitches-cl.sd90woXJLVFZ.html"
     },
     {
@@ -6921,7 +6921,7 @@
       "creator": "STAYC",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/Complex-STAYC-7083860.mp3?st=-8Nx_5fLx1yx41m_CoMxGA&e=1631635385",
-      "title": "Complex",
+      "name": "Complex",
       "url": "https://www.nhaccuatui.com/bai-hat/complex-stayc.1ynqIuvetOKs.html"
     },
     {
@@ -6931,7 +6931,7 @@
       "creator": "TWICE",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui999/MoreMore-TWICE-6288557.mp3?st=JUUZ-upSCMhHfRF2sV18uw&e=1631635385",
-      "title": "MORE &amp; MORE",
+      "name": "MORE &amp; MORE",
       "url": "https://www.nhaccuatui.com/bai-hat/more-more-twice.ukhP9gXihXKX.html"
     },
     {
@@ -6941,7 +6941,7 @@
       "creator": "Brave Girls",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/AfterWeRide-BraveGirls-7073997.mp3?st=4LDhmYGWTqVoqmF3hbmdZg&e=1631635385",
-      "title": "After We Ride",
+      "name": "After We Ride",
       "url": "https://www.nhaccuatui.com/bai-hat/after-we-ride-brave-girls.YBbP9U7PbTN2.html"
     },
     {
@@ -6951,7 +6951,7 @@
       "creator": "Red Velvet",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui959/BadBoy-RedVelvet-5367865.mp3?st=lKvfrsS1DToXctnnEEWovw&e=1631635385",
-      "title": "Bad Boy",
+      "name": "Bad Boy",
       "url": "https://www.nhaccuatui.com/bai-hat/bad-boy-red-velvet.AyNkfdvd90LS.html"
     },
     {
@@ -6961,7 +6961,7 @@
       "creator": "STAYC",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/IllBeThere-STAYC-7083857.mp3?st=kh3NarKpbCg6tNtR0_uz9A&e=1631635385",
-      "title": "I'll Be There",
+      "name": "I'll Be There",
       "url": "https://www.nhaccuatui.com/bai-hat/ill-be-there-stayc.5uwlsuBqCLTR.html"
     },
     {
@@ -6971,7 +6971,7 @@
       "creator": "GFriend",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1006/Mago-GFriend-6804759.mp3?st=q64jETOAQlGV-tHQgQp5uQ&e=1631635385",
-      "title": "Mago",
+      "name": "Mago",
       "url": "https://www.nhaccuatui.com/bai-hat/mago-gfriend.gUbDrmWSDeLv.html"
     },
     {
@@ -6981,7 +6981,7 @@
       "creator": "EXO",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui946/TheEve-EXO-5085383.mp3?st=UWRk5y_wMRPFU8WrmlaJ-w&e=1631635385",
-      "title": "The Eve",
+      "name": "The Eve",
       "url": "https://www.nhaccuatui.com/bai-hat/the-eve-exo.wGH0pOPxId48.html"
     },
     {
@@ -6991,7 +6991,7 @@
       "creator": "Heize",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui987/CanYouSeeMyHeartHotelDelLunaOst-Heize-6040819.mp3?st=VU2ORl5rFyI7TCrvFnYmCA&e=1631635385",
-      "title": "Can You See My Heart (Hotel Del Luna OST)",
+      "name": "Can You See My Heart (Hotel Del Luna OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/can-you-see-my-heart-hotel-del-luna-ost-heize.GpIAJh2BrXZv.html"
     },
     {
@@ -7001,7 +7001,7 @@
       "creator": "TWICE",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1009/CryForMe-TWICE-6872674.mp3?st=K-nj4thClRTMSQTRw1UG-A&e=1631635385",
-      "title": "Cry For Me",
+      "name": "Cry For Me",
       "url": "https://www.nhaccuatui.com/bai-hat/cry-for-me-twice.BkdOsUn7oJL5.html"
     },
     {
@@ -7011,7 +7011,7 @@
       "creator": "IZ*ONE",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1009/Panorama-IZONE-6879479.mp3?st=OZ7FsVMd1QFGzN2JoDAnKw&e=1631635385",
-      "title": "Panorama",
+      "name": "Panorama",
       "url": "https://www.nhaccuatui.com/bai-hat/panorama-izone.sCzHyMsIF7ZM.html"
     },
     {
@@ -7021,7 +7021,7 @@
       "creator": "Kwon Eun Bi",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Door-KwonEunBi-7074356.mp3?st=ufH9fV2BnbYtE06nzkysfg&e=1631635385",
-      "title": "Door",
+      "name": "Door",
       "url": "https://www.nhaccuatui.com/bai-hat/door-kwon-eun-bi.QPbr7hcm9MT0.html"
     },
     {
@@ -7031,7 +7031,7 @@
       "creator": "Mido and Falasol",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/YouHaveACrushOnMeDramaVersionHospitalPlaylist2OST-MidoandFalasol-7082579.mp3?st=OSUeagOSOj_5EMkUEKKv_w&e=1631635385",
-      "title": "You Have A Crush On Me (Drama Version) (Hospital Playlist 2 OST)",
+      "name": "You Have A Crush On Me (Drama Version) (Hospital Playlist 2 OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/you-have-a-crush-on-me-drama-version-hospital-playlist-2-ost-mido-and-falasol.qfijsxlfaJ3P.html"
     },
     {
@@ -7041,7 +7041,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/SeeULater-BLACKPINK-6291997.mp3?st=wonMb9EL2wSaD8_wbprUSQ&e=1631635385",
-      "title": "See U Later",
+      "name": "See U Later",
       "url": "https://www.nhaccuatui.com/bai-hat/see-u-later-blackpink.XKB9M9FsxYV9.html"
     },
     {
@@ -7051,7 +7051,7 @@
       "creator": "Fromis_9",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/TalkTalk-Fromis9-7083898.mp3?st=J45eKrjAc6GgGsXIM1Vywg&e=1631635385",
-      "title": "Talk &amp; Talk",
+      "name": "Talk &amp; Talk",
       "url": "https://www.nhaccuatui.com/bai-hat/talk-talk-fromis_9.UoqdfDQg5dOq.html"
     },
     {
@@ -7061,7 +7061,7 @@
       "creator": "Stray Kids",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Cheese-StrayKids-7073907.mp3?st=87Wm27OM2-Yh1rKgZMq9Ag&e=1631635385",
-      "title": "Cheese ",
+      "name": "Cheese ",
       "url": "https://www.nhaccuatui.com/bai-hat/cheese-stray-kids.Oj2Evl7mvE9U.html"
     },
     {
@@ -7071,7 +7071,7 @@
       "creator": "SOMI",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/WhatYouWaitingFor-SOMI-6352196.mp3?st=fNhhnBWt8cQnJaglA4SujA&e=1631635385",
-      "title": "What You Waiting For",
+      "name": "What You Waiting For",
       "url": "https://www.nhaccuatui.com/bai-hat/what-you-waiting-for-somi.znAVH8KJyCNs.html"
     },
     {
@@ -7081,7 +7081,7 @@
       "creator": "Stray Kids",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Domino-StrayKids-7073922.mp3?st=p0LVwTrlgv-ILhO6ddUVOA&e=1631635385",
-      "title": "Domino",
+      "name": "Domino",
       "url": "https://www.nhaccuatui.com/bai-hat/domino-stray-kids.i6dKtewxqZi7.html"
     },
     {
@@ -7091,7 +7091,7 @@
       "creator": "Red Velvet",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/HelloSunset-RedVelvet-7068444.mp3?st=oYUa0RWb9TuLmY8IFnJoJw&e=1631635385",
-      "title": "Hello, Sunset",
+      "name": "Hello, Sunset",
       "url": "https://www.nhaccuatui.com/bai-hat/hello-sunset-red-velvet.loqwSVRFv9cs.html"
     }
   ],
@@ -7103,7 +7103,7 @@
       "creator": "Trương Bích Thần (Zhang Bi Chen)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/NhuCoChauSinhNhuCoOst-TruongBichThanZhangBiChen-7069837.mp3?st=YZ6jBIIjm-BIG2SPx8qtkg&e=1631635387",
-      "title": "Như Cố / 如故 (Châu Sinh Như Cố Ost)",
+      "name": "Như Cố / 如故 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/nhu-co-chau-sinh-nhu-co-ost-truong-bich-than-zhang-bi-chen.U488JnPAAVRe.html"
     },
     {
@@ -7113,7 +7113,7 @@
       "creator": "Trình Hưởng",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/DongThacThoiGian-TrinhHuong-7080218.mp3?st=W-Cju6DV_J8oymdGY13I0w&e=1631635387",
-      "title": "Dòng Thác Thời Gian / 时光洪流",
+      "name": "Dòng Thác Thời Gian / 时光洪流",
       "url": "https://www.nhaccuatui.com/bai-hat/dong-thac-thoi-gian-trinh-huong.YygQJhJXf8lz.html"
     },
     {
@@ -7123,7 +7123,7 @@
       "creator": "Lý Tử Đình (Mimi Lee), Tỉnh Lung (Jing Long)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/VoNguChauSinhNhuCoOst-LyTuDinhMimiLeeTinhLungJingLong-7075326.mp3?st=8m-KqQIiekBNwhD1ZCx5qA&e=1631635387",
-      "title": "Vô Ngu / 无虞 (Châu Sinh Như Cố Ost)",
+      "name": "Vô Ngu / 无虞 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/vo-ngu-chau-sinh-nhu-co-ost-ly-tu-dinh-mimi-lee-ft-tinh-lung-jing-long.UAJhzpczszdH.html"
     },
     {
@@ -7133,7 +7133,7 @@
       "creator": "Ngải Thần",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1010/ThoiKhongSaiLech-NgaiThan-6919123.mp3?st=72_J7fpAkvyWmrJQzcrj-A&e=1631635387",
-      "title": "Thời Không Sai Lệch / 错位时空",
+      "name": "Thời Không Sai Lệch / 错位时空",
       "url": "https://www.nhaccuatui.com/bai-hat/thoi-khong-sai-lech-ngai-than.dKz91dfQFOkc.html"
     },
     {
@@ -7143,7 +7143,7 @@
       "creator": "Nhậm Gia Luân",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/NhuMotChauSinhNhuCoOst-NhamGiaLuan-7074286.mp3?st=s5R0mneMWt5pyxJnYHRG2A&e=1631635387",
-      "title": "Như Một / 如一 (Châu Sinh Như Cố Ost)",
+      "name": "Như Một / 如一 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/nhu-mot-chau-sinh-nhu-co-ost-nham-gia-luan.mVLX3tZKOYTr.html"
     },
     {
@@ -7153,7 +7153,7 @@
       "creator": "Tát Đỉnh Đỉnh (Sa Ding Ding)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui962/TayTraiChiTrang-TatDinhDinhSaDingDing-5431513.mp3?st=ayfUT26ybPJ3HXJ3OFwdJw&e=1631635387",
-      "title": "Tay Trái Chỉ Trăng / 左手指月",
+      "name": "Tay Trái Chỉ Trăng / 左手指月",
       "url": "https://www.nhaccuatui.com/bai-hat/tay-trai-chi-trang-tat-dinh-dinh-sa-ding-ding.OXt0IsWRfDZy.html"
     },
     {
@@ -7163,7 +7163,7 @@
       "creator": "Hồ Dương Lâm (Elieen Hu)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui211/LaTuEmDaTinh-HoDuongLam_3uts5.mp3?st=h2_xWMFplhrsymWIxhKUcg&e=1631635387",
-      "title": "Là Tự Em Đa Tình",
+      "name": "Là Tự Em Đa Tình",
       "url": "https://www.nhaccuatui.com/bai-hat/la-tu-em-da-tinh-ho-duong-lam-elieen-hu.zKXSYPiWSy.html"
     },
     {
@@ -7173,7 +7173,7 @@
       "creator": "Vương Tĩnh Văn Không Mập",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1012/VayGiu-VuongTinhVanKhongMap-6952041.mp3?st=99YgRFHog_uzFwQRKoZzwg&e=1631635387",
-      "title": "Vậy Giữ / 沦陷",
+      "name": "Vậy Giữ / 沦陷",
       "url": "https://www.nhaccuatui.com/bai-hat/vay-giu-vuong-tinh-van-khong-map.DPm9LimKNDUJ.html"
     },
     {
@@ -7183,7 +7183,7 @@
       "creator": "Kim Mân Kỳ",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/NeuChauSinhNhuCoOst-KimManKy-7079861.mp3?st=hxhs3rdImHLQbplWiLpYlw&e=1631635387",
-      "title": "Nếu / 若 (Châu Sinh Như Cố Ost)",
+      "name": "Nếu / 若 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/neu-chau-sinh-nhu-co-ost-kim-man-ky.GBB4BKy9K71B.html"
     },
     {
@@ -7193,7 +7193,7 @@
       "creator": "Nhậm Nhiên",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1000/ChimBayCungVe-NhamNhien-6321767.mp3?st=0z8IPpdJI6G8g0xcw9CjfA&e=1631635387",
-      "title": "Phi Điểu Và Ve Sầu / 飞鸟和蝉",
+      "name": "Phi Điểu Và Ve Sầu / 飞鸟和蝉",
       "url": "https://www.nhaccuatui.com/bai-hat/phi-dieu-va-ve-sau-nham-nhien.sg5pd3NDIupn.html"
     },
     {
@@ -7203,7 +7203,7 @@
       "creator": "Tưởng Tuyết Nhi (Cher Chiang)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1014/YenVoHiet-TuongTuyetNhiCherChiang-6520166.mp3?st=TXQYfEuBwtO6rciFGch6bg&e=1631635387",
-      "title": "Yến Vô Hiết / 燕无歇",
+      "name": "Yến Vô Hiết / 燕无歇",
       "url": "https://www.nhaccuatui.com/bai-hat/yen-vo-hiet-tuong-tuyet-nhi-cher-chiang.mEAnCQtIg2NR.html"
     },
     {
@@ -7213,7 +7213,7 @@
       "creator": "Doãn Tích Miên, Tiểu Điền Âm Nhạc Xã",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1014/TaTenTruongAnChangTenCoLy-DoanTichMienTieuDienAmNhacXa-6946196.mp3?st=BmezYiGaEXE3M9cEHW2ngg&e=1631635387",
-      "title": "Ta Tên Trường An, Chàng Tên Cố Lý / 我叫长安,你叫故里\t",
+      "name": "Ta Tên Trường An, Chàng Tên Cố Lý / 我叫长安,你叫故里\t",
       "url": "https://www.nhaccuatui.com/bai-hat/ta-ten-truong-an-chang-ten-co-ly-doan-tich-mien-ft-tieu-dien-am-nhac-xa.7iQBaI3bSi3o.html"
     },
     {
@@ -7223,7 +7223,7 @@
       "creator": "Châu Kiệt Luân (Jay Chou)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui964/SuThanhHoa-ChauKietLuanJayChou-108110.mp3?st=O5Ph6fVWi2tW9e_bR2jZZQ&e=1631635387",
-      "title": "Sứ Thanh Hoa / 青花瓷",
+      "name": "Sứ Thanh Hoa / 青花瓷",
       "url": "https://www.nhaccuatui.com/bai-hat/su-thanh-hoa-chau-kiet-luan-jay-chou.1TBHGGrVKp.html"
     },
     {
@@ -7233,7 +7233,7 @@
       "creator": "Y Cách Tái Thính (Yi Ge Sai Ting), Diệp Lý",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui998/TrichTien-YCachTaiThinhYiGeSaiTingDiepLy-6272323.mp3?st=8AO2N0ojKYQWWQiSiqusNA&e=1631635387",
-      "title": "Trích Tiên / 谪仙",
+      "name": "Trích Tiên / 谪仙",
       "url": "https://www.nhaccuatui.com/bai-hat/trich-tien-y-cach-tai-thinh-yi-ge-sai-ting-ft-diep-ly.5cC8O0G06UX1.html"
     },
     {
@@ -7243,7 +7243,7 @@
       "creator": "Âm Khuyết Thi Thính, Triệu Phương Tịnh (Zhao Fangjing)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui983/MangChung-TrieuPhuongTinhAmKhuyetThiThinh-5989054.mp3?st=gqugXb-KK1-QKeiRrY8NSw&e=1631635387",
-      "title": "Mang Chủng / 芒种",
+      "name": "Mang Chủng / 芒种",
       "url": "https://www.nhaccuatui.com/bai-hat/mang-chung-am-khuyet-thi-thinh-ft-trieu-phuong-tinh-zhao-fangjing.2jcWhVQFrGZr.html"
     },
     {
@@ -7253,7 +7253,7 @@
       "creator": "Đại Tử (Da Zi)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1009/BachNguyetQuangVaNotChuSa-DaiTuDaZi-6911991.mp3?st=irxBqCO2rfTbdaFLp8WMig&e=1631635387",
-      "title": "Bạch Nguyệt Quang Và Nốt Chu Sa / 白月光与朱砂痣",
+      "name": "Bạch Nguyệt Quang Và Nốt Chu Sa / 白月光与朱砂痣",
       "url": "https://www.nhaccuatui.com/bai-hat/bach-nguyet-quang-va-not-chu-sa-dai-tu-da-zi.pyGiSgdzeMW0.html"
     },
     {
@@ -7263,7 +7263,7 @@
       "creator": "Dương Tông Vỹ (Aska Yang), Trương Bích Thần (Zhang Bi Chen)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui934/LanhLeoTamSinhTamTheThapLyDaoHoaOst-AskaYangDuongTongVyZhangBiChenTruongBichThan-4744167.mp3?st=NOkzsy6naQ_-h7pNrqy9Pg&e=1631635387",
-      "title": "Lạnh Lẽo / 涼涼 (Tam Sinh Tam Thế: Thập Lý Đào Hoa OST)",
+      "name": "Lạnh Lẽo / 涼涼 (Tam Sinh Tam Thế: Thập Lý Đào Hoa OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/lanh-leo-tam-sinh-tam-the-thap-ly-dao-hoa-ost-duong-tong-vy-aska-yang-ft-truong-bich-than-zhang-bi-chen.g8k6fS0gCtzK.html"
     },
     {
@@ -7273,7 +7273,7 @@
       "creator": "Trịnh Vân Long",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/DinhTamChauSinhNhuCoOst-TrinhVanLong-7078886.mp3?st=v2jYN4EjaC_Namupbz-0Qg&e=1631635387",
-      "title": "Định Tâm / 定心 (Châu Sinh Như Cố Ost)",
+      "name": "Định Tâm / 定心 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/dinh-tam-chau-sinh-nhu-co-ost-trinh-van-long.AdKL6i1XBbrK.html"
     },
     {
@@ -7283,7 +7283,7 @@
       "creator": "Tiểu Điền Âm Nhạc Xã, Mặc Tam Mộc (Mo San Mu)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/DoiAnhBayDen-TieuDienAmNhacXaMacTamMocMoSanMu-7074590.mp3?st=Fl_f5dqs4vsrEMKdIdqxRg&e=1631635387",
-      "title": "Đợi Anh Bay Đến / 等你飞奔而来",
+      "name": "Đợi Anh Bay Đến / 等你飞奔而来",
       "url": "https://www.nhaccuatui.com/bai-hat/doi-anh-bay-den-tieu-dien-am-nhac-xa-ft-mac-tam-moc-mo-san-mu.QT1JQbZGb3D4.html"
     },
     {
@@ -7293,7 +7293,7 @@
       "creator": "Tiểu Lam Bối Tâm",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/TrongMatDeuLaAnh-TieuLamBoiTam-7058099.mp3?st=u0lQmdyLNAU0SdmSKTbVNg&e=1631635387",
-      "title": "Trong Mắt Đều Là Anh / 目及皆是你",
+      "name": "Trong Mắt Đều Là Anh / 目及皆是你",
       "url": "https://www.nhaccuatui.com/bai-hat/trong-mat-deu-la-anh-tieu-lam-boi-tam.GqjZo7xRQtje.html"
     },
     {
@@ -7303,7 +7303,7 @@
       "creator": "A Yue Yue",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/BatLuanChauSinhNhuCoOst-AYueYue-7079385.mp3?st=fvJcpVDa9iTaCrL9w1WO9A&e=1631635387",
-      "title": "Bất Luận / 不论 (Châu Sinh Như Cố Ost)",
+      "name": "Bất Luận / 不论 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/bat-luan-chau-sinh-nhu-co-ost-a-yue-yue.OdVpvlvG2IkJ.html"
     },
     {
@@ -7313,7 +7313,7 @@
       "creator": "A Yue Yue",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1018/BatPhuTheGian-AYueYue-7049826.mp3?st=zd2joE30RZ5HA1ClHR_qEQ&e=1631635387",
-      "title": "Bất Phụ Thế Gian / 不负人间",
+      "name": "Bất Phụ Thế Gian / 不负人间",
       "url": "https://www.nhaccuatui.com/bai-hat/bat-phu-the-gian-a-yue-yue.QWzUpRFNx54V.html"
     },
     {
@@ -7323,7 +7323,7 @@
       "creator": "A Yue Yue, Lệ Cách",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1014/ThamVienNgoai-AYueYueLeCach-6901656.mp3?st=Emx_4UmTQjmW3KvQ2IHqwg&e=1631635387",
-      "title": "Thẩm Viên Ngoại / 沈园外",
+      "name": "Thẩm Viên Ngoại / 沈园外",
       "url": "https://www.nhaccuatui.com/bai-hat/tham-vien-ngoai-a-yue-yue-ft-le-cach.uMaJGJXc3QWA.html"
     },
     {
@@ -7333,7 +7333,7 @@
       "creator": "Lâm Ám (iZumi)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/GioThinChauSinhNhuCoOst-LamAmiZumi-7078918.mp3?st=Yx2uPQ8B4L4cFvEqbOJZRw&e=1631635387",
-      "title": "Giờ Thìn / 辰时 (Châu Sinh Như Cố Ost)",
+      "name": "Giờ Thìn / 辰时 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/gio-thin-chau-sinh-nhu-co-ost-lam-am-izumi.q8uvu2xiT79p.html"
     },
     {
@@ -7343,7 +7343,7 @@
       "creator": "Dịch Điểm (Yi Dian)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/NhuCoChauSinhNhuCoOst-DichDiemYiDian-7078919.mp3?st=fC8fv7lNboQqe_qkccjAfQ&e=1631635387",
-      "title": "Như Cố / 如故 (Châu Sinh Như Cố Ost)",
+      "name": "Như Cố / 如故 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/nhu-co-chau-sinh-nhu-co-ost-dich-diem-yi-dian.m496qLhvyKqe.html"
     },
     {
@@ -7353,7 +7353,7 @@
       "creator": "Chùy Na Lệ Sa",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/EmQuaNgoc-ChuyNaLeSa-7056265.mp3?st=iZswKE3s79XZi1zOox-m9Q&e=1631635387",
-      "title": "Em Quá Ngốc / 我太笨",
+      "name": "Em Quá Ngốc / 我太笨",
       "url": "https://www.nhaccuatui.com/bai-hat/em-qua-ngoc-chuy-na-le-sa.KWCeHLpSmri5.html"
     },
     {
@@ -7363,7 +7363,7 @@
       "creator": "Gaston Bàng Gia Tư Đốn",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/RingRingRing-GastonBangGiaTuDon-7059547.mp3?st=p74ig8NFiLRscnTARwef6Q&e=1631635387",
-      "title": "Ring Ring Ring",
+      "name": "Ring Ring Ring",
       "url": "https://www.nhaccuatui.com/bai-hat/ring-ring-ring-gaston-bang-gia-tu-don.WGCssQ926VrN.html"
     },
     {
@@ -7373,7 +7373,7 @@
       "creator": "EN",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui991/KieuNgao-EN-6127721.mp3?st=_fp6I24zdohp6ZFC-PCmMA&e=1631635387",
-      "title": "Kiêu Ngạo / 囂張",
+      "name": "Kiêu Ngạo / 囂張",
       "url": "https://www.nhaccuatui.com/bai-hat/kieu-ngao-en.goazMwlrxvLa.html"
     },
     {
@@ -7383,7 +7383,7 @@
       "creator": "Nhậm Gia Luân",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/NhuNhatChauSinhNhuCoOST-NhamGiaLuan-7074589.mp3?st=1Mge5MEEE7b5m4K87gxFfQ&e=1631635387",
-      "title": "Như Nhất / 如一 (Châu Sinh Như Cố OST)",
+      "name": "Như Nhất / 如一 (Châu Sinh Như Cố OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/nhu-nhat-chau-sinh-nhu-co-ost-nham-gia-luan.g7QMXfE3XPaF.html"
     },
     {
@@ -7393,7 +7393,7 @@
       "creator": "Trịnh Ngư",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1017/ChamThan-TrinhNgu-7034180.mp3?st=ZQYyS8RKwdDckcH_Q79Zvw&e=1631635387",
-      "title": "Chẩm Thán / 怎叹",
+      "name": "Chẩm Thán / 怎叹",
       "url": "https://www.nhaccuatui.com/bai-hat/cham-than-trinh-ngu.St2SoYfRjUfr.html"
     },
     {
@@ -7403,7 +7403,7 @@
       "creator": "Doãn Tích Miên, Tiểu Điền Âm Nhạc Xã",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1013/TayLauBietTu-DoanTichMienTieuDienAmNhacXa-6941953.mp3?st=r5YdkhWeCG-ZonBIWTNexg&e=1631635387",
-      "title": "Tây Lâu Biệt Tự / 西樓別序",
+      "name": "Tây Lâu Biệt Tự / 西樓別序",
       "url": "https://www.nhaccuatui.com/bai-hat/tay-lau-biet-tu-doan-tich-mien-ft-tieu-dien-am-nhac-xa.O1V5h8cjyWRV.html"
     },
     {
@@ -7413,7 +7413,7 @@
       "creator": "Tần Hải Thanh (Qin Haiqing)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1017/KhongBang-TanHaiThanhQinHaiqing-7026419.mp3?st=Tr72s-l-2U6PC8NHzsjknQ&e=1631635387",
-      "title": "Không Bằng / 不如",
+      "name": "Không Bằng / 不如",
       "url": "https://www.nhaccuatui.com/bai-hat/khong-bang-tan-hai-thanh-qin-haiqing.hZ6wfDjzm8u8.html"
     },
     {
@@ -7423,7 +7423,7 @@
       "creator": "Lý Hâm Nhất (Rex)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/LuonLuonLuonLuonThichEmBiMatNoiGocToiOst-LyHamNhatRex-7066137.mp3?st=MuszxdK9B180_RKoIBTHwA&e=1631635387",
-      "title": "Luôn Luôn Luôn Luôn, Thích Em / 一直一直一直, 喜欢你 (Bí Mật Nơi Góc Tối Ost)",
+      "name": "Luôn Luôn Luôn Luôn, Thích Em / 一直一直一直, 喜欢你 (Bí Mật Nơi Góc Tối Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/luon-luon-luon-luon-thich-em-bi-mat-noi-goc-toi-ost-ly-ham-nhat-rex.d9YbrHS8HEtm.html"
     },
     {
@@ -7433,7 +7433,7 @@
       "creator": "Thời Đại Thiếu Niên Đoàn (TNT)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/ToThichCau-ThoiDaiThieuNienDoanTNT-7058536.mp3?st=gia6f1uIALqGmkoa32f4MQ&e=1631635387",
-      "title": "Tớ Thích Cậu / 我喜欢你",
+      "name": "Tớ Thích Cậu / 我喜欢你",
       "url": "https://www.nhaccuatui.com/bai-hat/to-thich-cau-thoi-dai-thieu-nien-doan-tnt.Ot6D8Hkvde7V.html"
     },
     {
@@ -7443,7 +7443,7 @@
       "creator": "Thiền Y Thuần (Dan Yi Chun)",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/VietTiepMotDoiMotKiepOst-ThienYThuanDanYiChun-7084680.mp3?st=Aev2W2l3y60lkD6HogPDtw&e=1631635387",
-      "title": "Viết Tiếp / 续写 (Một Đời Một Kiếp Ost)",
+      "name": "Viết Tiếp / 续写 (Một Đời Một Kiếp Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/viet-tiep-mot-doi-mot-kiep-ost-thien-y-thuan-dan-yi-chun.TkbsxSvu15HH.html"
     },
     {
@@ -7453,7 +7453,7 @@
       "creator": "Châu Hưng Triết (Eric Chou)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1003/TinhYeuVinhVienKhongMatDi-ChauHungTrietEricChou-6627282.mp3?st=kBhG7HvJwTvtRKB-hiwRgA&e=1631635387",
-      "title": "Tình Yêu Vĩnh Viễn Không Mất Đi / 永不失联的爱",
+      "name": "Tình Yêu Vĩnh Viễn Không Mất Đi / 永不失联的爱",
       "url": "https://www.nhaccuatui.com/bai-hat/tinh-yeu-vinh-vien-khong-mat-di-chau-hung-triet-eric-chou.fSid64VXFabo.html"
     },
     {
@@ -7463,7 +7463,7 @@
       "creator": "Đặng Tử Kỳ (G.E.M)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui982/AcMaDenTuThienDuong-DangTuKyGEM-4301353.mp3?st=d7ygtDUTWY8hxmZZ-OeSwQ&e=1631635387",
-      "title": "Ác Ma Đến Từ Thiên Đường / 来自天堂的魔鬼",
+      "name": "Ác Ma Đến Từ Thiên Đường / 来自天堂的魔鬼",
       "url": "https://www.nhaccuatui.com/bai-hat/ac-ma-den-tu-thien-duong-dang-tu-ky-gem.72UNhM1tDdy5.html"
     },
     {
@@ -7473,7 +7473,7 @@
       "creator": "Tỉnh Lung (Jing Long), Tỉnh Địch Nhi",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1018/Kieu-TinhLungJingLongTinhDichNhi-7051530.mp3?st=HO4mJb8tkYbMVlnkX-3dgw&e=1631635387",
-      "title": "Kiêu / 骁",
+      "name": "Kiêu / 骁",
       "url": "https://www.nhaccuatui.com/bai-hat/kieu-tinh-lung-jing-long-ft-tinh-dich-nhi.ClM4FHZ2DVaI.html"
     },
     {
@@ -7483,7 +7483,7 @@
       "creator": "Lộ Gia (Lu Ye)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1009/DaiThienBong-LoGiaLuYe-6889620.mp3?st=NtmRGuSNrAHhIL-ba6UOfg&e=1631635387",
-      "title": "Đại Thiên Bồng / 大天蓬",
+      "name": "Đại Thiên Bồng / 大天蓬",
       "url": "https://www.nhaccuatui.com/bai-hat/dai-thien-bong-lo-gia-lu-ye.a2MiXhjpDNUw.html"
     },
     {
@@ -7493,7 +7493,7 @@
       "creator": "Tiểu Lam Bối Tâm",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/TrongMatDeuLaAnh-TieuLamBoiTam-7055827.mp3?st=wGRcKsxfkTqslEUhcGcSfw&e=1631635387",
-      "title": "Trong Mắt Đều Là Anh",
+      "name": "Trong Mắt Đều Là Anh",
       "url": "https://www.nhaccuatui.com/bai-hat/trong-mat-deu-la-anh-tieu-lam-boi-tam.KA15YbtDveBj.html"
     },
     {
@@ -7503,7 +7503,7 @@
       "creator": "Nhậm Nhiên",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui988/NguoiKeVi-NhamHienRenRan-6045883.mp3?st=rDnuTaXhmmS5Ta-r6mMrag&e=1631635387",
-      "title": "Người Kế Nhiệm / 后继者",
+      "name": "Người Kế Nhiệm / 后继者",
       "url": "https://www.nhaccuatui.com/bai-hat/nguoi-ke-nhiem-nham-nhien.f7FejQJ2F1ug.html"
     },
     {
@@ -7513,7 +7513,7 @@
       "creator": "K.D",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui996/DongMienCover-KD-6240042.mp3?st=qubBcNAAeSA6T3niW_7eJw&e=1631635387",
-      "title": "Đông Miên / 冬眠 Cover",
+      "name": "Đông Miên / 冬眠 Cover",
       "url": "https://www.nhaccuatui.com/bai-hat/dong-mien-cover-kd.qcFQhQUuZdn4.html"
     },
     {
@@ -7523,7 +7523,7 @@
       "creator": "Vương Tĩnh Văn Không Mập",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1004/DeThayDoi-VuongTinhVanKhongMap-6720581.mp3?st=4ZaAowjZxhRoiXqMERI3AA&e=1631635387",
-      "title": "Dễ Thay Đổi / 善變",
+      "name": "Dễ Thay Đổi / 善變",
       "url": "https://www.nhaccuatui.com/bai-hat/de-thay-doi-vuong-tinh-van-khong-map.6S0fp2DnNh1x.html"
     },
     {
@@ -7533,7 +7533,7 @@
       "creator": "Trình Hưởng",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1009/BonMuaTraoAnh-TrinhHuong-6897211.mp3?st=Mqb1vnN-Xjuwx09QjT87yg&e=1631635387",
-      "title": "Bốn Mùa Trao Anh / 四季予你",
+      "name": "Bốn Mùa Trao Anh / 四季予你",
       "url": "https://www.nhaccuatui.com/bai-hat/bon-mua-trao-anh-trinh-huong.gEWo5r9TB8cf.html"
     },
     {
@@ -7543,7 +7543,7 @@
       "creator": "Vương Tĩnh Văn Không Mập",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1012/KhongBietPhaiLamSao-VuongTinhVanKhongMap-6559097.mp3?st=Bs3_-2EeRMUZC266naSlGg&e=1631635387",
-      "title": "Không Biết Phải Làm Sao / 不知所措",
+      "name": "Không Biết Phải Làm Sao / 不知所措",
       "url": "https://www.nhaccuatui.com/bai-hat/khong-biet-phai-lam-sao-vuong-tinh-van-khong-map.IBslMKwwV031.html"
     },
     {
@@ -7553,7 +7553,7 @@
       "creator": "Quang Lương (Michael Wong)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui946/DongThoai-MichaelWongQuangLuong-161624.mp3?st=jmbr1kQoVaj5rvdNOM6qTA&e=1631635387",
-      "title": "Đồng Thoại",
+      "name": "Đồng Thoại",
       "url": "https://www.nhaccuatui.com/bai-hat/dong-thoai-quang-luong-michael-wong.4bp2LeKCTT.html"
     },
     {
@@ -7563,7 +7563,7 @@
       "creator": "Mạc Khiếu Tỷ Tỷ",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/MetRoiDauRoiBuongTayThoi-MacKhieuTyTy-7073620.mp3?st=luOZsfiPPKpAaY5QT-cmTQ&e=1631635387",
-      "title": "Mệt Rồi Đau Rồi Buông Tay Thôi / 累了痛了放手了",
+      "name": "Mệt Rồi Đau Rồi Buông Tay Thôi / 累了痛了放手了",
       "url": "https://www.nhaccuatui.com/bai-hat/met-roi-dau-roi-buong-tay-thoi-mac-khieu-ty-ty.JZjL11EcnuGj.html"
     },
     {
@@ -7573,7 +7573,7 @@
       "creator": "Nghiêm Hạo Tường (Yan Hao Xiang)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/SoDuoi62086208-NghiemHaoTuongYanHaoXiang-7069233.mp3?st=JMBIie27AYfFJAN91nx3JQ&e=1631635387",
-      "title": "Số Đuôi 6208 / 尾号6208",
+      "name": "Số Đuôi 6208 / 尾号6208",
       "url": "https://www.nhaccuatui.com/bai-hat/so-duoi-6208-6208-nghiem-hao-tuong-yan-hao-xiang.kzUcOjcS0GJF.html"
     },
     {
@@ -7583,7 +7583,7 @@
       "creator": "Mạc Khiếu Tỷ Tỷ",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1017/KhongNenTinVaoTinhYeu-MacKhieuTyTy-7035908.mp3?st=Fugmc-Beyb-HEAgURH9osg&e=1631635387",
-      "title": "Không Nên Tin Vào Tình Yêu / 不该用情",
+      "name": "Không Nên Tin Vào Tình Yêu / 不该用情",
       "url": "https://www.nhaccuatui.com/bai-hat/khong-nen-tin-vao-tinh-yeu-mac-khieu-ty-ty.AFcxwroZxazF.html"
     },
     {
@@ -7593,7 +7593,7 @@
       "creator": "Vương Nhất Bác (Wang Yibo), Tiêu Chiến (Xiao Zhan)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui986/VongTienTranTinhLenhOST-VuongNhatBacWangYiboTieuChienXiaoZhan-6010920.mp3?st=0t9p8GYTiQWCNEYWccCiZA&e=1631635388",
-      "title": "Vong Tiện / 忘羡 (Trần Tình Lệnh OST)",
+      "name": "Vong Tiện / 忘羡 (Trần Tình Lệnh OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/vong-tien-tran-tinh-lenh-ost-vuong-nhat-bac-wang-yibo-ft-tieu-chien-xiao-zhan.YC8RoJziLIdd.html"
     },
     {
@@ -7603,7 +7603,7 @@
       "creator": "Uông Tô Lang (Silence Wang), BY2",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui983/CoChutNgotNgao-UongToLangSilenceWangBY2-3710201.mp3?st=LepYS8-k1H2Y2K1x8Tcb9A&e=1631635388",
-      "title": "Có Chút Ngọt Ngào / 有点甜",
+      "name": "Có Chút Ngọt Ngào / 有点甜",
       "url": "https://www.nhaccuatui.com/bai-hat/co-chut-ngot-ngao-uong-to-lang-silence-wang-ft-by2.mEpZUx5R5iSN.html"
     },
     {
@@ -7613,7 +7613,7 @@
       "creator": "Thiền Y Thuần (Dan Yi Chun)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/VietTiepNhatSinhNhatTheOST-ThienYThuanDanYiChun-7084598.mp3?st=h9zVCErPKThUhRnKT4y-Eg&e=1631635388",
-      "title": "Viết Tiếp / 续写 (Nhất Sinh Nhất Thế OST)",
+      "name": "Viết Tiếp / 续写 (Nhất Sinh Nhất Thế OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/viet-tiep-nhat-sinh-nhat-the-ost-thien-y-thuan-dan-yi-chun.NDBAOyuIyVLz.html"
     },
     {
@@ -7623,7 +7623,7 @@
       "creator": "Tiểu Lam Bối Tâm",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/TrongMatDeuLaAnhRemix-TieuLamBoiTam-7056290.mp3?st=yLW8dJ4navpvGwh7iwGDCg&e=1631635388",
-      "title": "Trong Mắt Đều Là Anh Remix/ 目及皆是你 (心跳版)",
+      "name": "Trong Mắt Đều Là Anh Remix/ 目及皆是你 (心跳版)",
       "url": "https://www.nhaccuatui.com/bai-hat/trong-mat-deu-la-anh-remix-tieu-lam-boi-tam.HvDhMbrK02Na.html"
     },
     {
@@ -7633,7 +7633,7 @@
       "creator": "Mạc Khiếu Tỷ Tỷ",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1017/AnhCoTheNaoDungRoiXaEm-MacKhieuTyTy-7043614.mp3?st=BuRYhgL4UDaASgtjT-576g&e=1631635388",
-      "title": "Anh Có Thể Nào Đừng Rời Xa Em / 你能不能不要离开我",
+      "name": "Anh Có Thể Nào Đừng Rời Xa Em / 你能不能不要离开我",
       "url": "https://www.nhaccuatui.com/bai-hat/anh-co-the-nao-dung-roi-xa-em-mac-khieu-ty-ty.MYDqbRHNUOs1.html"
     },
     {
@@ -7643,7 +7643,7 @@
       "creator": "Hàm Đại Tiên Nhi (Han Da Xian Er)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/DieuNguNgocKhongNenLam-HamDaiTienNhiHanDaXianEr-7074349.mp3?st=n2ZI8YfRolghIWbwJvfA9w&e=1631635388",
-      "title": "Điều Ngu Ngốc Không Nên Làm / 不该犯的蠢",
+      "name": "Điều Ngu Ngốc Không Nên Làm / 不该犯的蠢",
       "url": "https://www.nhaccuatui.com/bai-hat/dieu-ngu-ngoc-khong-nen-lam-ham-dai-tien-nhi-han-da-xian-er.9Bj2te3syAcv.html"
     },
     {
@@ -7653,7 +7653,7 @@
       "creator": "Lý Tuấn Nghị (Li Jun Yi)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/CauChuTuocHoaRaEmRatYeuAnhOst-LyTuanNghiLiJunYi-7065630.mp3?st=aDx5-7fUR_T1D06tjHkOcA&e=1631635388",
-      "title": "Cầu Chu Tước (Hoá Ra Em Rất Yêu Anh Ost)",
+      "name": "Cầu Chu Tước (Hoá Ra Em Rất Yêu Anh Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/cau-chu-tuoc-hoa-ra-em-rat-yeu-anh-ost-ly-tuan-nghi-li-jun-yi.ODcqCYoQI1po.html"
     },
     {
@@ -7663,7 +7663,7 @@
       "creator": "Lâm Ngạn Tuấn (Evan Lin)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/HoaRaAnhRatYeuEmHoaRaEmRatYeuAnhOST-LamNganTuanEvanLin-7067746.mp3?st=kbAUy3aM41gnZnfghs7xhQ&e=1631635388",
-      "title": "Hóa Ra Anh Rất Yêu Em / 原来我很爱你 (Hóa Ra Em Rất Yêu Anh OST)",
+      "name": "Hóa Ra Anh Rất Yêu Em / 原来我很爱你 (Hóa Ra Em Rất Yêu Anh OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/hoa-ra-anh-rat-yeu-em-hoa-ra-em-rat-yeu-anh-ost-lam-ngan-tuan-evan-lin.CrAP2Mf5WIDW.html"
     },
     {
@@ -7673,7 +7673,7 @@
       "creator": "Danh Quyết",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui995/LuKhachQuaThoiGian-DanhQuyet-6224911.mp3?st=oceHi__wR_3pVF41xTRvJw&e=1631635388",
-      "title": "Lữ Khách Qua Thời Gian / 时间的过客",
+      "name": "Lữ Khách Qua Thời Gian / 时间的过客",
       "url": "https://www.nhaccuatui.com/bai-hat/lu-khach-qua-thoi-gian-danh-quyet.ExHtPEplevkP.html"
     },
     {
@@ -7683,7 +7683,7 @@
       "creator": "Vượng Tử Tiểu Kiều",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1016/VayGiu-VuongTuTieuKieu-7021510.mp3?st=Fi1NwdcnltiBuDTqSy051w&e=1631635388",
-      "title": "Vây Giữ / 沦陷",
+      "name": "Vây Giữ / 沦陷",
       "url": "https://www.nhaccuatui.com/bai-hat/vay-giu-vuong-tu-tieu-kieu.x60MB1ylOe8J.html"
     },
     {
@@ -7693,7 +7693,7 @@
       "creator": "Thời Đại Thiếu Niên Đoàn (TNT)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/DoNgoc-ThoiDaiThieuNienDoanTNT-7065159.mp3?st=rP8YFImWe1vW-CTscx3xjQ&e=1631635388",
-      "title": "Đồ Ngốc / 傻瓜",
+      "name": "Đồ Ngốc / 傻瓜",
       "url": "https://www.nhaccuatui.com/bai-hat/do-ngoc-thoi-dai-thieu-nien-doan-tnt.BjoGWFt2dajJ.html"
     },
     {
@@ -7703,7 +7703,7 @@
       "creator": "Mộng Nhiên (Meng Ran)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui996/ThieuNien-MongNhienMengRan-6238337.mp3?st=qAXc25MLRrTR7wi_Pu_tlA&e=1631635388",
-      "title": "Thiếu Niên / 少年",
+      "name": "Thiếu Niên / 少年",
       "url": "https://www.nhaccuatui.com/bai-hat/thieu-nien-mong-nhien-meng-ran.ElKDY7O78Ct1.html"
     },
     {
@@ -7713,7 +7713,7 @@
       "creator": "Tô Thi Đinh (Juno Su)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/AsIBelieveHoaRaEmRatYeuAnhOst-ToThiDinhJunoSu-7065626.mp3?st=tJck_kFlKm3BlamiGPnglA&e=1631635388",
-      "title": "As I Believe (Hoá Ra Em Rất Yêu Anh Ost)",
+      "name": "As I Believe (Hoá Ra Em Rất Yêu Anh Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/as-i-believe-hoa-ra-em-rat-yeu-anh-ost-to-thi-dinh-juno-su.ZmOC0oTMRwCo.html"
     },
     {
@@ -7723,7 +7723,7 @@
       "creator": "Tỉnh Lung (Jing Long)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui998/DanhMatEm-TinhLungJingLong-6268395.mp3?st=FH8Dx2wD1Kt2btryr31WDg&e=1631635388",
-      "title": "Đánh Mất Em / 丢了你",
+      "name": "Đánh Mất Em / 丢了你",
       "url": "https://www.nhaccuatui.com/bai-hat/danh-mat-em-tinh-lung-jing-long.Iq8BFzO3gkMQ.html"
     },
     {
@@ -7733,7 +7733,7 @@
       "creator": "Nhậm Nhiên",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui995/DaoKhongNguoi-NhamNhien-6215702.mp3?st=fGI7BQNbVMnbIqsTUwObLA&e=1631635388",
-      "title": "Đảo Không Người / 無人之島",
+      "name": "Đảo Không Người / 無人之島",
       "url": "https://www.nhaccuatui.com/bai-hat/dao-khong-nguoi-nham-nhien.k81ekzAPVknu.html"
     },
     {
@@ -7743,7 +7743,7 @@
       "creator": "Hy Lâm Na Y Cao (Curley G), MiKa Hashizume",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/SaVaoTinhYeuEmLaNiemKieuHanhCuaAnhOst-HyLamNaYCaoCurleyGMiKaHashizume-7056777.mp3?st=Ane9gdxDFub7qQ9vJw4F2w&e=1631635388",
-      "title": "Sa Vào Tình Yêu / 陷入爱情 ( Em Là Niềm Kiêu Hãnh Của Anh Ost)",
+      "name": "Sa Vào Tình Yêu / 陷入爱情 ( Em Là Niềm Kiêu Hãnh Của Anh Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/sa-vao-tinh-yeu-em-la-niem-kieu-hanh-cua-anh-ost-hy-lam-na-y-cao-curley-g-ft-mika-hashizume.5L3DXdweSY0K.html"
     },
     {
@@ -7753,7 +7753,7 @@
       "creator": "Mao Bất Dịch (Mao Bu Yi)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui960/BatNhiem-MaoBatDichMaoBuyi-5393965.mp3?st=q7raaE3MjDWszr9ZQstg2A&e=1631635388",
-      "title": "Bất Nhiễm / 不染 (Hương Mật Tựa Khói Sương OST)",
+      "name": "Bất Nhiễm / 不染 (Hương Mật Tựa Khói Sương OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/bat-nhiem-huong-mat-tua-khoi-suong-ost-mao-bat-dich-mao-bu-yi.Upgs3eL7JyWH.html"
     },
     {
@@ -7763,7 +7763,7 @@
       "creator": "Tưởng Tiểu Ni",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1014/ForYa-TuongTieuNi-6939824.mp3?st=JW_OCgQyByQOMKyrIxZQtA&e=1631635388",
-      "title": "For Ya",
+      "name": "For Ya",
       "url": "https://www.nhaccuatui.com/bai-hat/for-ya-tuong-tieu-ni.V7l7BfFo7Zsk.html"
     },
     {
@@ -7773,7 +7773,7 @@
       "creator": "Từ Giai Oánh (Lala Hsu)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/ThoiGianDocThoaiEmLaNiemKieuHanhCuaAnhOst-TuGiaiOanhLalaHsu-7056768.mp3?st=CWxBS-2ejw-52vSBqMDJOQ&e=1631635388",
-      "title": "Thời Gian Độc Thoại / 光阴独白 (Em Là Niềm Kiêu Hãnh Của Anh Ost)",
+      "name": "Thời Gian Độc Thoại / 光阴独白 (Em Là Niềm Kiêu Hãnh Của Anh Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/thoi-gian-doc-thoai-em-la-niem-kieu-hanh-cua-anh-ost-tu-giai-oanh-lala-hsu.neHjaQ1gL9Fa.html"
     },
     {
@@ -7783,7 +7783,7 @@
       "creator": "Đặng Tử Kỳ (G.E.M)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui942/DaoHoaNacThuongCoTinhCaOST-GEMDangTuKy-5011028.mp3?st=jndN74Mx8KxOviwb7llPag&e=1631635388",
-      "title": "Đào Hoa Nặc (Thượng Cổ Tình Ca OST)",
+      "name": "Đào Hoa Nặc (Thượng Cổ Tình Ca OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/dao-hoa-nac-thuong-co-tinh-ca-ost-dang-tu-ky-gem.zm9oGLBZBbpJ.html"
     },
     {
@@ -7793,7 +7793,7 @@
       "creator": "Hoàng Tiêu Vân (Ghost Huang)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1010/SaoTroiBienRong-HoangTieuVanGhostHuang-6927048.mp3?st=_nalR1YkiKZocZ1vzedgWA&e=1631635388",
-      "title": "Sao Trời Biển Rộng /  星辰大海",
+      "name": "Sao Trời Biển Rộng /  星辰大海",
       "url": "https://www.nhaccuatui.com/bai-hat/sao-troi-bien-rong-hoang-tieu-van-ghost-huang.t52Q0Ci7ZrMU.html"
     },
     {
@@ -7803,7 +7803,7 @@
       "creator": "Đỗ Thiên Vũ (Jacky Du Tian Yu),",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/HuongViLangManBiMatNoiGocToiOst-DoThienVuJackyDuTianYu-7066142.mp3?st=SPic1iR43czUsVXPnfTt-g&e=1631635388",
-      "title": "Hương Vị Lãng Mạn / 浪漫味道 (Bí Mật Nơi Góc Tối Ost)",
+      "name": "Hương Vị Lãng Mạn / 浪漫味道 (Bí Mật Nơi Góc Tối Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/huong-vi-lang-man-bi-mat-noi-goc-toi-ost-do-thien-vu-jacky-du-tian-yu.l2QSjfn0Jt3B.html"
     },
     {
@@ -7813,7 +7813,7 @@
       "creator": "Trình Giai Giai (Cheng Jia Jia)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1016/DungBoLo-TrinhGiaiGiaiChengJiaJia-7020680.mp3?st=AK1luePbu8suQ5o99FNI4w&e=1631635388",
-      "title": "Đừng Bỏ Lỡ / 别错过",
+      "name": "Đừng Bỏ Lỡ / 别错过",
       "url": "https://www.nhaccuatui.com/bai-hat/dung-bo-lo-trinh-giai-giai-cheng-jia-jia.GDKyMhVL2lWe.html"
     },
     {
@@ -7823,7 +7823,7 @@
       "creator": "Lưu Chí Giai, Han Dong (Hàn Đống)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/EmOPhiaSauThoiGian-LuuChiGiaiHanDongHanDong-7056152.mp3?st=zIDJXjnNnI8zu_NlEFvCNw&e=1631635388",
-      "title": "Em Ở Phía Sau Thời Gian 時光背面的我",
+      "name": "Em Ở Phía Sau Thời Gian 時光背面的我",
       "url": "https://www.nhaccuatui.com/bai-hat/em-o-phia-sau-thoi-gian-luu-chi-giai-ft-han-dong-han-dong.1SU8jwZ3T0rp.html"
     },
     {
@@ -7833,7 +7833,7 @@
       "creator": "Lưu Chí Giai, Hàn Đồng (Han Tong)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/EmOPhiaSauThoiGian-LuuChiGiaiHanDongHanTong-7054167.mp3?st=dyJFzLxk0PLZwYnXj1oSSQ&e=1631635388",
-      "title": "Em Ở Phía Sau Thời Gian (时光背面的我)",
+      "name": "Em Ở Phía Sau Thời Gian (时光背面的我)",
       "url": "https://www.nhaccuatui.com/bai-hat/em-o-phia-sau-thoi-gian-luu-chi-giai-ft-han-dong-han-tong.t9q1F32PbMUQ.html"
     },
     {
@@ -7843,7 +7843,7 @@
       "creator": "Hoa Chúc, Vương Thắng Nam",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui981/XuatSon-HoaChucVuongThangNam-5883657.mp3?st=nyiNfzAuqyUtGfkPULQsDw&e=1631635388",
-      "title": "Xuất Sơn / 出山",
+      "name": "Xuất Sơn / 出山",
       "url": "https://www.nhaccuatui.com/bai-hat/xuat-son-hoa-chuc-ft-vuong-thang-nam.LGYodRfNtMTj.html"
     },
     {
@@ -7853,7 +7853,7 @@
       "creator": "Phù Sinh Mộng",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/ThamSong-PhuSinhMong-7057215.mp3?st=YHzYjieUgqE-rDzv8epmdg&e=1631635388",
-      "title": "Tham Song / 探窗",
+      "name": "Tham Song / 探窗",
       "url": "https://www.nhaccuatui.com/bai-hat/tham-song-phu-sinh-mong.wNcLF6ouT792.html"
     },
     {
@@ -7863,7 +7863,7 @@
       "creator": "Phương Thập Nhị (Fang Shier)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1009/GiacMoKhongTheDanhThuc-PhuongThapNhiFangShier-6893471.mp3?st=aNH6fl2TCL19KPnAjuFMww&e=1631635388",
-      "title": "Giấc Mơ Không Thể Đánh Thức / 醒不来的梦",
+      "name": "Giấc Mơ Không Thể Đánh Thức / 醒不来的梦",
       "url": "https://www.nhaccuatui.com/bai-hat/giac-mo-khong-the-danh-thuc-phuong-thap-nhi-fang-shier.N6vkj9jvDgl3.html"
     },
     {
@@ -7873,7 +7873,7 @@
       "creator": "Ngụy Thần (Wei Chen)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/LuanHamHoaRaEmRatYeuAnhOST-NguyThanWeiChen-7067750.mp3?st=Vi80vHIA-f8F-X_bMbE8Jw&e=1631635388",
-      "title": "Luân Hãm / 沦陷 (Hóa Ra Em Rất Yêu Anh OST)",
+      "name": "Luân Hãm / 沦陷 (Hóa Ra Em Rất Yêu Anh OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/luan-ham-hoa-ra-em-rat-yeu-anh-ost-nguy-than-wei-chen.YA5YS09tQHit.html"
     },
     {
@@ -7883,7 +7883,7 @@
       "creator": "Viên Á Duy (Tia Ray)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui993/ViNguoiMaDen-VienADuyTiaRay-6175529.mp3?st=uzIBFHClox1wmyhRY8CQNQ&e=1631635388",
-      "title": "Vì Người Mà Đến / 为你而来",
+      "name": "Vì Người Mà Đến / 为你而来",
       "url": "https://www.nhaccuatui.com/bai-hat/vi-nguoi-ma-den-vien-a-duy-tia-ray.lgAYzhCwAo2L.html"
     },
     {
@@ -7893,7 +7893,7 @@
       "creator": "Tiểu Lam Bối Tâm",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/TrongDoiMatDeuLaAnh-TieuLamBoiTam-7057624.mp3?st=0KzpdNGshb6BLpsBSgYnmw&e=1631635388",
-      "title": "Trong Đôi Mắt Đều Là Anh / 目及皆是你",
+      "name": "Trong Đôi Mắt Đều Là Anh / 目及皆是你",
       "url": "https://www.nhaccuatui.com/bai-hat/trong-doi-mat-deu-la-anh-tieu-lam-boi-tam.UrwL0CDf7DHR.html"
     },
     {
@@ -7903,7 +7903,7 @@
       "creator": "Vương Hân Thần (Amanda), Tô Tinh Tiệp",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1014/ThanhTru-VuongHanThanAmandaToTinhTiep-6932215.mp3?st=gBicY8G8dGEhxo-dzvFyUA&e=1631635388",
-      "title": "Thanh Trừ / 清空",
+      "name": "Thanh Trừ / 清空",
       "url": "https://www.nhaccuatui.com/bai-hat/thanh-tru-vuong-han-than-amanda-ft-to-tinh-tiep.1AoR1Xo4JNYZ.html"
     },
     {
@@ -7913,7 +7913,7 @@
       "creator": "A Tứ (A Si)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1001/NhietTinhYeuThuong105Do105C-ATuASi-6289533.mp3?st=ncwJUe4D2OiDujeDbm0h0A&e=1631635388",
-      "title": "Nhiệt Tình Yêu Thương 105 Độ / 熱愛105°C的你",
+      "name": "Nhiệt Tình Yêu Thương 105 Độ / 熱愛105°C的你",
       "url": "https://www.nhaccuatui.com/bai-hat/nhiet-tinh-yeu-thuong-105-do-105c-a-tu-a-si.TciI7mHXxBTB.html"
     },
     {
@@ -7923,7 +7923,7 @@
       "creator": "Linh Nhất Cửu Linh Nhị",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1004/VongXuyenBiNgan-LinhNhatCuuLinhNhi-6720766.mp3?st=jijKLgVO7gWTQTMFIiv1-w&e=1631635388",
-      "title": "Vong Xuyên Bỉ Ngạn / 忘川彼岸",
+      "name": "Vong Xuyên Bỉ Ngạn / 忘川彼岸",
       "url": "https://www.nhaccuatui.com/bai-hat/vong-xuyen-bi-ngan-linh-nhat-cuu-linh-nhi.9twYkT9uA8Aa.html"
     },
     {
@@ -7933,7 +7933,7 @@
       "creator": "Dương Tông Vỹ (Aska Yang)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/NoiChoEmNgheEmLaNiemKieuHanhCuaAnhOst-DuongTongVyAskaYang-7057315.mp3?st=1hijZmD-RazsEgUgss6HbQ&e=1631635388",
-      "title": "Nói Cho Em Nghe / 说给你听 (Em Là Niềm Kiêu Hãnh Của Anh Ost)",
+      "name": "Nói Cho Em Nghe / 说给你听 (Em Là Niềm Kiêu Hãnh Của Anh Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/noi-cho-em-nghe-em-la-niem-kieu-hanh-cua-anh-ost-duong-tong-vy-aska-yang.b0juUlXhtZAz.html"
     },
     {
@@ -7943,7 +7943,7 @@
       "creator": "Hứa Lam Tâm (Xu Lan Xin)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1014/HongMa-HuaLamTamXuLanXin-6997834.mp3?st=wXqYbk5NXT8GOqRmZRjYOQ&e=1631635388",
-      "title": "Hồng Mã / 红马",
+      "name": "Hồng Mã / 红马",
       "url": "https://www.nhaccuatui.com/bai-hat/hong-ma-hua-lam-tam-xu-lan-xin.vzqGmDa9m3Iq.html"
     },
     {
@@ -7953,7 +7953,7 @@
       "creator": "Là Thất Thúc Đây",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1016/NuaDoiTuyet-LaThatThucDay-7021161.mp3?st=QjfIh6Ze24nrQvd7U8xp7w&e=1631635388",
-      "title": "Nửa Đời Tuyết / 半生雪",
+      "name": "Nửa Đời Tuyết / 半生雪",
       "url": "https://www.nhaccuatui.com/bai-hat/nua-doi-tuyet-la-that-thuc-day.pnFkHgMUxTrP.html"
     },
     {
@@ -7963,7 +7963,7 @@
       "creator": "Dã Khả (Ye Ke)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1018/KhongBang-DaKhaYeKe-7053130.mp3?st=I8UsbLHSKyi5i8OWnSC1qQ&e=1631635388",
-      "title": "Không Bằng / 不如",
+      "name": "Không Bằng / 不如",
       "url": "https://www.nhaccuatui.com/bai-hat/khong-bang-da-kha-ye-ke.2n1FCZ17s9k4.html"
     },
     {
@@ -7973,7 +7973,7 @@
       "creator": "Văn Nhân Thính Thư (Yi Xiao Jiang Hu)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1003/NguHeThan-VanNhanThinhThuYiXiaoJiangHu-6607010.mp3?st=86wpd78CrxSOSpnTJLVcUQ&e=1631635388",
-      "title": "Ngu Hề Thán / 虞兮叹",
+      "name": "Ngu Hề Thán / 虞兮叹",
       "url": "https://www.nhaccuatui.com/bai-hat/ngu-he-than-van-nhan-thinh-thu-yi-xiao-jiang-hu.B5iPtprZvqrt.html"
     },
     {
@@ -7983,7 +7983,7 @@
       "creator": "Cúc Tịnh Y (Ju Jing Yi)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui966/ThanVanHe-CucTinhYJuJingYi-5521288.mp3?st=MNRbpHf5dP2snmEvoJSV-g&e=1631635388",
-      "title": "Thán Vân Hề / 叹云兮 (Vân Tịch Truyện OST)",
+      "name": "Thán Vân Hề / 叹云兮 (Vân Tịch Truyện OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/than-van-he-van-tich-truyen-ost-cuc-tinh-y-ju-jing-yi.Z576zyJWVYEk.html"
     },
     {
@@ -7993,7 +7993,7 @@
       "creator": "A Nhũng (Rong)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui993/DapAnCuaBan-ANhungRong-6147969.mp3?st=yMpNrBKbplSrbXZ7tjMDPw&e=1631635388",
-      "title": "Đáp Án Của Bạn / 你的答案",
+      "name": "Đáp Án Của Bạn / 你的答案",
       "url": "https://www.nhaccuatui.com/bai-hat/dap-an-cua-ban-a-nhung-rong.gh7KJzukBL8K.html"
     },
     {
@@ -8003,7 +8003,7 @@
       "creator": "Trịnh Diệc Thần (Zheng Yi Chen)",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1001/TuongTuThanhHoa-TrinhDiecThanZhengYiChen-6419539.mp3?st=_wmzfb04WFwtYpWA0FqSwQ&e=1631635388",
-      "title": "Tương Tư Thành Họa / 相思成灾",
+      "name": "Tương Tư Thành Họa / 相思成灾",
       "url": "https://www.nhaccuatui.com/bai-hat/tuong-tu-thanh-hoa-trinh-diec-than-zheng-yi-chen.U8eUkFVDX2co.html"
     },
     {
@@ -8013,7 +8013,7 @@
       "creator": "Quách Tĩnh (Claire Kuo)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/GiacMoTinhYeuCuaAnhAyBiMatNoiGocToiOst-QuachTinhClaireKuo-7066140.mp3?st=9f42UBzdrdrV-htKfEm-Wg&e=1631635388",
-      "title": "Giấc Mơ Tình Yêu Của Anh Ấy / 他爱的梦 (Bí Mật Nơi Góc Tối Ost)",
+      "name": "Giấc Mơ Tình Yêu Của Anh Ấy / 他爱的梦 (Bí Mật Nơi Góc Tối Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/giac-mo-tinh-yeu-cua-anh-ay-bi-mat-noi-goc-toi-ost-quach-tinh-claire-kuo.xb55wopAg0d8.html"
     },
     {
@@ -8023,7 +8023,7 @@
       "creator": "Hải Lai A Mộc (Hai Lai A Mu)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1005/BatQuaNhanGian-HaiLaiAMocHaiLaiAMu-6791817.mp3?st=cTuyVifd88xYqQOiwY0pXA&e=1631635388",
-      "title": "Bất Quá Nhân Gian / 不过人间",
+      "name": "Bất Quá Nhân Gian / 不过人间",
       "url": "https://www.nhaccuatui.com/bai-hat/bat-qua-nhan-gian-hai-lai-a-moc-hai-lai-a-mu.it8LcZo6GTCA.html"
     },
     {
@@ -8033,7 +8033,7 @@
       "creator": "A Yue Yue",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1012/TamDu-AYueYue-6954792.mp3?st=THst-V6KvyTrSIqZ5zu0Vg&e=1631635388",
-      "title": "Tầm Dữ / 寻屿",
+      "name": "Tầm Dữ / 寻屿",
       "url": "https://www.nhaccuatui.com/bai-hat/tam-du-a-yue-yue.yZFzvbgQeUcA.html"
     },
     {
@@ -8043,7 +8043,7 @@
       "creator": "Ice Paper",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui982/TamLangNhuNuoc-IcePaper-5946569.mp3?st=MoIb7DzwIWI98JX86LhR9A&e=1631635388",
-      "title": "Tâm Lặng Như Nước / 心如止水",
+      "name": "Tâm Lặng Như Nước / 心如止水",
       "url": "https://www.nhaccuatui.com/bai-hat/tam-lang-nhu-nuoc-ice-paper.3dOydr6x2UMp.html"
     },
     {
@@ -8053,7 +8053,7 @@
       "creator": "Phu Mộng Đồng (Fu Meng Tong)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1008/ThuyTrieuDJRemix-PhoMongDong-6854198.mp3?st=NZWQPHMMe_92VoqBGeDLeQ&e=1631635388",
-      "title": "Thủy Triều / 潮汐 (DJ 版 Remix)",
+      "name": "Thủy Triều / 潮汐 (DJ 版 Remix)",
       "url": "https://www.nhaccuatui.com/bai-hat/thuy-trieu-dj-remix-phu-mong-dong-fu-meng-tong.Q3x9i4ZTngHm.html"
     },
     {
@@ -8063,7 +8063,7 @@
       "creator": "Đại Thần Tuệ (Da Shen Hui)",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/CungChangNhanGian-DaiThanTueDaShenHui-7076796.mp3?st=wgKItTn7PaJWDsyVceesgQ&e=1631635388",
-      "title": "Cùng Chàng Nhân Gian / 与你人间",
+      "name": "Cùng Chàng Nhân Gian / 与你人间",
       "url": "https://www.nhaccuatui.com/bai-hat/cung-chang-nhan-gian-dai-than-tue-da-shen-hui.AbpfPVr5gENP.html"
     },
     {
@@ -8073,7 +8073,7 @@
       "creator": "Hồ Ý Hoàn (Hu Yi Xuan)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/CuocHenNgaynangHaTienSinhLuuLuyenKhongQuenOst-HoYHoanHuYiXuan-7055046.mp3?st=_tL0i0OK4J7iPTxvl0Xkuw&e=1631635388",
-      "title": "Cuộc Hẹn Ngày Nắng / 晴天约会 (Hạ Tiên Sinh Lưu Luyến Không Quên Ost)",
+      "name": "Cuộc Hẹn Ngày Nắng / 晴天约会 (Hạ Tiên Sinh Lưu Luyến Không Quên Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/cuoc-hen-ngay-nang-ha-tien-sinh-luu-luyen-khong-quen-ost-ho-y-hoan-hu-yi-xuan.vv7cLMytKJ6s.html"
     },
     {
@@ -8083,7 +8083,7 @@
       "creator": "Hải Luân (Hai Lun)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1000/DuSonLuyen-HaiLuanHaiLun-6316678.mp3?st=rP2UxFQi3gBG6yTaRLR6Zg&e=1631635388",
-      "title": "Du Sơn Luyến (游山恋)",
+      "name": "Du Sơn Luyến (游山恋)",
       "url": "https://www.nhaccuatui.com/bai-hat/du-son-luyen-hai-luan-hai-lun.rz9lvwLzXcKV.html"
     },
     {
@@ -8093,7 +8093,7 @@
       "creator": "Mao Bất Dịch (Mao Bu Yi)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1017/NienTueThienCoQuyetTranOst-MaoBatDichMaoBuYi-7034456.mp3?st=VLr-_wZFD3IhdpmN8G3JRA&e=1631635388",
-      "title": "Niên Tuế / 年岁 (Thiên Cổ Quyết Trần Ost)",
+      "name": "Niên Tuế / 年岁 (Thiên Cổ Quyết Trần Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/nien-tue-thien-co-quyet-tran-ost-mao-bat-dich-mao-bu-yi.mM3tnczzxLpx.html"
     }
   ],
@@ -14085,7 +14085,7 @@
       "creator": "LISA",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio2/Lalisa-LISA-7086697.mp3?st=Yn_7VpdvIXp1FdK2zlyb8Q&e=1631635385",
-      "title": "Lalisa",
+      "name": "Lalisa",
       "url": "https://www.nhaccuatui.com/bai-hat/lalisa-lisa.qcCxlPet18cu.html"
     },
     {
@@ -14095,7 +14095,7 @@
       "creator": "LISA",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio2/Money-LISA-7086698.mp3?st=0hzqOQMTgAe0bgrkjvgnHw&e=1631635385",
-      "title": "Money",
+      "name": "Money",
       "url": "https://www.nhaccuatui.com/bai-hat/money-lisa.QULPMaVJKR11.html"
     },
     {
@@ -14105,7 +14105,7 @@
       "creator": "ROSÉ",
       "lyric": "https://lrc-nct.nixcdn.com/2021/04/01/8/f/f/4/1617211023518.lrc",
       "music": "https://aredir.nixcdn.com/YG_Audio1/Gone-ROSE-6964052.mp3?st=oTCjO7LHBTw75VdAcijsxQ&e=1631635385",
-      "title": "Gone",
+      "name": "Gone",
       "url": "https://www.nhaccuatui.com/bai-hat/gone-rose.LCMlhmEob9Fl.html"
     },
     {
@@ -14115,7 +14115,7 @@
       "creator": "ROSÉ",
       "lyric": "https://lrc-nct.nixcdn.com/2021/03/25/3/b/0/1/1616634269302.lrc",
       "music": "https://aredir.nixcdn.com/YG_Audio1/OnTheGround-ROSE-6964051.mp3?st=ijZyob5xtHbQzvZcfiSciQ&e=1631635385",
-      "title": "On The Ground",
+      "name": "On The Ground",
       "url": "https://www.nhaccuatui.com/bai-hat/on-the-ground-rose.ognq0zWmtoHd.html"
     },
     {
@@ -14125,7 +14125,7 @@
       "creator": "aespa",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1016/NextLevel-aespa-7021130.mp3?st=yuBLwUM-NQ7cncjxHCLAKg&e=1631635385",
-      "title": "Next Level",
+      "name": "Next Level",
       "url": "https://www.nhaccuatui.com/bai-hat/next-level-aespa.t3WNBWHoLWGd.html"
     },
     {
@@ -14135,7 +14135,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/2020/06/26/f/0/0/1/1593166329067.lrc",
       "music": "https://aredir.nixcdn.com/YG_Audio1/HowYouLikeThat-BLACKPINK-6720100.mp3?st=66egF8z-UNqAzFvlljYDIw&e=1631635385",
-      "title": "How You Like That",
+      "name": "How You Like That",
       "url": "https://www.nhaccuatui.com/bai-hat/how-you-like-that-blackpink.kiqKPIGPJ15C.html"
     },
     {
@@ -14145,7 +14145,7 @@
       "creator": "JENNIE",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui971/Solo-JennieBlackPink-5738971.mp3?st=mbqkxBro-YXnd36oqkeSFA&e=1631635385",
-      "title": "Solo",
+      "name": "Solo",
       "url": "https://www.nhaccuatui.com/bai-hat/solo-jennie.iA7fq5hQqU3F.html"
     },
     {
@@ -14155,7 +14155,7 @@
       "creator": "SOMI",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio2/DumbDumb-NhacCuaTui-7058906.mp3?st=MZONs6mhNRPWvW-dLODOAA&e=1631635385",
-      "title": "Dumb Dumb",
+      "name": "Dumb Dumb",
       "url": "https://www.nhaccuatui.com/bai-hat/dumb-dumb-somi.alnx10Fq6Gfu.html"
     },
     {
@@ -14165,7 +14165,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/LovesickGirls-BLACKPINK-6720104.mp3?st=kIdkTxb0b9rLVFAF8U-6qQ&e=1631635385",
-      "title": "Lovesick Girls",
+      "name": "Lovesick Girls",
       "url": "https://www.nhaccuatui.com/bai-hat/lovesick-girls-blackpink.P7pRcQxX72jT.html"
     },
     {
@@ -14175,7 +14175,7 @@
       "creator": "Lee Hi",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Only-LeeHi-7076476.mp3?st=CxQxCMvBTZ-NIoJOyM-AAA&e=1631635385",
-      "title": "Only",
+      "name": "Only",
       "url": "https://www.nhaccuatui.com/bai-hat/only-lee-hi.2GY0N0EwErjG.html"
     },
     {
@@ -14185,7 +14185,7 @@
       "creator": "Red Velvet",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Queendom-RedVelvet-7068439.mp3?st=T5Tu75btbQ17v15OR0KbFw&e=1631635385",
-      "title": "Queendom",
+      "name": "Queendom",
       "url": "https://www.nhaccuatui.com/bai-hat/queendom-red-velvet.FBqrXuhxrX6T.html"
     },
     {
@@ -14195,7 +14195,7 @@
       "creator": "Lee Suhyun (AKMU), Onew (SHINee)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/FlyingDeepInNight-LeeSuhyunAKMUOnewSHINee-7075107.mp3?st=ROTMR1SMutezj7KGOiQkmA&e=1631635385",
-      "title": "Flying, Deep In The Night",
+      "name": "Flying, Deep In The Night",
       "url": "https://www.nhaccuatui.com/bai-hat/flying-deep-in-the-night-lee-suhyun-akmu-ft-onew-shinee.pGmJiWuCdU59.html"
     },
     {
@@ -14205,7 +14205,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/DduduDdudu-BLACKPINK-6291998.mp3?st=2uoXxC32h7dTM2YnjSV1dA&e=1631635385",
-      "title": "DDU-DU DDU-DU",
+      "name": "DDU-DU DDU-DU",
       "url": "https://www.nhaccuatui.com/bai-hat/ddu-du-ddu-du-blackpink.nS0OePwUnQIa.html"
     },
     {
@@ -14215,7 +14215,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/PrettySavage-BLACKPINK-6720102.mp3?st=hN2gRsR_toegipe_5MD7cg&e=1631635385",
-      "title": "Pretty Savage",
+      "name": "Pretty Savage",
       "url": "https://www.nhaccuatui.com/bai-hat/pretty-savage-blackpink.k2b1JEko9HUW.html"
     },
     {
@@ -14225,7 +14225,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/KillThisLove-BLACKPINK-6291967.mp3?st=5r1vYhmv_xepNjjS2NdM8w&e=1631635385",
-      "title": "Kill This Love",
+      "name": "Kill This Love",
       "url": "https://www.nhaccuatui.com/bai-hat/kill-this-love-blackpink.Nhj2faFaSq0i.html"
     },
     {
@@ -14235,7 +14235,7 @@
       "creator": "HyunA, Dawn",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/PingPong-HyunADawn-7085605.mp3?st=OmpuWu7sMn_O63T1R-uozA&e=1631635385",
-      "title": "Ping Pong",
+      "name": "Ping Pong",
       "url": "https://www.nhaccuatui.com/bai-hat/ping-pong-hyuna-ft-dawn.J5ESerqdalDV.html"
     },
     {
@@ -14245,7 +14245,7 @@
       "creator": "Jung Kook (BTS)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui999/StillWithYou-JungKookBTS-6289699.mp3?st=q2650GUFBf_b4JDpDVA61Q&e=1631635385",
-      "title": "Still With You",
+      "name": "Still With You",
       "url": "https://www.nhaccuatui.com/bai-hat/still-with-you-jung-kook-bts.Xd6MKLS2B8UH.html"
     },
     {
@@ -14255,7 +14255,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/AsIfItSYourLast-BLACKPINK-6292053.mp3?st=KoVgAPy7KXjVQC1pjSmXxA&e=1631635385",
-      "title": "As If It's Your Last",
+      "name": "As If It's Your Last",
       "url": "https://www.nhaccuatui.com/bai-hat/as-if-its-your-last-blackpink.HsHACbKPljYE.html"
     },
     {
@@ -14265,7 +14265,7 @@
       "creator": "Sam Kim",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/Warner_Audio72/LoveMeLikeThat-SamKim-7053078.mp3?st=z9lVZTF0W9kwNxo5Detu9g&e=1631635385",
-      "title": "Love Me Like That (Nevertheless OST)",
+      "name": "Love Me Like That (Nevertheless OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/love-me-like-that-nevertheless-ost-sam-kim.1qDNdw6Trig1.html"
     },
     {
@@ -14275,7 +14275,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/Boombayah-BLACKPINK-6291993.mp3?st=2H4S8C0T-utxx0fuyKVjVA&e=1631635385",
-      "title": "Boombayah",
+      "name": "Boombayah",
       "url": "https://www.nhaccuatui.com/bai-hat/boombayah-blackpink.uS7D8GnXv2cv.html"
     },
     {
@@ -14285,7 +14285,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/2017/07/15/3/0/6/4/1500090100078.lrc",
       "music": "https://aredir.nixcdn.com/YG_Audio1/PlayingWithFire-BLACKPINK-6293080.mp3?st=_yLZnPF12vrsScdzdzF5Ww&e=1631635385",
-      "title": "Playing With Fire",
+      "name": "Playing With Fire",
       "url": "https://www.nhaccuatui.com/bai-hat/playing-with-fire-blackpink.ghXR4vP55jnW.html"
     },
     {
@@ -14295,7 +14295,7 @@
       "creator": "ITZY",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1015/InTheMorning-ITZY-7012025.mp3?st=HOvuTV9Nvwl6D-5trEATNw&e=1631635385",
-      "title": "In The Morning",
+      "name": "In The Morning",
       "url": "https://www.nhaccuatui.com/bai-hat/in-the-morning-itzy.GlMQP0Ej46JG.html"
     },
     {
@@ -14305,7 +14305,7 @@
       "creator": "Tae Yeon",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1017/Weekend-TaeYeonSNSD-7044095.mp3?st=FuoaS4OhMf5wz0M8t7Xj5A&e=1631635385",
-      "title": "Weekend",
+      "name": "Weekend",
       "url": "https://www.nhaccuatui.com/bai-hat/weekend-tae-yeon.ZdXxh1znPgDy.html"
     },
     {
@@ -14315,7 +14315,7 @@
       "creator": "IU",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1011/Celebrity-IU-6938138.mp3?st=OEblFOtalB0EAVSlw4Pedw&e=1631635385",
-      "title": "Celebrity",
+      "name": "Celebrity",
       "url": "https://www.nhaccuatui.com/bai-hat/celebrity-iu.A53JFtCsbc0x.html"
     },
     {
@@ -14325,7 +14325,7 @@
       "creator": "Ahn Ye Eun",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1015/Sailing-AhnYeEun-7017679.mp3?st=uRUTrWfYb6HQDlGMbEwAHg&e=1631635385",
-      "title": "Sailing",
+      "name": "Sailing",
       "url": "https://www.nhaccuatui.com/bai-hat/sailing-ahn-ye-eun.S7F50uwLphmv.html"
     },
     {
@@ -14335,7 +14335,7 @@
       "creator": "Ahn Ye Eun",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/NightFlowerPainterOfTheNightOST-AhnYeEun-7078655.mp3?st=WnzOLuIKy_rIxuMPb1PS5Q&e=1631635385",
-      "title": "Night Flower (Painter Of The Night OST)",
+      "name": "Night Flower (Painter Of The Night OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/night-flower-painter-of-the-night-ost-ahn-ye-eun.wUCKyypnmH0n.html"
     },
     {
@@ -14345,7 +14345,7 @@
       "creator": "STAYC",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/Stereotype-STAYC-7083856.mp3?st=14kXuD4mTVG3W2dZxaWX7w&e=1631635385",
-      "title": "Stereotype",
+      "name": "Stereotype",
       "url": "https://www.nhaccuatui.com/bai-hat/stereotype-stayc.W1C0pxBHWAFd.html"
     },
     {
@@ -14355,7 +14355,7 @@
       "creator": "J.UNA",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/ButterflyNeverthelessOST-JUNA-7060831.mp3?st=nboza5jpRDMnV5ZK5CitnA&e=1631635385",
-      "title": "Butterfly (Nevertheless OST)",
+      "name": "Butterfly (Nevertheless OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/butterfly-nevertheless-ost-juna.DSbpbcRrKMFh.html"
     },
     {
@@ -14365,7 +14365,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/Whistle-BLACKPINK-6291994.mp3?st=ERCjr6OsDu1CgLdd31uBBg&e=1631635385",
-      "title": "Whistle",
+      "name": "Whistle",
       "url": "https://www.nhaccuatui.com/bai-hat/whistle-blackpink.uqH77iyjTzVv.html"
     },
     {
@@ -14375,7 +14375,7 @@
       "creator": "Baek Hyun",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/IsItMeLoversOfTheRedSkyOST-BaekHyunEXO-7079260.mp3?st=oNG5lhQ5CWpAiCeJVBNrKQ&e=1631635385",
-      "title": "Is It Me? (Lovers Of The Red Sky OST)",
+      "name": "Is It Me? (Lovers Of The Red Sky OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/is-it-me-lovers-of-the-red-sky-ost-baek-hyun.fLFpYodz4n3f.html"
     },
     {
@@ -14385,7 +14385,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/DonTKnowWhatToDo-BLACKPINK-6291963.mp3?st=Apjty6FMGD2lWRKLOHLJmA&e=1631635385",
-      "title": "Don'T Know What To Do",
+      "name": "Don'T Know What To Do",
       "url": "https://www.nhaccuatui.com/bai-hat/dont-know-what-to-do-blackpink.3oNyTt0nMzVp.html"
     },
     {
@@ -14395,7 +14395,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/ForeverYoung-BLACKPINK-6291995.mp3?st=KphAkmFWwsjvnqZaBpbcBQ&e=1631635385",
-      "title": "Forever Young",
+      "name": "Forever Young",
       "url": "https://www.nhaccuatui.com/bai-hat/forever-young-blackpink.FatmATQ6NlTL.html"
     },
     {
@@ -14405,7 +14405,7 @@
       "creator": "MC Mong, Mellow",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui959/SickEnoughToDie-MCMongMellow-617420.mp3?st=rX_9i4BHore8d7rvi3Zqrg&e=1631635385",
-      "title": "Sick Enough To Die",
+      "name": "Sick Enough To Die",
       "url": "https://www.nhaccuatui.com/bai-hat/sick-enough-to-die-mc-mong-ft-mellow.0zlCEf30Al.html"
     },
     {
@@ -14415,7 +14415,7 @@
       "creator": "IU",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui992/Blueming-IU-6138404.mp3?st=06EahSPoo3QBaGkVEqLzfQ&e=1631635385",
-      "title": "Blueming",
+      "name": "Blueming",
       "url": "https://www.nhaccuatui.com/bai-hat/blueming-iu.b0PoZWoqtzTy.html"
     },
     {
@@ -14425,7 +14425,7 @@
       "creator": "Stray Kids",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Thunderous-StrayKids-7073919.mp3?st=SAqv6mPqH7HWEklqsYpuHw&e=1631635385",
-      "title": "Thunderous",
+      "name": "Thunderous",
       "url": "https://www.nhaccuatui.com/bai-hat/thunderous-stray-kids.RXOq4dKBWBaD.html"
     },
     {
@@ -14435,7 +14435,7 @@
       "creator": "Key (SHINee), Tae Yeon",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/HateThat-KeySHINeeTaeYeonSNSD-7078947.mp3?st=5_vlN-LRZiFel4JTNlZDpg&e=1631635385",
-      "title": "Hate That...",
+      "name": "Hate That...",
       "url": "https://www.nhaccuatui.com/bai-hat/hate-that-key-shinee-ft-tae-yeon.f7rPCIarc2Hm.html"
     },
     {
@@ -14445,7 +14445,7 @@
       "creator": "TXT (Tomorrow x Together)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/LoErloer-TXTTomorrowxTogether-7069136.mp3?st=5EN_adqy_47loWJdbtHCGQ&e=1631635385",
-      "title": "Lo$Er=lo♡er",
+      "name": "Lo$Er=lo♡er",
       "url": "https://www.nhaccuatui.com/bai-hat/loerloer-txt-tomorrow-x-together.qv3PMZBUpHPo.html"
     },
     {
@@ -14455,7 +14455,7 @@
       "creator": "Hong Jin Young",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui876/CheerUp-HongJinYoung-3635924.mp3?st=DkdttdIAj6teeGc290pgmw&e=1631635385",
-      "title": "Cheer Up",
+      "name": "Cheer Up",
       "url": "https://www.nhaccuatui.com/bai-hat/cheer-up-hong-jin-young.qdpgTMH4lyQ6.html"
     },
     {
@@ -14465,7 +14465,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/LoveToHateMe-BLACKPINK-6720106.mp3?st=MQzUoO_BEoOFvuHtdTEUHg&e=1631635385",
-      "title": "Love To Hate Me",
+      "name": "Love To Hate Me",
       "url": "https://www.nhaccuatui.com/bai-hat/love-to-hate-me-blackpink.JvgYQbmTc1h8.html"
     },
     {
@@ -14475,7 +14475,7 @@
       "creator": "(G)I-DLE",
       "lyric": "https://lrc-nct.nixcdn.com/2021/03/09/b/7/b/f/1615249555408.lrc",
       "music": "https://aredir.nixcdn.com/Unv_Audio194/Hwaa-GIDLE-6916357.mp3?st=1zwjyIkK0PiLMDU2TCNS0A&e=1631635385",
-      "title": "Hwaa",
+      "name": "Hwaa",
       "url": "https://www.nhaccuatui.com/bai-hat/hwaa-gi-dle.s1tnpnSTVOM2.html"
     },
     {
@@ -14485,7 +14485,7 @@
       "creator": "TWICE",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1005/ICantStopMe-TWICE-6759602.mp3?st=cz053OxnhXRS6CBAgiiL8Q&e=1631635385",
-      "title": "I Can't Stop Me",
+      "name": "I Can't Stop Me",
       "url": "https://www.nhaccuatui.com/bai-hat/i-cant-stop-me-twice.Bq8aQZM6kuZV.html"
     },
     {
@@ -14495,7 +14495,7 @@
       "creator": "Chan Yeol, Punch",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui954/StayWithMe-ChanYeolEXOPunch-4939315.mp3?st=qR_0Zlsx2Qb7P7Pz52Z4Mw&e=1631635385",
-      "title": "Stay With Me",
+      "name": "Stay With Me",
       "url": "https://www.nhaccuatui.com/bai-hat/stay-with-me-chan-yeol-ft-punch.Enke4axoc1Db.html"
     },
     {
@@ -14505,7 +14505,7 @@
       "creator": "Epik High, Lee Hi",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui927/CanYouHearMyHeartMoonLoversScarletHeartRyoOST-EpikHighLeeHi-4591379.mp3?st=qZ5MrzcBh1TWiXBb1uLlog&e=1631635385",
-      "title": "Can You Hear My Heart (Moon Lovers Scarlet Heart Ryo OST)",
+      "name": "Can You Hear My Heart (Moon Lovers Scarlet Heart Ryo OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/can-you-hear-my-heart-moon-lovers-scarlet-heart-ryo-ost-epik-high-ft-lee-hi.rjqmbvsZEMlM.html"
     },
     {
@@ -14515,7 +14515,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/Stay-BLACKPINK-6293076.mp3?st=4O56OcUrbUMTiP5jxiojMw&e=1631635385",
-      "title": "Stay",
+      "name": "Stay",
       "url": "https://www.nhaccuatui.com/bai-hat/stay-blackpink.Ja4wtGAsPPwX.html"
     },
     {
@@ -14525,7 +14525,7 @@
       "creator": "EXO",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui973/LoveShot-EXO-5812187.mp3?st=-bv3u6IU1pr3J72z_FWZ_Q&e=1631635385",
-      "title": "Love Shot",
+      "name": "Love Shot",
       "url": "https://www.nhaccuatui.com/bai-hat/love-shot-exo.CzOkE18pAneK.html"
     },
     {
@@ -14535,7 +14535,7 @@
       "creator": "Weeekly",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1014/AfterSchool-Weeekly-6976200.mp3?st=hKBrnqsLbnqOLVZDcIKVfg&e=1631635385",
-      "title": "After School",
+      "name": "After School",
       "url": "https://www.nhaccuatui.com/bai-hat/after-school-weeekly.zsDOI4zkQVp4.html"
     },
     {
@@ -14545,7 +14545,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/CrazyOverYou-BLACKPINK-6720105.mp3?st=r753Duk7Ag42BM4AQroDkQ&e=1631635385",
-      "title": "Crazy Over You",
+      "name": "Crazy Over You",
       "url": "https://www.nhaccuatui.com/bai-hat/crazy-over-you-blackpink.fkrUwAzXPkLg.html"
     },
     {
@@ -14555,7 +14555,7 @@
       "creator": "Heize",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/OnRainyDaysBlueBirthdayOST-Heize-7064297.mp3?st=FTAN5B9nZpaq4RHZLHbCOw&e=1631635385",
-      "title": "On Rainy Days (Blue Birthday OST)",
+      "name": "On Rainy Days (Blue Birthday OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/on-rainy-days-blue-birthday-ost-heize.Lu3y1Ltx19px.html"
     },
     {
@@ -14565,7 +14565,7 @@
       "creator": "BIGBANG",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/Blue-BIGBANG-6292792.mp3?st=MyJyOV2hdltK1wAK-YSYBQ&e=1631635385",
-      "title": "Blue",
+      "name": "Blue",
       "url": "https://www.nhaccuatui.com/bai-hat/blue-bigbang.5h0uSTjb84.html"
     },
     {
@@ -14575,7 +14575,7 @@
       "creator": "BIGBANG",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/HaruHaru-BIGBANG-6291516.mp3?st=LZgzf8Fyg1XMP1WK3CYe0w&e=1631635385",
-      "title": "Haru Haru",
+      "name": "Haru Haru",
       "url": "https://www.nhaccuatui.com/bai-hat/haru-haru-bigbang.PgrxRcNASk.html"
     },
     {
@@ -14585,7 +14585,7 @@
       "creator": "Chen, Baek Hyun, XiuMin (EXO)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui927/ForYouMoonLoversScarletHeartRyoOST-ChenEXOMBaekHyunEXOKXiuMinEXOM-4566636.mp3?st=gkqZBrCyU4EQipJKzEQqeg&e=1631635385",
-      "title": "For You (Moon Lovers Scarlet Heart Ryo OST)",
+      "name": "For You (Moon Lovers Scarlet Heart Ryo OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/for-you-moon-lovers-scarlet-heart-ryo-ost-chen-ft-baek-hyun-ft-xiumin-exo.EggLarw3AYhV.html"
     },
     {
@@ -14595,7 +14595,7 @@
       "creator": "iKON",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/LoveScenario-iKON-6292220.mp3?st=NqBAhSu7Y4bx9WHtMLs_4A&e=1631635385",
-      "title": "Love Scenario",
+      "name": "Love Scenario",
       "url": "https://www.nhaccuatui.com/bai-hat/love-scenario-ikon.HIWX4ZCwxIbM.html"
     },
     {
@@ -14605,7 +14605,7 @@
       "creator": "Car The Garden",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/RomanticSundayHometownChaChaChaOST-CarTheGarden-7083284.mp3?st=Dv0SG2ji_sUlel9_8wGpQQ&e=1631635385",
-      "title": "Romantic Sunday (Hometown Cha-Cha-Cha OST)",
+      "name": "Romantic Sunday (Hometown Cha-Cha-Cha OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/romantic-sunday-hometown-cha-cha-cha-ost-car-the-garden.TsZFa0PxxcQC.html"
     },
     {
@@ -14615,7 +14615,7 @@
       "creator": "BlackPink, Cardi B",
       "lyric": "https://lrc-nct.nixcdn.com/2020/10/11/2/e/1/4/1602417292740.lrc",
       "music": "https://aredir.nixcdn.com/YG_Audio1/BetYouWannaFeatCardiB-BLACKPINK-6720103.mp3?st=CTnKDrBCWKQVapFIddaDcA&e=1631635385",
-      "title": "Bet You Wanna",
+      "name": "Bet You Wanna",
       "url": "https://www.nhaccuatui.com/bai-hat/bet-you-wanna-blackpink-ft-cardi-b.1t7tX9NxThEC.html"
     },
     {
@@ -14625,7 +14625,7 @@
       "creator": "aespa",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1006/BlackMamba-aespa-6820956.mp3?st=XeqqIxH9vfLjLEqky5XQNg&e=1631635385",
-      "title": "Black Mamba",
+      "name": "Black Mamba",
       "url": "https://www.nhaccuatui.com/bai-hat/black-mamba-aespa.m0Vf8oNEdGoi.html"
     },
     {
@@ -14635,7 +14635,7 @@
       "creator": "Lee Hi, Yoon Mi Rae",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/RedLipstick-LeeHiYoonMiRae-7085621.mp3?st=mc75EZE6MBBaLHAzW9WBqQ&e=1631635385",
-      "title": "Red Lipstick",
+      "name": "Red Lipstick",
       "url": "https://www.nhaccuatui.com/bai-hat/red-lipstick-lee-hi-ft-yoon-mi-rae.AQEtDExRkCe5.html"
     },
     {
@@ -14645,7 +14645,7 @@
       "creator": "NCT Dream",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1015/HotSauce-NCTDream-7017245.mp3?st=q_Z7pfqaceaLj8FjkV1TeQ&e=1631635385",
-      "title": "Hot Sauce",
+      "name": "Hot Sauce",
       "url": "https://www.nhaccuatui.com/bai-hat/hot-sauce-nct-dream.CPtvTIGcjLyE.html"
     },
     {
@@ -14655,7 +14655,7 @@
       "creator": "IU",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1013/Lilac-IU-6984996.mp3?st=s4TXye4dtdYSQAFSm0_1hQ&e=1631635385",
-      "title": "Lilac",
+      "name": "Lilac",
       "url": "https://www.nhaccuatui.com/bai-hat/lilac-iu.Qqr0D1cVR2oa.html"
     },
     {
@@ -14665,7 +14665,7 @@
       "creator": "NCT Dream",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1017/HelloFuture-NCTDream-7040186.mp3?st=eijEx912RdSeK92FZPN3Pg&e=1631635385",
-      "title": "Hello Future",
+      "name": "Hello Future",
       "url": "https://www.nhaccuatui.com/bai-hat/hello-future-nct-dream.lajTSRFNrWMT.html"
     },
     {
@@ -14675,7 +14675,7 @@
       "creator": "Red Velvet",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui993/Psycho-RedVelvet-6181261.mp3?st=jwTT0EwJWKNiq2jHkhUEVQ&e=1631635385",
-      "title": "Psycho",
+      "name": "Psycho",
       "url": "https://www.nhaccuatui.com/bai-hat/psycho-red-velvet.YyzHQGWa8078.html"
     },
     {
@@ -14685,7 +14685,7 @@
       "creator": "EXO",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui946/KoKoBop-EXO-5085384.mp3?st=mYpOfRV1C3dRjz8W9Ib1PA&e=1631635385",
-      "title": "Ko Ko Bop",
+      "name": "Ko Ko Bop",
       "url": "https://www.nhaccuatui.com/bai-hat/ko-ko-bop-exo.AeQDU4rP199c.html"
     },
     {
@@ -14695,7 +14695,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/YouNeverKnow-BLACKPINK-6720107.mp3?st=eBm57bkweFbtaneHGTEunQ&e=1631635385",
-      "title": "You Never Know",
+      "name": "You Never Know",
       "url": "https://www.nhaccuatui.com/bai-hat/you-never-know-blackpink.MZFUbT7ildt8.html"
     },
     {
@@ -14705,7 +14705,7 @@
       "creator": "Loco, Punch",
       "lyric": "https://lrc-nct.nixcdn.com/2017/07/15/3/0/6/4/1500089346730.lrc",
       "music": "https://aredir.nixcdn.com/NhacCuaTui927/SayYesMoonLoversScarletHeartRyoOST-LocoPunch-4569672.mp3?st=rcnBhIK4oKlKqwx1HrcybA&e=1631635385",
-      "title": "Say Yes (Moon Lovers Scarlet Heart Ryo OST)",
+      "name": "Say Yes (Moon Lovers Scarlet Heart Ryo OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/say-yes-moon-lovers-scarlet-heart-ryo-ost-loco-ft-punch.9bQE0kjIqk8z.html"
     },
     {
@@ -14715,7 +14715,7 @@
       "creator": "Yerin Baek",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/YG_Audio2/Whenever-YerinBaek-7086864.mp3?st=lWnnEehzc1EaU9NMMuQuqQ&e=1631635385",
-      "title": "Whenever",
+      "name": "Whenever",
       "url": "https://www.nhaccuatui.com/bai-hat/whenever-yerin-baek.leB5jEAOrfFI.html"
     },
     {
@@ -14725,7 +14725,7 @@
       "creator": "MAMAMOO",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui992/Hip-MAMAMOO-6136497.mp3?st=o3jT9jAtC8UUoqWYYqBUAw&e=1631635385",
-      "title": "Hip",
+      "name": "Hip",
       "url": "https://www.nhaccuatui.com/bai-hat/hip-mamamoo.DBckRYmGrBMu.html"
     },
     {
@@ -14735,7 +14735,7 @@
       "creator": "Lee Hi, B.I",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/Savior-LeeHiBI-7085614.mp3?st=gjJXlTE181UfJjgDuZ4zzw&e=1631635385",
-      "title": "Savior",
+      "name": "Savior",
       "url": "https://www.nhaccuatui.com/bai-hat/savior-lee-hi-ft-bi.Z6GXzsUiOx4Y.html"
     },
     {
@@ -14745,7 +14745,7 @@
       "creator": "Red Velvet",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Pose-RedVelvet-7068440.mp3?st=uMWnlFh0eTg1xfbzvMhfGA&e=1631635385",
-      "title": "Pose",
+      "name": "Pose",
       "url": "https://www.nhaccuatui.com/bai-hat/pose-red-velvet.2pNDrLwDarAZ.html"
     },
     {
@@ -14755,7 +14755,7 @@
       "creator": "D.O.",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/ImGonnaLoveYou-DOEXO-7055078.mp3?st=bKHfs5XR15AvDuEzPfmF8A&e=1631635385",
-      "title": "I'm Gonna Love You",
+      "name": "I'm Gonna Love You",
       "url": "https://www.nhaccuatui.com/bai-hat/im-gonna-love-you-do.UAZbuOkZ2ku9.html"
     },
     {
@@ -14765,7 +14765,7 @@
       "creator": "Jo Jung Suk",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1016/Aloha-ChoJungSeok-6248774.mp3?st=MUeL2MCqwbOn_Ncx_n6-6Q&e=1631635385",
-      "title": "Aloha (Hopital Playlist OST)",
+      "name": "Aloha (Hopital Playlist OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/aloha-hopital-playlist-ost-jo-jung-suk.9AxLNNspfH7Y.html"
     },
     {
@@ -14775,7 +14775,7 @@
       "creator": "BIGBANG",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/Loser-BIGBANG-6291940.mp3?st=arW0cpc86gL8WNMlhZ-GrQ&e=1631635385",
-      "title": "Loser",
+      "name": "Loser",
       "url": "https://www.nhaccuatui.com/bai-hat/loser-bigbang.SEJX0iUKbw8P.html"
     },
     {
@@ -14785,7 +14785,7 @@
       "creator": "Young K (DAY6)",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/GuardYou-DAY6-7083861.mp3?st=Nst-mXlmPlUKJVh1-AhspQ&e=1631635385",
-      "title": "Guard You",
+      "name": "Guard You",
       "url": "https://www.nhaccuatui.com/bai-hat/guard-you-young-k-day6.4wuoblcZnpbj.html"
     },
     {
@@ -14795,7 +14795,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/Really-BLACKPINK-6291996.mp3?st=vQ42duar024IPX8O_OHyiA&e=1631635385",
-      "title": "Really",
+      "name": "Really",
       "url": "https://www.nhaccuatui.com/bai-hat/really-blackpink.6gbyYy7zSqES.html"
     },
     {
@@ -14805,7 +14805,7 @@
       "creator": "D.O.",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/Rose-DOEXO-7055077.mp3?st=sR_5FLzU5QjylyqGIZUBPg&e=1631635385",
-      "title": "Rose",
+      "name": "Rose",
       "url": "https://www.nhaccuatui.com/bai-hat/rose-do.vOauIBhhv9Eh.html"
     },
     {
@@ -14815,7 +14815,7 @@
       "creator": "Solar (MAMAMOO)",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/AlwaysBeWithYouLoversOfTheRedSkyOST-SolarMAMAMOO-7083866.mp3?st=lyckl4ky2L8qWdTRxFSD3g&e=1631635385",
-      "title": "Always, Be With You (Lovers Of The Red Sky OST)",
+      "name": "Always, Be With You (Lovers Of The Red Sky OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/always-be-with-you-lovers-of-the-red-sky-ost-solar-mamamoo.rky6hsZanI9q.html"
     },
     {
@@ -14824,9 +14824,9 @@
       "coverImage": "https://avatar-ex-swe.nixcdn.com/playlist/2020/09/16/e/1/f/f/1600239362951_500.jpg",
       "creator": "G-Dragon",
       "lyric": "https://lrc-nct.nixcdn.com/null",
-      "music": "https://aredir.nixcdn.com/YG_Audio1/Untitled2014-GDRAGON-6292962.mp3?st=CSONhHKVjoaxRxBjOMSd7A&e=1631635385",
-      "title": "Untitled, 2014",
-      "url": "https://www.nhaccuatui.com/bai-hat/untitled-2014-g-dragon.PWCjrPbVmXUM.html"
+      "music": "https://aredir.nixcdn.com/YG_Audio1/Unnamed2014-GDRAGON-6292962.mp3?st=CSONhHKVjoaxRxBjOMSd7A&e=1631635385",
+      "name": "Unnamed, 2014",
+      "url": "https://www.nhaccuatui.com/bai-hat/unnamed-2014-g-dragon.PWCjrPbVmXUM.html"
     },
     {
       "avatar": "https://avatar-ex-swe.nixcdn.com/song/2020/05/12/2/2/0/9/1589279180312.jpg",
@@ -14835,7 +14835,7 @@
       "creator": "Raiden, Chan Yeol, Lee Hi, Changmo",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui999/Yours-RaidenChanYeolEXOLeeHiChangmo-6277417.mp3?st=BBmdCUgs2tRhoIH2E6LC4Q&e=1631635385",
-      "title": "Yours",
+      "name": "Yours",
       "url": "https://www.nhaccuatui.com/bai-hat/yours-raiden-ft-chan-yeol-ft-lee-hi-ft-changmo.03fQzg3lIGmt.html"
     },
     {
@@ -14845,7 +14845,7 @@
       "creator": "Hyo Yeon, Bibi",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Second-HyoYeonSNSDBibi-7065318.mp3?st=uz2OiEBwbx2RM5lpifnACA&e=1631635385",
-      "title": "Second",
+      "name": "Second",
       "url": "https://www.nhaccuatui.com/bai-hat/second-hyo-yeon-ft-bibi.wxRziggfWUDv.html"
     },
     {
@@ -14855,7 +14855,7 @@
       "creator": "BIGBANG",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/BangBangBang-BIGBANG-6293092.mp3?st=BV4oQj84-l2kqOHFplZe1g&e=1631635385",
-      "title": "Bang Bang Bang",
+      "name": "Bang Bang Bang",
       "url": "https://www.nhaccuatui.com/bai-hat/bang-bang-bang-bigbang.ZACRuFFv8Dmq.html"
     },
     {
@@ -14865,7 +14865,7 @@
       "creator": "T-ara",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui953/DayByDay-Tara-1856855.mp3?st=_3q3hbhKOr06wx0J5LYeyw&e=1631635385",
-      "title": "Day By Day",
+      "name": "Day By Day",
       "url": "https://www.nhaccuatui.com/bai-hat/day-by-day-t-ara.a1Rcja5NNqvQ.html"
     },
     {
@@ -14875,7 +14875,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/KickIt-BLACKPINK-6291964.mp3?st=ulWX_ucYhXDeGoiuLuV_zQ&e=1631635385",
-      "title": "Kick It",
+      "name": "Kick It",
       "url": "https://www.nhaccuatui.com/bai-hat/kick-it-blackpink.cOJ2IjICrYdr.html"
     },
     {
@@ -14885,7 +14885,7 @@
       "creator": "Sangnoksu, Narae",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1005/HorangSuwolga-SangnoksuNarae-6770371.mp3?st=Boa2QXQN4CjI4SaJsFd1OQ&e=1631635385",
-      "title": "Horang Suwolga",
+      "name": "Horang Suwolga",
       "url": "https://www.nhaccuatui.com/bai-hat/horang-suwolga-sangnoksu-ft-narae.W1Zf16XCeH46.html"
     },
     {
@@ -14895,7 +14895,7 @@
       "creator": "CL",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/HelloBitches-CL-6291949.mp3?st=8m_nHx6vTQlaVMsRqMdNxQ&e=1631635385",
-      "title": "Hello Bitches",
+      "name": "Hello Bitches",
       "url": "https://www.nhaccuatui.com/bai-hat/hello-bitches-cl.sd90woXJLVFZ.html"
     },
     {
@@ -14905,7 +14905,7 @@
       "creator": "STAYC",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/Complex-STAYC-7083860.mp3?st=-8Nx_5fLx1yx41m_CoMxGA&e=1631635385",
-      "title": "Complex",
+      "name": "Complex",
       "url": "https://www.nhaccuatui.com/bai-hat/complex-stayc.1ynqIuvetOKs.html"
     },
     {
@@ -14915,7 +14915,7 @@
       "creator": "TWICE",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui999/MoreMore-TWICE-6288557.mp3?st=JUUZ-upSCMhHfRF2sV18uw&e=1631635385",
-      "title": "MORE &amp; MORE",
+      "name": "MORE &amp; MORE",
       "url": "https://www.nhaccuatui.com/bai-hat/more-more-twice.ukhP9gXihXKX.html"
     },
     {
@@ -14925,7 +14925,7 @@
       "creator": "Brave Girls",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/AfterWeRide-BraveGirls-7073997.mp3?st=4LDhmYGWTqVoqmF3hbmdZg&e=1631635385",
-      "title": "After We Ride",
+      "name": "After We Ride",
       "url": "https://www.nhaccuatui.com/bai-hat/after-we-ride-brave-girls.YBbP9U7PbTN2.html"
     },
     {
@@ -14935,7 +14935,7 @@
       "creator": "Red Velvet",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui959/BadBoy-RedVelvet-5367865.mp3?st=lKvfrsS1DToXctnnEEWovw&e=1631635385",
-      "title": "Bad Boy",
+      "name": "Bad Boy",
       "url": "https://www.nhaccuatui.com/bai-hat/bad-boy-red-velvet.AyNkfdvd90LS.html"
     },
     {
@@ -14945,7 +14945,7 @@
       "creator": "STAYC",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/IllBeThere-STAYC-7083857.mp3?st=kh3NarKpbCg6tNtR0_uz9A&e=1631635385",
-      "title": "I'll Be There",
+      "name": "I'll Be There",
       "url": "https://www.nhaccuatui.com/bai-hat/ill-be-there-stayc.5uwlsuBqCLTR.html"
     },
     {
@@ -14955,7 +14955,7 @@
       "creator": "GFriend",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1006/Mago-GFriend-6804759.mp3?st=q64jETOAQlGV-tHQgQp5uQ&e=1631635385",
-      "title": "Mago",
+      "name": "Mago",
       "url": "https://www.nhaccuatui.com/bai-hat/mago-gfriend.gUbDrmWSDeLv.html"
     },
     {
@@ -14965,7 +14965,7 @@
       "creator": "EXO",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui946/TheEve-EXO-5085383.mp3?st=UWRk5y_wMRPFU8WrmlaJ-w&e=1631635385",
-      "title": "The Eve",
+      "name": "The Eve",
       "url": "https://www.nhaccuatui.com/bai-hat/the-eve-exo.wGH0pOPxId48.html"
     },
     {
@@ -14975,7 +14975,7 @@
       "creator": "Heize",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui987/CanYouSeeMyHeartHotelDelLunaOst-Heize-6040819.mp3?st=VU2ORl5rFyI7TCrvFnYmCA&e=1631635385",
-      "title": "Can You See My Heart (Hotel Del Luna OST)",
+      "name": "Can You See My Heart (Hotel Del Luna OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/can-you-see-my-heart-hotel-del-luna-ost-heize.GpIAJh2BrXZv.html"
     },
     {
@@ -14985,7 +14985,7 @@
       "creator": "TWICE",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1009/CryForMe-TWICE-6872674.mp3?st=K-nj4thClRTMSQTRw1UG-A&e=1631635385",
-      "title": "Cry For Me",
+      "name": "Cry For Me",
       "url": "https://www.nhaccuatui.com/bai-hat/cry-for-me-twice.BkdOsUn7oJL5.html"
     },
     {
@@ -14995,7 +14995,7 @@
       "creator": "IZ*ONE",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1009/Panorama-IZONE-6879479.mp3?st=OZ7FsVMd1QFGzN2JoDAnKw&e=1631635385",
-      "title": "Panorama",
+      "name": "Panorama",
       "url": "https://www.nhaccuatui.com/bai-hat/panorama-izone.sCzHyMsIF7ZM.html"
     },
     {
@@ -15005,7 +15005,7 @@
       "creator": "Kwon Eun Bi",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Door-KwonEunBi-7074356.mp3?st=ufH9fV2BnbYtE06nzkysfg&e=1631635385",
-      "title": "Door",
+      "name": "Door",
       "url": "https://www.nhaccuatui.com/bai-hat/door-kwon-eun-bi.QPbr7hcm9MT0.html"
     },
     {
@@ -15015,7 +15015,7 @@
       "creator": "Mido and Falasol",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/YouHaveACrushOnMeDramaVersionHospitalPlaylist2OST-MidoandFalasol-7082579.mp3?st=OSUeagOSOj_5EMkUEKKv_w&e=1631635385",
-      "title": "You Have A Crush On Me (Drama Version) (Hospital Playlist 2 OST)",
+      "name": "You Have A Crush On Me (Drama Version) (Hospital Playlist 2 OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/you-have-a-crush-on-me-drama-version-hospital-playlist-2-ost-mido-and-falasol.qfijsxlfaJ3P.html"
     },
     {
@@ -15025,7 +15025,7 @@
       "creator": "BlackPink",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/SeeULater-BLACKPINK-6291997.mp3?st=wonMb9EL2wSaD8_wbprUSQ&e=1631635385",
-      "title": "See U Later",
+      "name": "See U Later",
       "url": "https://www.nhaccuatui.com/bai-hat/see-u-later-blackpink.XKB9M9FsxYV9.html"
     },
     {
@@ -15035,7 +15035,7 @@
       "creator": "Fromis_9",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/TalkTalk-Fromis9-7083898.mp3?st=J45eKrjAc6GgGsXIM1Vywg&e=1631635385",
-      "title": "Talk &amp; Talk",
+      "name": "Talk &amp; Talk",
       "url": "https://www.nhaccuatui.com/bai-hat/talk-talk-fromis_9.UoqdfDQg5dOq.html"
     },
     {
@@ -15045,7 +15045,7 @@
       "creator": "Stray Kids",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Cheese-StrayKids-7073907.mp3?st=87Wm27OM2-Yh1rKgZMq9Ag&e=1631635385",
-      "title": "Cheese ",
+      "name": "Cheese ",
       "url": "https://www.nhaccuatui.com/bai-hat/cheese-stray-kids.Oj2Evl7mvE9U.html"
     },
     {
@@ -15055,7 +15055,7 @@
       "creator": "SOMI",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/YG_Audio1/WhatYouWaitingFor-SOMI-6352196.mp3?st=fNhhnBWt8cQnJaglA4SujA&e=1631635385",
-      "title": "What You Waiting For",
+      "name": "What You Waiting For",
       "url": "https://www.nhaccuatui.com/bai-hat/what-you-waiting-for-somi.znAVH8KJyCNs.html"
     },
     {
@@ -15065,7 +15065,7 @@
       "creator": "Stray Kids",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/Domino-StrayKids-7073922.mp3?st=p0LVwTrlgv-ILhO6ddUVOA&e=1631635385",
-      "title": "Domino",
+      "name": "Domino",
       "url": "https://www.nhaccuatui.com/bai-hat/domino-stray-kids.i6dKtewxqZi7.html"
     },
     {
@@ -15075,7 +15075,7 @@
       "creator": "Red Velvet",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/HelloSunset-RedVelvet-7068444.mp3?st=oYUa0RWb9TuLmY8IFnJoJw&e=1631635385",
-      "title": "Hello, Sunset",
+      "name": "Hello, Sunset",
       "url": "https://www.nhaccuatui.com/bai-hat/hello-sunset-red-velvet.loqwSVRFv9cs.html"
     },
     {
@@ -15085,7 +15085,7 @@
       "creator": "Trương Bích Thần (Zhang Bi Chen)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/NhuCoChauSinhNhuCoOst-TruongBichThanZhangBiChen-7069837.mp3?st=YZ6jBIIjm-BIG2SPx8qtkg&e=1631635387",
-      "title": "Như Cố / 如故 (Châu Sinh Như Cố Ost)",
+      "name": "Như Cố / 如故 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/nhu-co-chau-sinh-nhu-co-ost-truong-bich-than-zhang-bi-chen.U488JnPAAVRe.html"
     },
     {
@@ -15095,7 +15095,7 @@
       "creator": "Trình Hưởng",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/DongThacThoiGian-TrinhHuong-7080218.mp3?st=W-Cju6DV_J8oymdGY13I0w&e=1631635387",
-      "title": "Dòng Thác Thời Gian / 时光洪流",
+      "name": "Dòng Thác Thời Gian / 时光洪流",
       "url": "https://www.nhaccuatui.com/bai-hat/dong-thac-thoi-gian-trinh-huong.YygQJhJXf8lz.html"
     },
     {
@@ -15105,7 +15105,7 @@
       "creator": "Lý Tử Đình (Mimi Lee), Tỉnh Lung (Jing Long)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/VoNguChauSinhNhuCoOst-LyTuDinhMimiLeeTinhLungJingLong-7075326.mp3?st=8m-KqQIiekBNwhD1ZCx5qA&e=1631635387",
-      "title": "Vô Ngu / 无虞 (Châu Sinh Như Cố Ost)",
+      "name": "Vô Ngu / 无虞 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/vo-ngu-chau-sinh-nhu-co-ost-ly-tu-dinh-mimi-lee-ft-tinh-lung-jing-long.UAJhzpczszdH.html"
     },
     {
@@ -15115,7 +15115,7 @@
       "creator": "Ngải Thần",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1010/ThoiKhongSaiLech-NgaiThan-6919123.mp3?st=72_J7fpAkvyWmrJQzcrj-A&e=1631635387",
-      "title": "Thời Không Sai Lệch / 错位时空",
+      "name": "Thời Không Sai Lệch / 错位时空",
       "url": "https://www.nhaccuatui.com/bai-hat/thoi-khong-sai-lech-ngai-than.dKz91dfQFOkc.html"
     },
     {
@@ -15125,7 +15125,7 @@
       "creator": "Nhậm Gia Luân",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/NhuMotChauSinhNhuCoOst-NhamGiaLuan-7074286.mp3?st=s5R0mneMWt5pyxJnYHRG2A&e=1631635387",
-      "title": "Như Một / 如一 (Châu Sinh Như Cố Ost)",
+      "name": "Như Một / 如一 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/nhu-mot-chau-sinh-nhu-co-ost-nham-gia-luan.mVLX3tZKOYTr.html"
     },
     {
@@ -15135,7 +15135,7 @@
       "creator": "Tát Đỉnh Đỉnh (Sa Ding Ding)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui962/TayTraiChiTrang-TatDinhDinhSaDingDing-5431513.mp3?st=ayfUT26ybPJ3HXJ3OFwdJw&e=1631635387",
-      "title": "Tay Trái Chỉ Trăng / 左手指月",
+      "name": "Tay Trái Chỉ Trăng / 左手指月",
       "url": "https://www.nhaccuatui.com/bai-hat/tay-trai-chi-trang-tat-dinh-dinh-sa-ding-ding.OXt0IsWRfDZy.html"
     },
     {
@@ -15145,7 +15145,7 @@
       "creator": "Hồ Dương Lâm (Elieen Hu)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui211/LaTuEmDaTinh-HoDuongLam_3uts5.mp3?st=h2_xWMFplhrsymWIxhKUcg&e=1631635387",
-      "title": "Là Tự Em Đa Tình",
+      "name": "Là Tự Em Đa Tình",
       "url": "https://www.nhaccuatui.com/bai-hat/la-tu-em-da-tinh-ho-duong-lam-elieen-hu.zKXSYPiWSy.html"
     },
     {
@@ -15155,7 +15155,7 @@
       "creator": "Vương Tĩnh Văn Không Mập",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1012/VayGiu-VuongTinhVanKhongMap-6952041.mp3?st=99YgRFHog_uzFwQRKoZzwg&e=1631635387",
-      "title": "Vậy Giữ / 沦陷",
+      "name": "Vậy Giữ / 沦陷",
       "url": "https://www.nhaccuatui.com/bai-hat/vay-giu-vuong-tinh-van-khong-map.DPm9LimKNDUJ.html"
     },
     {
@@ -15165,7 +15165,7 @@
       "creator": "Kim Mân Kỳ",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/NeuChauSinhNhuCoOst-KimManKy-7079861.mp3?st=hxhs3rdImHLQbplWiLpYlw&e=1631635387",
-      "title": "Nếu / 若 (Châu Sinh Như Cố Ost)",
+      "name": "Nếu / 若 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/neu-chau-sinh-nhu-co-ost-kim-man-ky.GBB4BKy9K71B.html"
     },
     {
@@ -15175,7 +15175,7 @@
       "creator": "Nhậm Nhiên",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1000/ChimBayCungVe-NhamNhien-6321767.mp3?st=0z8IPpdJI6G8g0xcw9CjfA&e=1631635387",
-      "title": "Phi Điểu Và Ve Sầu / 飞鸟和蝉",
+      "name": "Phi Điểu Và Ve Sầu / 飞鸟和蝉",
       "url": "https://www.nhaccuatui.com/bai-hat/phi-dieu-va-ve-sau-nham-nhien.sg5pd3NDIupn.html"
     },
     {
@@ -15185,7 +15185,7 @@
       "creator": "Tưởng Tuyết Nhi (Cher Chiang)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1014/YenVoHiet-TuongTuyetNhiCherChiang-6520166.mp3?st=TXQYfEuBwtO6rciFGch6bg&e=1631635387",
-      "title": "Yến Vô Hiết / 燕无歇",
+      "name": "Yến Vô Hiết / 燕无歇",
       "url": "https://www.nhaccuatui.com/bai-hat/yen-vo-hiet-tuong-tuyet-nhi-cher-chiang.mEAnCQtIg2NR.html"
     },
     {
@@ -15195,7 +15195,7 @@
       "creator": "Doãn Tích Miên, Tiểu Điền Âm Nhạc Xã",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1014/TaTenTruongAnChangTenCoLy-DoanTichMienTieuDienAmNhacXa-6946196.mp3?st=BmezYiGaEXE3M9cEHW2ngg&e=1631635387",
-      "title": "Ta Tên Trường An, Chàng Tên Cố Lý / 我叫长安,你叫故里\t",
+      "name": "Ta Tên Trường An, Chàng Tên Cố Lý / 我叫长安,你叫故里\t",
       "url": "https://www.nhaccuatui.com/bai-hat/ta-ten-truong-an-chang-ten-co-ly-doan-tich-mien-ft-tieu-dien-am-nhac-xa.7iQBaI3bSi3o.html"
     },
     {
@@ -15205,7 +15205,7 @@
       "creator": "Châu Kiệt Luân (Jay Chou)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui964/SuThanhHoa-ChauKietLuanJayChou-108110.mp3?st=O5Ph6fVWi2tW9e_bR2jZZQ&e=1631635387",
-      "title": "Sứ Thanh Hoa / 青花瓷",
+      "name": "Sứ Thanh Hoa / 青花瓷",
       "url": "https://www.nhaccuatui.com/bai-hat/su-thanh-hoa-chau-kiet-luan-jay-chou.1TBHGGrVKp.html"
     },
     {
@@ -15215,7 +15215,7 @@
       "creator": "Y Cách Tái Thính (Yi Ge Sai Ting), Diệp Lý",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui998/TrichTien-YCachTaiThinhYiGeSaiTingDiepLy-6272323.mp3?st=8AO2N0ojKYQWWQiSiqusNA&e=1631635387",
-      "title": "Trích Tiên / 谪仙",
+      "name": "Trích Tiên / 谪仙",
       "url": "https://www.nhaccuatui.com/bai-hat/trich-tien-y-cach-tai-thinh-yi-ge-sai-ting-ft-diep-ly.5cC8O0G06UX1.html"
     },
     {
@@ -15225,7 +15225,7 @@
       "creator": "Âm Khuyết Thi Thính, Triệu Phương Tịnh (Zhao Fangjing)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui983/MangChung-TrieuPhuongTinhAmKhuyetThiThinh-5989054.mp3?st=gqugXb-KK1-QKeiRrY8NSw&e=1631635387",
-      "title": "Mang Chủng / 芒种",
+      "name": "Mang Chủng / 芒种",
       "url": "https://www.nhaccuatui.com/bai-hat/mang-chung-am-khuyet-thi-thinh-ft-trieu-phuong-tinh-zhao-fangjing.2jcWhVQFrGZr.html"
     },
     {
@@ -15235,7 +15235,7 @@
       "creator": "Đại Tử (Da Zi)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1009/BachNguyetQuangVaNotChuSa-DaiTuDaZi-6911991.mp3?st=irxBqCO2rfTbdaFLp8WMig&e=1631635387",
-      "title": "Bạch Nguyệt Quang Và Nốt Chu Sa / 白月光与朱砂痣",
+      "name": "Bạch Nguyệt Quang Và Nốt Chu Sa / 白月光与朱砂痣",
       "url": "https://www.nhaccuatui.com/bai-hat/bach-nguyet-quang-va-not-chu-sa-dai-tu-da-zi.pyGiSgdzeMW0.html"
     },
     {
@@ -15245,7 +15245,7 @@
       "creator": "Dương Tông Vỹ (Aska Yang), Trương Bích Thần (Zhang Bi Chen)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui934/LanhLeoTamSinhTamTheThapLyDaoHoaOst-AskaYangDuongTongVyZhangBiChenTruongBichThan-4744167.mp3?st=NOkzsy6naQ_-h7pNrqy9Pg&e=1631635387",
-      "title": "Lạnh Lẽo / 涼涼 (Tam Sinh Tam Thế: Thập Lý Đào Hoa OST)",
+      "name": "Lạnh Lẽo / 涼涼 (Tam Sinh Tam Thế: Thập Lý Đào Hoa OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/lanh-leo-tam-sinh-tam-the-thap-ly-dao-hoa-ost-duong-tong-vy-aska-yang-ft-truong-bich-than-zhang-bi-chen.g8k6fS0gCtzK.html"
     },
     {
@@ -15255,7 +15255,7 @@
       "creator": "Trịnh Vân Long",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/DinhTamChauSinhNhuCoOst-TrinhVanLong-7078886.mp3?st=v2jYN4EjaC_Namupbz-0Qg&e=1631635387",
-      "title": "Định Tâm / 定心 (Châu Sinh Như Cố Ost)",
+      "name": "Định Tâm / 定心 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/dinh-tam-chau-sinh-nhu-co-ost-trinh-van-long.AdKL6i1XBbrK.html"
     },
     {
@@ -15265,7 +15265,7 @@
       "creator": "Tiểu Điền Âm Nhạc Xã, Mặc Tam Mộc (Mo San Mu)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/DoiAnhBayDen-TieuDienAmNhacXaMacTamMocMoSanMu-7074590.mp3?st=Fl_f5dqs4vsrEMKdIdqxRg&e=1631635387",
-      "title": "Đợi Anh Bay Đến / 等你飞奔而来",
+      "name": "Đợi Anh Bay Đến / 等你飞奔而来",
       "url": "https://www.nhaccuatui.com/bai-hat/doi-anh-bay-den-tieu-dien-am-nhac-xa-ft-mac-tam-moc-mo-san-mu.QT1JQbZGb3D4.html"
     },
     {
@@ -15275,7 +15275,7 @@
       "creator": "Tiểu Lam Bối Tâm",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/TrongMatDeuLaAnh-TieuLamBoiTam-7058099.mp3?st=u0lQmdyLNAU0SdmSKTbVNg&e=1631635387",
-      "title": "Trong Mắt Đều Là Anh / 目及皆是你",
+      "name": "Trong Mắt Đều Là Anh / 目及皆是你",
       "url": "https://www.nhaccuatui.com/bai-hat/trong-mat-deu-la-anh-tieu-lam-boi-tam.GqjZo7xRQtje.html"
     },
     {
@@ -15285,7 +15285,7 @@
       "creator": "A Yue Yue",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/BatLuanChauSinhNhuCoOst-AYueYue-7079385.mp3?st=fvJcpVDa9iTaCrL9w1WO9A&e=1631635387",
-      "title": "Bất Luận / 不论 (Châu Sinh Như Cố Ost)",
+      "name": "Bất Luận / 不论 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/bat-luan-chau-sinh-nhu-co-ost-a-yue-yue.OdVpvlvG2IkJ.html"
     },
     {
@@ -15295,7 +15295,7 @@
       "creator": "A Yue Yue",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1018/BatPhuTheGian-AYueYue-7049826.mp3?st=zd2joE30RZ5HA1ClHR_qEQ&e=1631635387",
-      "title": "Bất Phụ Thế Gian / 不负人间",
+      "name": "Bất Phụ Thế Gian / 不负人间",
       "url": "https://www.nhaccuatui.com/bai-hat/bat-phu-the-gian-a-yue-yue.QWzUpRFNx54V.html"
     },
     {
@@ -15305,7 +15305,7 @@
       "creator": "A Yue Yue, Lệ Cách",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1014/ThamVienNgoai-AYueYueLeCach-6901656.mp3?st=Emx_4UmTQjmW3KvQ2IHqwg&e=1631635387",
-      "title": "Thẩm Viên Ngoại / 沈园外",
+      "name": "Thẩm Viên Ngoại / 沈园外",
       "url": "https://www.nhaccuatui.com/bai-hat/tham-vien-ngoai-a-yue-yue-ft-le-cach.uMaJGJXc3QWA.html"
     },
     {
@@ -15315,7 +15315,7 @@
       "creator": "Lâm Ám (iZumi)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/GioThinChauSinhNhuCoOst-LamAmiZumi-7078918.mp3?st=Yx2uPQ8B4L4cFvEqbOJZRw&e=1631635387",
-      "title": "Giờ Thìn / 辰时 (Châu Sinh Như Cố Ost)",
+      "name": "Giờ Thìn / 辰时 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/gio-thin-chau-sinh-nhu-co-ost-lam-am-izumi.q8uvu2xiT79p.html"
     },
     {
@@ -15325,7 +15325,7 @@
       "creator": "Dịch Điểm (Yi Dian)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/NhuCoChauSinhNhuCoOst-DichDiemYiDian-7078919.mp3?st=fC8fv7lNboQqe_qkccjAfQ&e=1631635387",
-      "title": "Như Cố / 如故 (Châu Sinh Như Cố Ost)",
+      "name": "Như Cố / 如故 (Châu Sinh Như Cố Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/nhu-co-chau-sinh-nhu-co-ost-dich-diem-yi-dian.m496qLhvyKqe.html"
     },
     {
@@ -15335,7 +15335,7 @@
       "creator": "Chùy Na Lệ Sa",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/EmQuaNgoc-ChuyNaLeSa-7056265.mp3?st=iZswKE3s79XZi1zOox-m9Q&e=1631635387",
-      "title": "Em Quá Ngốc / 我太笨",
+      "name": "Em Quá Ngốc / 我太笨",
       "url": "https://www.nhaccuatui.com/bai-hat/em-qua-ngoc-chuy-na-le-sa.KWCeHLpSmri5.html"
     },
     {
@@ -15345,7 +15345,7 @@
       "creator": "Gaston Bàng Gia Tư Đốn",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/RingRingRing-GastonBangGiaTuDon-7059547.mp3?st=p74ig8NFiLRscnTARwef6Q&e=1631635387",
-      "title": "Ring Ring Ring",
+      "name": "Ring Ring Ring",
       "url": "https://www.nhaccuatui.com/bai-hat/ring-ring-ring-gaston-bang-gia-tu-don.WGCssQ926VrN.html"
     },
     {
@@ -15355,7 +15355,7 @@
       "creator": "EN",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui991/KieuNgao-EN-6127721.mp3?st=_fp6I24zdohp6ZFC-PCmMA&e=1631635387",
-      "title": "Kiêu Ngạo / 囂張",
+      "name": "Kiêu Ngạo / 囂張",
       "url": "https://www.nhaccuatui.com/bai-hat/kieu-ngao-en.goazMwlrxvLa.html"
     },
     {
@@ -15365,7 +15365,7 @@
       "creator": "Nhậm Gia Luân",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/NhuNhatChauSinhNhuCoOST-NhamGiaLuan-7074589.mp3?st=1Mge5MEEE7b5m4K87gxFfQ&e=1631635387",
-      "title": "Như Nhất / 如一 (Châu Sinh Như Cố OST)",
+      "name": "Như Nhất / 如一 (Châu Sinh Như Cố OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/nhu-nhat-chau-sinh-nhu-co-ost-nham-gia-luan.g7QMXfE3XPaF.html"
     },
     {
@@ -15375,7 +15375,7 @@
       "creator": "Trịnh Ngư",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1017/ChamThan-TrinhNgu-7034180.mp3?st=ZQYyS8RKwdDckcH_Q79Zvw&e=1631635387",
-      "title": "Chẩm Thán / 怎叹",
+      "name": "Chẩm Thán / 怎叹",
       "url": "https://www.nhaccuatui.com/bai-hat/cham-than-trinh-ngu.St2SoYfRjUfr.html"
     },
     {
@@ -15385,7 +15385,7 @@
       "creator": "Doãn Tích Miên, Tiểu Điền Âm Nhạc Xã",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1013/TayLauBietTu-DoanTichMienTieuDienAmNhacXa-6941953.mp3?st=r5YdkhWeCG-ZonBIWTNexg&e=1631635387",
-      "title": "Tây Lâu Biệt Tự / 西樓別序",
+      "name": "Tây Lâu Biệt Tự / 西樓別序",
       "url": "https://www.nhaccuatui.com/bai-hat/tay-lau-biet-tu-doan-tich-mien-ft-tieu-dien-am-nhac-xa.O1V5h8cjyWRV.html"
     },
     {
@@ -15395,7 +15395,7 @@
       "creator": "Tần Hải Thanh (Qin Haiqing)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1017/KhongBang-TanHaiThanhQinHaiqing-7026419.mp3?st=Tr72s-l-2U6PC8NHzsjknQ&e=1631635387",
-      "title": "Không Bằng / 不如",
+      "name": "Không Bằng / 不如",
       "url": "https://www.nhaccuatui.com/bai-hat/khong-bang-tan-hai-thanh-qin-haiqing.hZ6wfDjzm8u8.html"
     },
     {
@@ -15405,7 +15405,7 @@
       "creator": "Lý Hâm Nhất (Rex)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/LuonLuonLuonLuonThichEmBiMatNoiGocToiOst-LyHamNhatRex-7066137.mp3?st=MuszxdK9B180_RKoIBTHwA&e=1631635387",
-      "title": "Luôn Luôn Luôn Luôn, Thích Em / 一直一直一直, 喜欢你 (Bí Mật Nơi Góc Tối Ost)",
+      "name": "Luôn Luôn Luôn Luôn, Thích Em / 一直一直一直, 喜欢你 (Bí Mật Nơi Góc Tối Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/luon-luon-luon-luon-thich-em-bi-mat-noi-goc-toi-ost-ly-ham-nhat-rex.d9YbrHS8HEtm.html"
     },
     {
@@ -15415,7 +15415,7 @@
       "creator": "Thời Đại Thiếu Niên Đoàn (TNT)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/ToThichCau-ThoiDaiThieuNienDoanTNT-7058536.mp3?st=gia6f1uIALqGmkoa32f4MQ&e=1631635387",
-      "title": "Tớ Thích Cậu / 我喜欢你",
+      "name": "Tớ Thích Cậu / 我喜欢你",
       "url": "https://www.nhaccuatui.com/bai-hat/to-thich-cau-thoi-dai-thieu-nien-doan-tnt.Ot6D8Hkvde7V.html"
     },
     {
@@ -15425,7 +15425,7 @@
       "creator": "Thiền Y Thuần (Dan Yi Chun)",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/VietTiepMotDoiMotKiepOst-ThienYThuanDanYiChun-7084680.mp3?st=Aev2W2l3y60lkD6HogPDtw&e=1631635387",
-      "title": "Viết Tiếp / 续写 (Một Đời Một Kiếp Ost)",
+      "name": "Viết Tiếp / 续写 (Một Đời Một Kiếp Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/viet-tiep-mot-doi-mot-kiep-ost-thien-y-thuan-dan-yi-chun.TkbsxSvu15HH.html"
     },
     {
@@ -15435,7 +15435,7 @@
       "creator": "Châu Hưng Triết (Eric Chou)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1003/TinhYeuVinhVienKhongMatDi-ChauHungTrietEricChou-6627282.mp3?st=kBhG7HvJwTvtRKB-hiwRgA&e=1631635387",
-      "title": "Tình Yêu Vĩnh Viễn Không Mất Đi / 永不失联的爱",
+      "name": "Tình Yêu Vĩnh Viễn Không Mất Đi / 永不失联的爱",
       "url": "https://www.nhaccuatui.com/bai-hat/tinh-yeu-vinh-vien-khong-mat-di-chau-hung-triet-eric-chou.fSid64VXFabo.html"
     },
     {
@@ -15445,7 +15445,7 @@
       "creator": "Đặng Tử Kỳ (G.E.M)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui982/AcMaDenTuThienDuong-DangTuKyGEM-4301353.mp3?st=d7ygtDUTWY8hxmZZ-OeSwQ&e=1631635387",
-      "title": "Ác Ma Đến Từ Thiên Đường / 来自天堂的魔鬼",
+      "name": "Ác Ma Đến Từ Thiên Đường / 来自天堂的魔鬼",
       "url": "https://www.nhaccuatui.com/bai-hat/ac-ma-den-tu-thien-duong-dang-tu-ky-gem.72UNhM1tDdy5.html"
     },
     {
@@ -15455,7 +15455,7 @@
       "creator": "Tỉnh Lung (Jing Long), Tỉnh Địch Nhi",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1018/Kieu-TinhLungJingLongTinhDichNhi-7051530.mp3?st=HO4mJb8tkYbMVlnkX-3dgw&e=1631635387",
-      "title": "Kiêu / 骁",
+      "name": "Kiêu / 骁",
       "url": "https://www.nhaccuatui.com/bai-hat/kieu-tinh-lung-jing-long-ft-tinh-dich-nhi.ClM4FHZ2DVaI.html"
     },
     {
@@ -15465,7 +15465,7 @@
       "creator": "Lộ Gia (Lu Ye)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1009/DaiThienBong-LoGiaLuYe-6889620.mp3?st=NtmRGuSNrAHhIL-ba6UOfg&e=1631635387",
-      "title": "Đại Thiên Bồng / 大天蓬",
+      "name": "Đại Thiên Bồng / 大天蓬",
       "url": "https://www.nhaccuatui.com/bai-hat/dai-thien-bong-lo-gia-lu-ye.a2MiXhjpDNUw.html"
     },
     {
@@ -15475,7 +15475,7 @@
       "creator": "Tiểu Lam Bối Tâm",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/TrongMatDeuLaAnh-TieuLamBoiTam-7055827.mp3?st=wGRcKsxfkTqslEUhcGcSfw&e=1631635387",
-      "title": "Trong Mắt Đều Là Anh",
+      "name": "Trong Mắt Đều Là Anh",
       "url": "https://www.nhaccuatui.com/bai-hat/trong-mat-deu-la-anh-tieu-lam-boi-tam.KA15YbtDveBj.html"
     },
     {
@@ -15485,7 +15485,7 @@
       "creator": "Nhậm Nhiên",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui988/NguoiKeVi-NhamHienRenRan-6045883.mp3?st=rDnuTaXhmmS5Ta-r6mMrag&e=1631635387",
-      "title": "Người Kế Nhiệm / 后继者",
+      "name": "Người Kế Nhiệm / 后继者",
       "url": "https://www.nhaccuatui.com/bai-hat/nguoi-ke-nhiem-nham-nhien.f7FejQJ2F1ug.html"
     },
     {
@@ -15495,7 +15495,7 @@
       "creator": "K.D",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui996/DongMienCover-KD-6240042.mp3?st=qubBcNAAeSA6T3niW_7eJw&e=1631635387",
-      "title": "Đông Miên / 冬眠 Cover",
+      "name": "Đông Miên / 冬眠 Cover",
       "url": "https://www.nhaccuatui.com/bai-hat/dong-mien-cover-kd.qcFQhQUuZdn4.html"
     },
     {
@@ -15505,7 +15505,7 @@
       "creator": "Vương Tĩnh Văn Không Mập",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1004/DeThayDoi-VuongTinhVanKhongMap-6720581.mp3?st=4ZaAowjZxhRoiXqMERI3AA&e=1631635387",
-      "title": "Dễ Thay Đổi / 善變",
+      "name": "Dễ Thay Đổi / 善變",
       "url": "https://www.nhaccuatui.com/bai-hat/de-thay-doi-vuong-tinh-van-khong-map.6S0fp2DnNh1x.html"
     },
     {
@@ -15515,7 +15515,7 @@
       "creator": "Trình Hưởng",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1009/BonMuaTraoAnh-TrinhHuong-6897211.mp3?st=Mqb1vnN-Xjuwx09QjT87yg&e=1631635387",
-      "title": "Bốn Mùa Trao Anh / 四季予你",
+      "name": "Bốn Mùa Trao Anh / 四季予你",
       "url": "https://www.nhaccuatui.com/bai-hat/bon-mua-trao-anh-trinh-huong.gEWo5r9TB8cf.html"
     },
     {
@@ -15525,7 +15525,7 @@
       "creator": "Vương Tĩnh Văn Không Mập",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1012/KhongBietPhaiLamSao-VuongTinhVanKhongMap-6559097.mp3?st=Bs3_-2EeRMUZC266naSlGg&e=1631635387",
-      "title": "Không Biết Phải Làm Sao / 不知所措",
+      "name": "Không Biết Phải Làm Sao / 不知所措",
       "url": "https://www.nhaccuatui.com/bai-hat/khong-biet-phai-lam-sao-vuong-tinh-van-khong-map.IBslMKwwV031.html"
     },
     {
@@ -15535,7 +15535,7 @@
       "creator": "Quang Lương (Michael Wong)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui946/DongThoai-MichaelWongQuangLuong-161624.mp3?st=jmbr1kQoVaj5rvdNOM6qTA&e=1631635387",
-      "title": "Đồng Thoại",
+      "name": "Đồng Thoại",
       "url": "https://www.nhaccuatui.com/bai-hat/dong-thoai-quang-luong-michael-wong.4bp2LeKCTT.html"
     },
     {
@@ -15545,7 +15545,7 @@
       "creator": "Mạc Khiếu Tỷ Tỷ",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/MetRoiDauRoiBuongTayThoi-MacKhieuTyTy-7073620.mp3?st=luOZsfiPPKpAaY5QT-cmTQ&e=1631635387",
-      "title": "Mệt Rồi Đau Rồi Buông Tay Thôi / 累了痛了放手了",
+      "name": "Mệt Rồi Đau Rồi Buông Tay Thôi / 累了痛了放手了",
       "url": "https://www.nhaccuatui.com/bai-hat/met-roi-dau-roi-buong-tay-thoi-mac-khieu-ty-ty.JZjL11EcnuGj.html"
     },
     {
@@ -15555,7 +15555,7 @@
       "creator": "Nghiêm Hạo Tường (Yan Hao Xiang)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/SoDuoi62086208-NghiemHaoTuongYanHaoXiang-7069233.mp3?st=JMBIie27AYfFJAN91nx3JQ&e=1631635387",
-      "title": "Số Đuôi 6208 / 尾号6208",
+      "name": "Số Đuôi 6208 / 尾号6208",
       "url": "https://www.nhaccuatui.com/bai-hat/so-duoi-6208-6208-nghiem-hao-tuong-yan-hao-xiang.kzUcOjcS0GJF.html"
     },
     {
@@ -15565,7 +15565,7 @@
       "creator": "Mạc Khiếu Tỷ Tỷ",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1017/KhongNenTinVaoTinhYeu-MacKhieuTyTy-7035908.mp3?st=Fugmc-Beyb-HEAgURH9osg&e=1631635387",
-      "title": "Không Nên Tin Vào Tình Yêu / 不该用情",
+      "name": "Không Nên Tin Vào Tình Yêu / 不该用情",
       "url": "https://www.nhaccuatui.com/bai-hat/khong-nen-tin-vao-tinh-yeu-mac-khieu-ty-ty.AFcxwroZxazF.html"
     },
     {
@@ -15575,7 +15575,7 @@
       "creator": "Vương Nhất Bác (Wang Yibo), Tiêu Chiến (Xiao Zhan)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui986/VongTienTranTinhLenhOST-VuongNhatBacWangYiboTieuChienXiaoZhan-6010920.mp3?st=0t9p8GYTiQWCNEYWccCiZA&e=1631635388",
-      "title": "Vong Tiện / 忘羡 (Trần Tình Lệnh OST)",
+      "name": "Vong Tiện / 忘羡 (Trần Tình Lệnh OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/vong-tien-tran-tinh-lenh-ost-vuong-nhat-bac-wang-yibo-ft-tieu-chien-xiao-zhan.YC8RoJziLIdd.html"
     },
     {
@@ -15585,7 +15585,7 @@
       "creator": "Uông Tô Lang (Silence Wang), BY2",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui983/CoChutNgotNgao-UongToLangSilenceWangBY2-3710201.mp3?st=LepYS8-k1H2Y2K1x8Tcb9A&e=1631635388",
-      "title": "Có Chút Ngọt Ngào / 有点甜",
+      "name": "Có Chút Ngọt Ngào / 有点甜",
       "url": "https://www.nhaccuatui.com/bai-hat/co-chut-ngot-ngao-uong-to-lang-silence-wang-ft-by2.mEpZUx5R5iSN.html"
     },
     {
@@ -15595,7 +15595,7 @@
       "creator": "Thiền Y Thuần (Dan Yi Chun)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/VietTiepNhatSinhNhatTheOST-ThienYThuanDanYiChun-7084598.mp3?st=h9zVCErPKThUhRnKT4y-Eg&e=1631635388",
-      "title": "Viết Tiếp / 续写 (Nhất Sinh Nhất Thế OST)",
+      "name": "Viết Tiếp / 续写 (Nhất Sinh Nhất Thế OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/viet-tiep-nhat-sinh-nhat-the-ost-thien-y-thuan-dan-yi-chun.NDBAOyuIyVLz.html"
     },
     {
@@ -15605,7 +15605,7 @@
       "creator": "Tiểu Lam Bối Tâm",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/TrongMatDeuLaAnhRemix-TieuLamBoiTam-7056290.mp3?st=yLW8dJ4navpvGwh7iwGDCg&e=1631635388",
-      "title": "Trong Mắt Đều Là Anh Remix/ 目及皆是你 (心跳版)",
+      "name": "Trong Mắt Đều Là Anh Remix/ 目及皆是你 (心跳版)",
       "url": "https://www.nhaccuatui.com/bai-hat/trong-mat-deu-la-anh-remix-tieu-lam-boi-tam.HvDhMbrK02Na.html"
     },
     {
@@ -15615,7 +15615,7 @@
       "creator": "Mạc Khiếu Tỷ Tỷ",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1017/AnhCoTheNaoDungRoiXaEm-MacKhieuTyTy-7043614.mp3?st=BuRYhgL4UDaASgtjT-576g&e=1631635388",
-      "title": "Anh Có Thể Nào Đừng Rời Xa Em / 你能不能不要离开我",
+      "name": "Anh Có Thể Nào Đừng Rời Xa Em / 你能不能不要离开我",
       "url": "https://www.nhaccuatui.com/bai-hat/anh-co-the-nao-dung-roi-xa-em-mac-khieu-ty-ty.MYDqbRHNUOs1.html"
     },
     {
@@ -15625,7 +15625,7 @@
       "creator": "Hàm Đại Tiên Nhi (Han Da Xian Er)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/DieuNguNgocKhongNenLam-HamDaiTienNhiHanDaXianEr-7074349.mp3?st=n2ZI8YfRolghIWbwJvfA9w&e=1631635388",
-      "title": "Điều Ngu Ngốc Không Nên Làm / 不该犯的蠢",
+      "name": "Điều Ngu Ngốc Không Nên Làm / 不该犯的蠢",
       "url": "https://www.nhaccuatui.com/bai-hat/dieu-ngu-ngoc-khong-nen-lam-ham-dai-tien-nhi-han-da-xian-er.9Bj2te3syAcv.html"
     },
     {
@@ -15635,7 +15635,7 @@
       "creator": "Lý Tuấn Nghị (Li Jun Yi)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/CauChuTuocHoaRaEmRatYeuAnhOst-LyTuanNghiLiJunYi-7065630.mp3?st=aDx5-7fUR_T1D06tjHkOcA&e=1631635388",
-      "title": "Cầu Chu Tước (Hoá Ra Em Rất Yêu Anh Ost)",
+      "name": "Cầu Chu Tước (Hoá Ra Em Rất Yêu Anh Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/cau-chu-tuoc-hoa-ra-em-rat-yeu-anh-ost-ly-tuan-nghi-li-jun-yi.ODcqCYoQI1po.html"
     },
     {
@@ -15645,7 +15645,7 @@
       "creator": "Lâm Ngạn Tuấn (Evan Lin)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/HoaRaAnhRatYeuEmHoaRaEmRatYeuAnhOST-LamNganTuanEvanLin-7067746.mp3?st=kbAUy3aM41gnZnfghs7xhQ&e=1631635388",
-      "title": "Hóa Ra Anh Rất Yêu Em / 原来我很爱你 (Hóa Ra Em Rất Yêu Anh OST)",
+      "name": "Hóa Ra Anh Rất Yêu Em / 原来我很爱你 (Hóa Ra Em Rất Yêu Anh OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/hoa-ra-anh-rat-yeu-em-hoa-ra-em-rat-yeu-anh-ost-lam-ngan-tuan-evan-lin.CrAP2Mf5WIDW.html"
     },
     {
@@ -15655,7 +15655,7 @@
       "creator": "Danh Quyết",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui995/LuKhachQuaThoiGian-DanhQuyet-6224911.mp3?st=oceHi__wR_3pVF41xTRvJw&e=1631635388",
-      "title": "Lữ Khách Qua Thời Gian / 时间的过客",
+      "name": "Lữ Khách Qua Thời Gian / 时间的过客",
       "url": "https://www.nhaccuatui.com/bai-hat/lu-khach-qua-thoi-gian-danh-quyet.ExHtPEplevkP.html"
     },
     {
@@ -15665,7 +15665,7 @@
       "creator": "Vượng Tử Tiểu Kiều",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1016/VayGiu-VuongTuTieuKieu-7021510.mp3?st=Fi1NwdcnltiBuDTqSy051w&e=1631635388",
-      "title": "Vây Giữ / 沦陷",
+      "name": "Vây Giữ / 沦陷",
       "url": "https://www.nhaccuatui.com/bai-hat/vay-giu-vuong-tu-tieu-kieu.x60MB1ylOe8J.html"
     },
     {
@@ -15675,7 +15675,7 @@
       "creator": "Thời Đại Thiếu Niên Đoàn (TNT)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/DoNgoc-ThoiDaiThieuNienDoanTNT-7065159.mp3?st=rP8YFImWe1vW-CTscx3xjQ&e=1631635388",
-      "title": "Đồ Ngốc / 傻瓜",
+      "name": "Đồ Ngốc / 傻瓜",
       "url": "https://www.nhaccuatui.com/bai-hat/do-ngoc-thoi-dai-thieu-nien-doan-tnt.BjoGWFt2dajJ.html"
     },
     {
@@ -15685,7 +15685,7 @@
       "creator": "Mộng Nhiên (Meng Ran)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui996/ThieuNien-MongNhienMengRan-6238337.mp3?st=qAXc25MLRrTR7wi_Pu_tlA&e=1631635388",
-      "title": "Thiếu Niên / 少年",
+      "name": "Thiếu Niên / 少年",
       "url": "https://www.nhaccuatui.com/bai-hat/thieu-nien-mong-nhien-meng-ran.ElKDY7O78Ct1.html"
     },
     {
@@ -15695,7 +15695,7 @@
       "creator": "Tô Thi Đinh (Juno Su)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/AsIBelieveHoaRaEmRatYeuAnhOst-ToThiDinhJunoSu-7065626.mp3?st=tJck_kFlKm3BlamiGPnglA&e=1631635388",
-      "title": "As I Believe (Hoá Ra Em Rất Yêu Anh Ost)",
+      "name": "As I Believe (Hoá Ra Em Rất Yêu Anh Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/as-i-believe-hoa-ra-em-rat-yeu-anh-ost-to-thi-dinh-juno-su.ZmOC0oTMRwCo.html"
     },
     {
@@ -15705,7 +15705,7 @@
       "creator": "Tỉnh Lung (Jing Long)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui998/DanhMatEm-TinhLungJingLong-6268395.mp3?st=FH8Dx2wD1Kt2btryr31WDg&e=1631635388",
-      "title": "Đánh Mất Em / 丢了你",
+      "name": "Đánh Mất Em / 丢了你",
       "url": "https://www.nhaccuatui.com/bai-hat/danh-mat-em-tinh-lung-jing-long.Iq8BFzO3gkMQ.html"
     },
     {
@@ -15715,7 +15715,7 @@
       "creator": "Nhậm Nhiên",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui995/DaoKhongNguoi-NhamNhien-6215702.mp3?st=fGI7BQNbVMnbIqsTUwObLA&e=1631635388",
-      "title": "Đảo Không Người / 無人之島",
+      "name": "Đảo Không Người / 無人之島",
       "url": "https://www.nhaccuatui.com/bai-hat/dao-khong-nguoi-nham-nhien.k81ekzAPVknu.html"
     },
     {
@@ -15725,7 +15725,7 @@
       "creator": "Hy Lâm Na Y Cao (Curley G), MiKa Hashizume",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/SaVaoTinhYeuEmLaNiemKieuHanhCuaAnhOst-HyLamNaYCaoCurleyGMiKaHashizume-7056777.mp3?st=Ane9gdxDFub7qQ9vJw4F2w&e=1631635388",
-      "title": "Sa Vào Tình Yêu / 陷入爱情 ( Em Là Niềm Kiêu Hãnh Của Anh Ost)",
+      "name": "Sa Vào Tình Yêu / 陷入爱情 ( Em Là Niềm Kiêu Hãnh Của Anh Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/sa-vao-tinh-yeu-em-la-niem-kieu-hanh-cua-anh-ost-hy-lam-na-y-cao-curley-g-ft-mika-hashizume.5L3DXdweSY0K.html"
     },
     {
@@ -15735,7 +15735,7 @@
       "creator": "Mao Bất Dịch (Mao Bu Yi)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui960/BatNhiem-MaoBatDichMaoBuyi-5393965.mp3?st=q7raaE3MjDWszr9ZQstg2A&e=1631635388",
-      "title": "Bất Nhiễm / 不染 (Hương Mật Tựa Khói Sương OST)",
+      "name": "Bất Nhiễm / 不染 (Hương Mật Tựa Khói Sương OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/bat-nhiem-huong-mat-tua-khoi-suong-ost-mao-bat-dich-mao-bu-yi.Upgs3eL7JyWH.html"
     },
     {
@@ -15745,7 +15745,7 @@
       "creator": "Tưởng Tiểu Ni",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1014/ForYa-TuongTieuNi-6939824.mp3?st=JW_OCgQyByQOMKyrIxZQtA&e=1631635388",
-      "title": "For Ya",
+      "name": "For Ya",
       "url": "https://www.nhaccuatui.com/bai-hat/for-ya-tuong-tieu-ni.V7l7BfFo7Zsk.html"
     },
     {
@@ -15755,7 +15755,7 @@
       "creator": "Từ Giai Oánh (Lala Hsu)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/ThoiGianDocThoaiEmLaNiemKieuHanhCuaAnhOst-TuGiaiOanhLalaHsu-7056768.mp3?st=CWxBS-2ejw-52vSBqMDJOQ&e=1631635388",
-      "title": "Thời Gian Độc Thoại / 光阴独白 (Em Là Niềm Kiêu Hãnh Của Anh Ost)",
+      "name": "Thời Gian Độc Thoại / 光阴独白 (Em Là Niềm Kiêu Hãnh Của Anh Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/thoi-gian-doc-thoai-em-la-niem-kieu-hanh-cua-anh-ost-tu-giai-oanh-lala-hsu.neHjaQ1gL9Fa.html"
     },
     {
@@ -15765,7 +15765,7 @@
       "creator": "Đặng Tử Kỳ (G.E.M)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui942/DaoHoaNacThuongCoTinhCaOST-GEMDangTuKy-5011028.mp3?st=jndN74Mx8KxOviwb7llPag&e=1631635388",
-      "title": "Đào Hoa Nặc (Thượng Cổ Tình Ca OST)",
+      "name": "Đào Hoa Nặc (Thượng Cổ Tình Ca OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/dao-hoa-nac-thuong-co-tinh-ca-ost-dang-tu-ky-gem.zm9oGLBZBbpJ.html"
     },
     {
@@ -15775,7 +15775,7 @@
       "creator": "Hoàng Tiêu Vân (Ghost Huang)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1010/SaoTroiBienRong-HoangTieuVanGhostHuang-6927048.mp3?st=_nalR1YkiKZocZ1vzedgWA&e=1631635388",
-      "title": "Sao Trời Biển Rộng /  星辰大海",
+      "name": "Sao Trời Biển Rộng /  星辰大海",
       "url": "https://www.nhaccuatui.com/bai-hat/sao-troi-bien-rong-hoang-tieu-van-ghost-huang.t52Q0Ci7ZrMU.html"
     },
     {
@@ -15785,7 +15785,7 @@
       "creator": "Đỗ Thiên Vũ (Jacky Du Tian Yu),",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/HuongViLangManBiMatNoiGocToiOst-DoThienVuJackyDuTianYu-7066142.mp3?st=SPic1iR43czUsVXPnfTt-g&e=1631635388",
-      "title": "Hương Vị Lãng Mạn / 浪漫味道 (Bí Mật Nơi Góc Tối Ost)",
+      "name": "Hương Vị Lãng Mạn / 浪漫味道 (Bí Mật Nơi Góc Tối Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/huong-vi-lang-man-bi-mat-noi-goc-toi-ost-do-thien-vu-jacky-du-tian-yu.l2QSjfn0Jt3B.html"
     },
     {
@@ -15795,7 +15795,7 @@
       "creator": "Trình Giai Giai (Cheng Jia Jia)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1016/DungBoLo-TrinhGiaiGiaiChengJiaJia-7020680.mp3?st=AK1luePbu8suQ5o99FNI4w&e=1631635388",
-      "title": "Đừng Bỏ Lỡ / 别错过",
+      "name": "Đừng Bỏ Lỡ / 别错过",
       "url": "https://www.nhaccuatui.com/bai-hat/dung-bo-lo-trinh-giai-giai-cheng-jia-jia.GDKyMhVL2lWe.html"
     },
     {
@@ -15805,7 +15805,7 @@
       "creator": "Lưu Chí Giai, Han Dong (Hàn Đống)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/EmOPhiaSauThoiGian-LuuChiGiaiHanDongHanDong-7056152.mp3?st=zIDJXjnNnI8zu_NlEFvCNw&e=1631635388",
-      "title": "Em Ở Phía Sau Thời Gian 時光背面的我",
+      "name": "Em Ở Phía Sau Thời Gian 時光背面的我",
       "url": "https://www.nhaccuatui.com/bai-hat/em-o-phia-sau-thoi-gian-luu-chi-giai-ft-han-dong-han-dong.1SU8jwZ3T0rp.html"
     },
     {
@@ -15815,7 +15815,7 @@
       "creator": "Lưu Chí Giai, Hàn Đồng (Han Tong)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/EmOPhiaSauThoiGian-LuuChiGiaiHanDongHanTong-7054167.mp3?st=dyJFzLxk0PLZwYnXj1oSSQ&e=1631635388",
-      "title": "Em Ở Phía Sau Thời Gian (时光背面的我)",
+      "name": "Em Ở Phía Sau Thời Gian (时光背面的我)",
       "url": "https://www.nhaccuatui.com/bai-hat/em-o-phia-sau-thoi-gian-luu-chi-giai-ft-han-dong-han-tong.t9q1F32PbMUQ.html"
     },
     {
@@ -15825,7 +15825,7 @@
       "creator": "Hoa Chúc, Vương Thắng Nam",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui981/XuatSon-HoaChucVuongThangNam-5883657.mp3?st=nyiNfzAuqyUtGfkPULQsDw&e=1631635388",
-      "title": "Xuất Sơn / 出山",
+      "name": "Xuất Sơn / 出山",
       "url": "https://www.nhaccuatui.com/bai-hat/xuat-son-hoa-chuc-ft-vuong-thang-nam.LGYodRfNtMTj.html"
     },
     {
@@ -15835,7 +15835,7 @@
       "creator": "Phù Sinh Mộng",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/ThamSong-PhuSinhMong-7057215.mp3?st=YHzYjieUgqE-rDzv8epmdg&e=1631635388",
-      "title": "Tham Song / 探窗",
+      "name": "Tham Song / 探窗",
       "url": "https://www.nhaccuatui.com/bai-hat/tham-song-phu-sinh-mong.wNcLF6ouT792.html"
     },
     {
@@ -15845,7 +15845,7 @@
       "creator": "Phương Thập Nhị (Fang Shier)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1009/GiacMoKhongTheDanhThuc-PhuongThapNhiFangShier-6893471.mp3?st=aNH6fl2TCL19KPnAjuFMww&e=1631635388",
-      "title": "Giấc Mơ Không Thể Đánh Thức / 醒不来的梦",
+      "name": "Giấc Mơ Không Thể Đánh Thức / 醒不来的梦",
       "url": "https://www.nhaccuatui.com/bai-hat/giac-mo-khong-the-danh-thuc-phuong-thap-nhi-fang-shier.N6vkj9jvDgl3.html"
     },
     {
@@ -15855,7 +15855,7 @@
       "creator": "Ngụy Thần (Wei Chen)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/LuanHamHoaRaEmRatYeuAnhOST-NguyThanWeiChen-7067750.mp3?st=Vi80vHIA-f8F-X_bMbE8Jw&e=1631635388",
-      "title": "Luân Hãm / 沦陷 (Hóa Ra Em Rất Yêu Anh OST)",
+      "name": "Luân Hãm / 沦陷 (Hóa Ra Em Rất Yêu Anh OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/luan-ham-hoa-ra-em-rat-yeu-anh-ost-nguy-than-wei-chen.YA5YS09tQHit.html"
     },
     {
@@ -15865,7 +15865,7 @@
       "creator": "Viên Á Duy (Tia Ray)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui993/ViNguoiMaDen-VienADuyTiaRay-6175529.mp3?st=uzIBFHClox1wmyhRY8CQNQ&e=1631635388",
-      "title": "Vì Người Mà Đến / 为你而来",
+      "name": "Vì Người Mà Đến / 为你而来",
       "url": "https://www.nhaccuatui.com/bai-hat/vi-nguoi-ma-den-vien-a-duy-tia-ray.lgAYzhCwAo2L.html"
     },
     {
@@ -15875,7 +15875,7 @@
       "creator": "Tiểu Lam Bối Tâm",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/TrongDoiMatDeuLaAnh-TieuLamBoiTam-7057624.mp3?st=0KzpdNGshb6BLpsBSgYnmw&e=1631635388",
-      "title": "Trong Đôi Mắt Đều Là Anh / 目及皆是你",
+      "name": "Trong Đôi Mắt Đều Là Anh / 目及皆是你",
       "url": "https://www.nhaccuatui.com/bai-hat/trong-doi-mat-deu-la-anh-tieu-lam-boi-tam.UrwL0CDf7DHR.html"
     },
     {
@@ -15885,7 +15885,7 @@
       "creator": "Vương Hân Thần (Amanda), Tô Tinh Tiệp",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1014/ThanhTru-VuongHanThanAmandaToTinhTiep-6932215.mp3?st=gBicY8G8dGEhxo-dzvFyUA&e=1631635388",
-      "title": "Thanh Trừ / 清空",
+      "name": "Thanh Trừ / 清空",
       "url": "https://www.nhaccuatui.com/bai-hat/thanh-tru-vuong-han-than-amanda-ft-to-tinh-tiep.1AoR1Xo4JNYZ.html"
     },
     {
@@ -15895,7 +15895,7 @@
       "creator": "A Tứ (A Si)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1001/NhietTinhYeuThuong105Do105C-ATuASi-6289533.mp3?st=ncwJUe4D2OiDujeDbm0h0A&e=1631635388",
-      "title": "Nhiệt Tình Yêu Thương 105 Độ / 熱愛105°C的你",
+      "name": "Nhiệt Tình Yêu Thương 105 Độ / 熱愛105°C的你",
       "url": "https://www.nhaccuatui.com/bai-hat/nhiet-tinh-yeu-thuong-105-do-105c-a-tu-a-si.TciI7mHXxBTB.html"
     },
     {
@@ -15905,7 +15905,7 @@
       "creator": "Linh Nhất Cửu Linh Nhị",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1004/VongXuyenBiNgan-LinhNhatCuuLinhNhi-6720766.mp3?st=jijKLgVO7gWTQTMFIiv1-w&e=1631635388",
-      "title": "Vong Xuyên Bỉ Ngạn / 忘川彼岸",
+      "name": "Vong Xuyên Bỉ Ngạn / 忘川彼岸",
       "url": "https://www.nhaccuatui.com/bai-hat/vong-xuyen-bi-ngan-linh-nhat-cuu-linh-nhi.9twYkT9uA8Aa.html"
     },
     {
@@ -15915,7 +15915,7 @@
       "creator": "Dương Tông Vỹ (Aska Yang)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/NoiChoEmNgheEmLaNiemKieuHanhCuaAnhOst-DuongTongVyAskaYang-7057315.mp3?st=1hijZmD-RazsEgUgss6HbQ&e=1631635388",
-      "title": "Nói Cho Em Nghe / 说给你听 (Em Là Niềm Kiêu Hãnh Của Anh Ost)",
+      "name": "Nói Cho Em Nghe / 说给你听 (Em Là Niềm Kiêu Hãnh Của Anh Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/noi-cho-em-nghe-em-la-niem-kieu-hanh-cua-anh-ost-duong-tong-vy-aska-yang.b0juUlXhtZAz.html"
     },
     {
@@ -15925,7 +15925,7 @@
       "creator": "Hứa Lam Tâm (Xu Lan Xin)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1014/HongMa-HuaLamTamXuLanXin-6997834.mp3?st=wXqYbk5NXT8GOqRmZRjYOQ&e=1631635388",
-      "title": "Hồng Mã / 红马",
+      "name": "Hồng Mã / 红马",
       "url": "https://www.nhaccuatui.com/bai-hat/hong-ma-hua-lam-tam-xu-lan-xin.vzqGmDa9m3Iq.html"
     },
     {
@@ -15935,7 +15935,7 @@
       "creator": "Là Thất Thúc Đây",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1016/NuaDoiTuyet-LaThatThucDay-7021161.mp3?st=QjfIh6Ze24nrQvd7U8xp7w&e=1631635388",
-      "title": "Nửa Đời Tuyết / 半生雪",
+      "name": "Nửa Đời Tuyết / 半生雪",
       "url": "https://www.nhaccuatui.com/bai-hat/nua-doi-tuyet-la-that-thuc-day.pnFkHgMUxTrP.html"
     },
     {
@@ -15945,7 +15945,7 @@
       "creator": "Dã Khả (Ye Ke)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1018/KhongBang-DaKhaYeKe-7053130.mp3?st=I8UsbLHSKyi5i8OWnSC1qQ&e=1631635388",
-      "title": "Không Bằng / 不如",
+      "name": "Không Bằng / 不如",
       "url": "https://www.nhaccuatui.com/bai-hat/khong-bang-da-kha-ye-ke.2n1FCZ17s9k4.html"
     },
     {
@@ -15955,7 +15955,7 @@
       "creator": "Văn Nhân Thính Thư (Yi Xiao Jiang Hu)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1003/NguHeThan-VanNhanThinhThuYiXiaoJiangHu-6607010.mp3?st=86wpd78CrxSOSpnTJLVcUQ&e=1631635388",
-      "title": "Ngu Hề Thán / 虞兮叹",
+      "name": "Ngu Hề Thán / 虞兮叹",
       "url": "https://www.nhaccuatui.com/bai-hat/ngu-he-than-van-nhan-thinh-thu-yi-xiao-jiang-hu.B5iPtprZvqrt.html"
     },
     {
@@ -15965,7 +15965,7 @@
       "creator": "Cúc Tịnh Y (Ju Jing Yi)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui966/ThanVanHe-CucTinhYJuJingYi-5521288.mp3?st=MNRbpHf5dP2snmEvoJSV-g&e=1631635388",
-      "title": "Thán Vân Hề / 叹云兮 (Vân Tịch Truyện OST)",
+      "name": "Thán Vân Hề / 叹云兮 (Vân Tịch Truyện OST)",
       "url": "https://www.nhaccuatui.com/bai-hat/than-van-he-van-tich-truyen-ost-cuc-tinh-y-ju-jing-yi.Z576zyJWVYEk.html"
     },
     {
@@ -15975,7 +15975,7 @@
       "creator": "A Nhũng (Rong)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui993/DapAnCuaBan-ANhungRong-6147969.mp3?st=yMpNrBKbplSrbXZ7tjMDPw&e=1631635388",
-      "title": "Đáp Án Của Bạn / 你的答案",
+      "name": "Đáp Án Của Bạn / 你的答案",
       "url": "https://www.nhaccuatui.com/bai-hat/dap-an-cua-ban-a-nhung-rong.gh7KJzukBL8K.html"
     },
     {
@@ -15985,7 +15985,7 @@
       "creator": "Trịnh Diệc Thần (Zheng Yi Chen)",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1001/TuongTuThanhHoa-TrinhDiecThanZhengYiChen-6419539.mp3?st=_wmzfb04WFwtYpWA0FqSwQ&e=1631635388",
-      "title": "Tương Tư Thành Họa / 相思成灾",
+      "name": "Tương Tư Thành Họa / 相思成灾",
       "url": "https://www.nhaccuatui.com/bai-hat/tuong-tu-thanh-hoa-trinh-diec-than-zheng-yi-chen.U8eUkFVDX2co.html"
     },
     {
@@ -15995,7 +15995,7 @@
       "creator": "Quách Tĩnh (Claire Kuo)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1020/GiacMoTinhYeuCuaAnhAyBiMatNoiGocToiOst-QuachTinhClaireKuo-7066140.mp3?st=9f42UBzdrdrV-htKfEm-Wg&e=1631635388",
-      "title": "Giấc Mơ Tình Yêu Của Anh Ấy / 他爱的梦 (Bí Mật Nơi Góc Tối Ost)",
+      "name": "Giấc Mơ Tình Yêu Của Anh Ấy / 他爱的梦 (Bí Mật Nơi Góc Tối Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/giac-mo-tinh-yeu-cua-anh-ay-bi-mat-noi-goc-toi-ost-quach-tinh-claire-kuo.xb55wopAg0d8.html"
     },
     {
@@ -16005,7 +16005,7 @@
       "creator": "Hải Lai A Mộc (Hai Lai A Mu)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1005/BatQuaNhanGian-HaiLaiAMocHaiLaiAMu-6791817.mp3?st=cTuyVifd88xYqQOiwY0pXA&e=1631635388",
-      "title": "Bất Quá Nhân Gian / 不过人间",
+      "name": "Bất Quá Nhân Gian / 不过人间",
       "url": "https://www.nhaccuatui.com/bai-hat/bat-qua-nhan-gian-hai-lai-a-moc-hai-lai-a-mu.it8LcZo6GTCA.html"
     },
     {
@@ -16015,7 +16015,7 @@
       "creator": "A Yue Yue",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1012/TamDu-AYueYue-6954792.mp3?st=THst-V6KvyTrSIqZ5zu0Vg&e=1631635388",
-      "title": "Tầm Dữ / 寻屿",
+      "name": "Tầm Dữ / 寻屿",
       "url": "https://www.nhaccuatui.com/bai-hat/tam-du-a-yue-yue.yZFzvbgQeUcA.html"
     },
     {
@@ -16025,7 +16025,7 @@
       "creator": "Ice Paper",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui982/TamLangNhuNuoc-IcePaper-5946569.mp3?st=MoIb7DzwIWI98JX86LhR9A&e=1631635388",
-      "title": "Tâm Lặng Như Nước / 心如止水",
+      "name": "Tâm Lặng Như Nước / 心如止水",
       "url": "https://www.nhaccuatui.com/bai-hat/tam-lang-nhu-nuoc-ice-paper.3dOydr6x2UMp.html"
     },
     {
@@ -16035,7 +16035,7 @@
       "creator": "Phu Mộng Đồng (Fu Meng Tong)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1008/ThuyTrieuDJRemix-PhoMongDong-6854198.mp3?st=NZWQPHMMe_92VoqBGeDLeQ&e=1631635388",
-      "title": "Thủy Triều / 潮汐 (DJ 版 Remix)",
+      "name": "Thủy Triều / 潮汐 (DJ 版 Remix)",
       "url": "https://www.nhaccuatui.com/bai-hat/thuy-trieu-dj-remix-phu-mong-dong-fu-meng-tong.Q3x9i4ZTngHm.html"
     },
     {
@@ -16045,7 +16045,7 @@
       "creator": "Đại Thần Tuệ (Da Shen Hui)",
       "lyric": "",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1021/CungChangNhanGian-DaiThanTueDaShenHui-7076796.mp3?st=wgKItTn7PaJWDsyVceesgQ&e=1631635388",
-      "title": "Cùng Chàng Nhân Gian / 与你人间",
+      "name": "Cùng Chàng Nhân Gian / 与你人间",
       "url": "https://www.nhaccuatui.com/bai-hat/cung-chang-nhan-gian-dai-than-tue-da-shen-hui.AbpfPVr5gENP.html"
     },
     {
@@ -16055,7 +16055,7 @@
       "creator": "Hồ Ý Hoàn (Hu Yi Xuan)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1019/CuocHenNgaynangHaTienSinhLuuLuyenKhongQuenOst-HoYHoanHuYiXuan-7055046.mp3?st=_tL0i0OK4J7iPTxvl0Xkuw&e=1631635388",
-      "title": "Cuộc Hẹn Ngày Nắng / 晴天约会 (Hạ Tiên Sinh Lưu Luyến Không Quên Ost)",
+      "name": "Cuộc Hẹn Ngày Nắng / 晴天约会 (Hạ Tiên Sinh Lưu Luyến Không Quên Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/cuoc-hen-ngay-nang-ha-tien-sinh-luu-luyen-khong-quen-ost-ho-y-hoan-hu-yi-xuan.vv7cLMytKJ6s.html"
     },
     {
@@ -16065,7 +16065,7 @@
       "creator": "Hải Luân (Hai Lun)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1000/DuSonLuyen-HaiLuanHaiLun-6316678.mp3?st=rP2UxFQi3gBG6yTaRLR6Zg&e=1631635388",
-      "title": "Du Sơn Luyến (游山恋)",
+      "name": "Du Sơn Luyến (游山恋)",
       "url": "https://www.nhaccuatui.com/bai-hat/du-son-luyen-hai-luan-hai-lun.rz9lvwLzXcKV.html"
     },
     {
@@ -16075,7 +16075,7 @@
       "creator": "Mao Bất Dịch (Mao Bu Yi)",
       "lyric": "https://lrc-nct.nixcdn.com/null",
       "music": "https://aredir.nixcdn.com/NhacCuaTui1017/NienTueThienCoQuyetTranOst-MaoBatDichMaoBuYi-7034456.mp3?st=VLr-_wZFD3IhdpmN8G3JRA&e=1631635388",
-      "title": "Niên Tuế / 年岁 (Thiên Cổ Quyết Trần Ost)",
+      "name": "Niên Tuế / 年岁 (Thiên Cổ Quyết Trần Ost)",
       "url": "https://www.nhaccuatui.com/bai-hat/nien-tue-thien-co-quyet-tran-ost-mao-bat-dich-mao-bu-yi.mM3tnczzxLpx.html"
     }
   ]
