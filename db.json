@@ -2,103 +2,73 @@
   "Top10": [
     {
       "avatar": "https://avatar-ex-swe.nixcdn.com/song/2021/08/10/b/2/e/0/1628579601228.jpg",
-      "bgImage": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/10/29/a/a/d/4/1572318457703_600.jpg",
-      "coverImage": "https://avatar-ex-swe.nixcdn.com/playlist/2021/04/07/2/7/0/9/1617776161396_500.jpg",
-      "creator": "Masew, Độ Mixi, Phúc Du, Pháo",
-      "lyric": "https://lrc-nct.nixcdn.com/2021/08/25/7/a/7/7/1629868949551.lrc",
-      "music": "https://aredir.nixcdn.com/NhacCuaTui1020/DoToc2-MasewDoMixiPhucDuPhao-7064730.mp3?st=yUYyRA71bYQtcU0LmwgIAg&e=1631635362",
+      "singer": "Masew, Độ Mixi, Phúc Du, Pháo",
+      "audio": "https://aredir.nixcdn.com/NhacCuaTui1020/DoToc2-MasewDoMixiPhucDuPhao-7064730.mp3?st=yUYyRA71bYQtcU0LmwgIAg&e=1631635362",
       "name": "Độ Tộc 2",
-      "url": "https://www.nhaccuatui.com/bai-hat/do-toc-2-masew-ft-do-mixi-ft-phuc-du-ft-phao.pSGcmhLYeIsI.html"
-    },
-    {
-      "avatar": "https://avatar-ex-swe.nixcdn.com/song/2021/06/03/6/0/a/8/1622721624066.jpg",
-      "bgImage": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/13/a/9/8/e/1597287164260_600.jpg",
-      "coverImage": "https://avatar-ex-swe.nixcdn.com/playlist/2021/04/07/2/7/0/9/1617776161396_500.jpg",
-      "creator": "Freaky, Seachains",
-      "lyric": "https://lrc-nct.nixcdn.com/null",
-      "music": "https://aredir.nixcdn.com/Unv_Audio198/Gu-FreakySeachains-7029816.mp3?st=E7lrm8f1zxcd92tC1SJLSA&e=1631635362",
-      "name": "Gu",
-      "url": "https://www.nhaccuatui.com/bai-hat/gu-freaky-ft-seachains.3wZhYrfmdRAV.html"
-    },
-    {
-      "avatar": "https://avatar-ex-swe.nixcdn.com/song/2021/02/10/6/5/a/6/1612954164434.jpg",
-      "bgImage": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/02/17/a/3/2/1/1613561860337_600.jpg",
-      "coverImage": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/04/3/b/6/d/1620100988545_500.jpg",
-      "creator": "Juky San, RedT",
-      "lyric": "https://lrc-nct.nixcdn.com/2021/03/08/5/c/4/b/1615219017101.lrc",
-      "music": "https://aredir.nixcdn.com/NhacCuaTui1011/PhaiChangEmDaYeu-JukySanRedT-6940932.mp3?st=fHRVpN47SV9_wQUsZpUQ3g&e=1631635351",
-      "name": "Phải Chăng Em Đã Yêu?",
-      "url": "https://www.nhaccuatui.com/bai-hat/phai-chang-em-da-yeu-juky-san-ft-redt.MRUP1c69kN0R.html"
-    },
-    {
-      "avatar": "https://avatar-ex-swe.nixcdn.com/song/2020/12/07/e/7/5/9/1607308157174.jpg",
-      "bgImage": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/01/24/a/3/d/e/1516765405718_600.jpg",
-      "coverImage": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/04/3/b/6/d/1620100988545_500.jpg",
-      "creator": "Lê Bảo Bình",
-      "lyric": "https://lrc-nct.nixcdn.com/2020/12/09/c/7/2/e/1607480641266.lrc",
-      "music": "https://aredir.nixcdn.com/NhacCuaTui1008/NiuDuyen-LeBaoBinh-6872127.mp3?st=lko4shQSMGFwqS569HoA_Q&e=1631635351",
-      "name": "Níu Duyên",
-      "url": "https://www.nhaccuatui.com/bai-hat/niu-duyen-le-bao-binh.WxXR1SGXHAR7.html"
+      "type": "top10"
     },
     {
       "avatar": "https://avatar-ex-swe.nixcdn.com/song/2021/08/11/4/7/2/b/1628655927032.jpg",
-      "bgImage": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/08/30/8/3/f/f/1630313898499_600.jpg",
-      "coverImage": "https://avatar-ex-swe.nixcdn.com/playlist/2020/09/16/e/1/f/f/1600244112678_500.jpg",
-      "creator": "Masiu, Masew",
-      "lyric": "https://lrc-nct.nixcdn.com/null",
-      "music": "https://aredir.nixcdn.com/NhacCuaTui1020/CuoiThoi-MasiuMasew-7066112.mp3?st=J7uTIL__hUDQhnW_TT0ymg&e=1631635365",
+      "singer": "Masiu, Masew",
+      "audio": "https://aredir.nixcdn.com/NhacCuaTui1020/CuoiThoi-MasiuMasew-7066112.mp3?st=J7uTIL__hUDQhnW_TT0ymg&e=1631635365",
       "name": "Cưới Thôi",
-      "url": "https://www.nhaccuatui.com/bai-hat/cuoi-thoi-masiu-ft-masew.rIzkZh7nmlr0.html"
+      "type": "top10"
     },
     {
       "avatar": "https://stc-id.nixcdn.com/v11/images/df-singer-300x300.jpg",
-      "bgImage": "",
-      "coverImage": "https://avatar-ex-swe.nixcdn.com/playlist/2020/09/16/e/1/f/f/1600244112678_500.jpg",
-      "creator": "Fishy, Trí Dũng",
-      "lyric": "",
-      "music": "https://aredir.nixcdn.com/NhacCuaTui1021/ForgetMeNowCukakRemix-FishyTriDung-7080307.mp3?st=mMEOmOElhHpiIR6xdSeX3Q&e=1631635365",
+      "singer": "Fishy, Trí Dũng",
+      "audio": "https://aredir.nixcdn.com/NhacCuaTui1021/ForgetMeNowCukakRemix-FishyTriDung-7080307.mp3?st=mMEOmOElhHpiIR6xdSeX3Q&e=1631635365",
       "name": "Forget Me Now (Cukak Remix)",
-      "url": "https://www.nhaccuatui.com/bai-hat/forget-me-now-cukak-remix-fishy-ft-tri-dung.ta9JKljy6wHr.html"
+      "type": "top10"
     },
     {
-      "avatar": "https://avatar-ex-swe.nixcdn.com/song/2021/07/23/0/9/2/3/1627005609739.jpg",
-      "bgImage": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/04/13/6/f/9/6/1618286536520_600.jpg",
-      "coverImage": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/26/b/e/2/9/1622014505032_500.jpg",
-      "creator": "Lil Nas X, Jack Harlow",
-      "lyric": "https://lrc-nct.nixcdn.com/2021/09/06/2/0/d/0/1630910927369.lrc",
-      "music": "https://aredir.nixcdn.com/NhacCuaTui1018/IndustryBaby-LilNasXJackHarlow-7053307.mp3?st=ReIZBfFdpTB_-BZ8_ZzrYA&e=1631635368",
-      "name": "Industry Baby",
-      "url": "https://www.nhaccuatui.com/bai-hat/industry-baby-lil-nas-x-ft-jack-harlow.LbRj9coJQmPA.html"
+      "avatar": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/07/30/0/8/e/1/1596088171189.jpg",
+      "singer": "Huyền Tâm Môn",
+      "audio": "https://aredir.nixcdn.com/NhacCuaTui1017/PhoDaLenDenCukakRemix-HuyenTamMon-7037466.mp3?st=EwOhsvgJwPOrV9zqBjv21g&e=1631635365",
+      "name": "Phố Đã Lên Đèn (Cukak Remix)",
+      "type": "top10"
     },
     {
-      "avatar": "https://avatar-ex-swe.nixcdn.com/song/2021/06/15/0/d/4/2/1623744550647.jpg",
-      "bgImage": "",
-      "coverImage": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/26/b/e/2/9/1622014505032_500.jpg",
-      "creator": "Jax",
-      "lyric": "https://lrc-nct.nixcdn.com/null",
-      "music": "https://aredir.nixcdn.com/NhacCuaTui1021/LikeMyFather-Jax-7087955.mp3?st=wdhZvRHRmFhkyuVUdVx8jQ&e=1631635368",
-      "name": "Like My Father",
-      "url": "https://www.nhaccuatui.com/bai-hat/like-my-father-jax.JiRdMdtvTucS.html"
+      "avatar": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/11/16/6/5/0/2/1605520530526.jpg",
+      "singer": "Bùi Trường Linh",
+      "audio": "https://aredir.nixcdn.com/NhacCuaTui1017/DuongToiChoEmVeCukakRemix-buitruonglinh-7035739.mp3?st=8niqzAovNbqChSt_G2ljtg&e=1631635365",
+      "name": "Đường Tôi Chở Em Về (Cukak Remix)",
+      "type": "top10"
     },
     {
-      "avatar": "https://avatar-ex-swe.nixcdn.com/song/2021/06/11/2/b/b/7/1623382176947.jpg",
-      "bgImage": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/04/13/6/f/9/6/1618284101930_600.jpg",
-      "coverImage": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/26/b/e/2/9/1622014505032_500.jpg",
-      "creator": "Doja Cat",
-      "lyric": "https://lrc-nct.nixcdn.com/2021/08/02/a/e/5/4/1627895935719.lrc",
-      "music": "https://aredir.nixcdn.com/NhacCuaTui1016/DojaCat-DojaCat-7031578.mp3?st=RCQk9i5ixS_15oS2uG_WUw&e=1631635368",
-      "name": "Need To Know",
-      "url": "https://www.nhaccuatui.com/bai-hat/need-to-know-doja-cat.er21vtwjRvVd.html"
+      "avatar": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/13/a/9/8/e/1597287164260.jpg",
+      "singer": "Freaky, Seachains",
+      "audio": "https://aredir.nixcdn.com/NhacCuaTui1017/GuCukakRemix-FreakySeachains-7036047.mp3?st=7DE4i0CEm-j2X5CtPcVgXA&e=1631635365",
+      "name": "Gu (Cukak Remix)",
+      "type": "top10"
     },
     {
-      "avatar": "https://avatar-ex-swe.nixcdn.com/song/2021/05/21/c/1/6/7/1621564103118.jpg",
-      "bgImage": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/14/7/d/d/9/1610591540226_600.jpg",
-      "coverImage": "https://avatar-ex-swe.nixcdn.com/playlist/2021/05/26/b/e/2/9/1622014505032_500.jpg",
-      "creator": "Olivia Rodrigo",
-      "lyric": "https://lrc-nct.nixcdn.com/2021/07/03/e/8/c/7/1625299207928.lrc",
-      "music": "https://aredir.nixcdn.com/NhacCuaTui1016/Happier-OliviaRodrigo-7022374.mp3?st=oYZdjvFABOf3Ly8WJfBOhA&e=1631635368",
-      "name": "Happier",
-      "url": "https://www.nhaccuatui.com/bai-hat/happier-olivia-rodrigo.VPXiH2YrkdAi.html"
+      "avatar": "https://avatar-ex-swe.nixcdn.com/song/2017/11/07/a/1/4/5/1510038809679.jpg",
+      "singer": "The Chainsmokers, Coldplay",
+      "audio": "https://aredir.nixcdn.com/Sony_Audio39/SomethingJustLikeThis-TheChainsmokersColdplay-5337136.mp3?st=yD4wqgH4Pm4ScE2xQCkerQ&e=1631635371",
+      "name": "Something Just Like This",
+      "type": "top10"
+    },
+    {
+      "avatar": "https://avatar-ex-swe.nixcdn.com/song/2018/04/21/8/a/b/9/1524286274187.jpg",
+      "singer": "Avicii",
+      "audio": "https://aredir.nixcdn.com/Unv_Audio41/TheNights-Avicii-3926375.mp3?st=Zgya-LdtoWSIPEx06t2P9g&e=1631635371",
+      "name": "The Nights",
+      "type": "top10"
+    },
+    {
+      "avatar": "https://avatar-ex-swe.nixcdn.com/song/2019/03/21/0/e/4/e/1553133783252.jpg",
+      "singer": "Alan Walker, Sabrina Carpenter, Farruko",
+      "audio": "https://aredir.nixcdn.com/Sony_Audio60/OnMyWay-AlanWalkerSabrinaCarpenterFarruko-5919403.mp3?st=i9SOpai7DFchDfhULSq_UQ&e=1631635371",
+      "name": "On My Way",
+      "type": "top10"
+    },
+    {
+      "avatar": "https://avatar-ex-swe.nixcdn.com/song/2021/08/02/f/d/b/3/1627913895076.jpg",
+      "singer": "W/n, Duongg, Nâu, Titie",
+      "audio": "https://aredir.nixcdn.com/Unv_Audio199/31073-WNDuonggNautitie-7059323.mp3?st=aLj9uX-swNJUByZ7uFeZbg&e=1631635351",
+      "name": "3107 3",
+      "type": "top10"
     }
   ],
   "vn-pop": [
