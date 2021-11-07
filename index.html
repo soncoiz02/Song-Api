@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p class="text"></p>
+    <script>
+        const getData = async () => {
+            try {
+                const res = await fetch('https://api.apify.com/v2/key-value-stores/EJ3Ppyr2t73Ifit64/records/LATEST?fbclid=IwAR28wD-2Cww3JkMMzX3WUJe1vSrsFpz0_Rh3N9Zt3HL_o987k2p_RF1bTgg')
+                const data = await res.json()
+                handleData(data)
+            } catch (error) {
+                console.log(error)
+            }
+        }
+        getData()
+        const handleData = (data) => {
+            console.log(data.songs['top100_VN'])
+            const vnPop = data.songs['top100_VN'][4].songs
+            console.log(vnPop)
+            let songs = vnPop.map((e, i) => {
+                return `{"name": "${e.title}", "singer": "${e.creator}", "avatar": "${e.avatar}", "audio": "${e.music}", "type": "vn-pop"},`
+                // {
+                //     name: ,
+                //     singer: ,
+                //     avatar: e.avatar,
+                //     audio: e.music
+                // }
+            })
+
+            document.querySelector('.text').insertAdjacentHTML('beforeend', songs.join(''))
+        }
+    </script>
+</body>
+
+</html>
