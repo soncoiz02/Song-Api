@@ -13,7 +13,7 @@
     <script>
         const getData = async () => {
             try {
-                const res = await fetch('https://api.apify.com/v2/key-value-stores/EJ3Ppyr2t73Ifit64/records/LATEST?fbclid=IwAR28wD-2Cww3JkMMzX3WUJe1vSrsFpz0_Rh3N9Zt3HL_o987k2p_RF1bTgg')
+                const res = await fetch('https://son-songs-api.herokuapp.com/api/all-songs')
                 const data = await res.json()
                 handleData(data)
             } catch (error) {
@@ -22,11 +22,8 @@
         }
         getData()
         const handleData = (data) => {
-            console.log(data.songs['top100_VN'])
-            const vnPop = data.songs['top100_VN'][4].songs
-            console.log(vnPop)
-            let songs = vnPop.map((e, i) => {
-                return `{"name": "${e.title}", "singer": "${e.creator}", "avatar": "${e.avatar}", "audio": "${e.music}", "type": "vn-pop"},`
+            let songs = data.map((e, i) => {
+                return `{"id": ${i + 1},"name": "${e.name}", "singer": "${e.singer}", "avatar": "${e.avatar}", "audio": "${e.audio}", "type": "${e.type}"},`
                 // {
                 //     name: ,
                 //     singer: ,
@@ -34,7 +31,7 @@
                 //     audio: e.music
                 // }
             })
-
+            console.log(songs)
             document.querySelector('.text').insertAdjacentHTML('beforeend', songs.join(''))
         }
     </script>
